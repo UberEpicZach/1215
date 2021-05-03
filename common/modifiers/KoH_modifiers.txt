@@ -1,0 +1,144 @@
+﻿chivalry = {
+	icon = feast_positive
+}
+chivalry_1 = {
+	icon = feast_positive
+	prowess = 1
+	general_opinion = 2
+	monthly_prestige = 0.2
+	dread_baseline_add = -10
+}
+chivalry_2 = {
+	icon = feast_positive
+	prowess = 2
+	general_opinion = 4 
+	monthly_prestige = 0.4
+	dread_baseline_add = -20
+}
+chivalry_3 = {
+	icon = feast_positive
+	prowess = 3
+	general_opinion = 6
+	monthly_prestige = 0.6
+	dread_baseline_add = -30
+}
+chivalry_4 = {
+	icon = feast_positive
+	prowess = 4
+	general_opinion = 8
+	monthly_prestige = 0.8
+	dread_baseline_add = -40
+}
+chivalry_5 = {
+	icon = feast_positive
+	prowess = 5
+	general_opinion = 10
+	monthly_prestige = 1
+	dread_baseline_add = -50
+}
+chivalry_6 = {
+	icon = feast_positive
+	prowess = 6
+	general_opinion = 12
+	monthly_prestige = 1.2
+	dread_baseline_add = -60
+}
+chivalry_7 = {
+	icon = feast_positive
+	prowess = 7
+	general_opinion = 14
+	monthly_prestige = 1.4
+	dread_baseline_add = -70
+}
+chivalry_8 = {
+	icon = feast_positive
+	prowess = 8
+	general_opinion = 16
+	monthly_prestige = 1.6
+	dread_baseline_add = -80
+}
+chivalry_9 = {
+	icon = feast_positive
+	prowess = 9
+	general_opinion = 18
+	monthly_prestige = 1.8
+	dread_baseline_add = -90
+}
+chivalry_10 = {
+	icon = feast_positive
+	prowess = 10
+	general_opinion = 20
+	monthly_prestige = 2
+	dread_baseline_add = -100
+}
+
+RichardHighTaxes = {
+	icon = feast_negative
+	general_opinion = -10
+}
+
+EmperorVassals = {
+	icon = feast_positive
+	vassal_limit = 30
+}
+
+koh_did_not_hunt_beast = {
+	icon = martial_negative
+	county_opinion_add = -30
+	levy_size = -0.5
+}
+
+koh_mocked_beast = {
+	icon = feast_negative
+	levy_size = -0.4
+	county_opinion_add = -10
+}
+
+BraverThenADragon = {
+	icon = martial_positive
+	prowess = 5
+}
+
+koh_levies_occupied = {
+	icon = martial_negative
+	levy_size = -0.3
+}
+
+koh_offerings_to_a_cave = {
+	icon = stress_negative
+	monthly_income_mult = -0.2
+}
+
+koh_ravaged_by_unknown_force = {
+	icon = martial_negative
+	county_opinion_add = -30
+	change_county_control = -50
+	development_growth_factor = large_development_growth_loss
+}
+
+dynasty_guelph = {
+	icon = martial_positive
+}
+
+dynasty_ghibelline = {
+	icon = martial_positive
+}
+
+koh_free_investiture = {
+	icon = martial_positive
+}
+
+koh_papal_investiture = {
+	icon = martial_positive
+}
+
+koh_assassins = {
+	icon = martial_positive
+	knight_limit = 10
+}
+
+koh_governs_vast_estates = {
+	icon = feast_positive
+	monthly_income = 1
+	scale = council_scaled_monthly_income
+}

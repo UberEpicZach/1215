@@ -1,0 +1,110 @@
+﻿house_cognac = {
+    name = "dynn_Cognac"
+	prefix = "dynnp_de"
+    dynasty = 106 #(Plantagenet)
+}
+house_ponthieu = {
+	name = "dynn_Ponthieu"
+	prefix = "dynnp_de"
+	dynasty = 751 #(Montgomery)
+}
+house_longespee = {
+	name = "dynn_LongespE_e"
+	dynasty = 106 #(Plantagenet)
+}
+
+house_dreux = {
+	prefix = "dynnp_de"
+	name = "dynn_Dreux"
+	dynasty = KOHD0005 #(Capet)
+}
+
+house_courtenay = {
+	name = "dynn_Courtenay"
+	prefix = "dynnp_de"
+	dynasty = KOHD0005 #(Capet)
+}
+
+house_vermandois = {
+	name = "dynn_Vermandois"
+	prefix = "dynnp_de"
+	dynasty = KOHD0005 #(Capet)
+}
+
+house_bourgogne = {
+	prefix = "dynnp_de"
+	name = "dynn_Bourgogne"
+	dynasty = KOHD0005 #(Capet)
+}
+
+house_artois = {
+	prefix = "dynnp_d_"
+	name = "dynn_Artois"
+	dynasty = KOHD0005 #(Capet)
+}
+
+house_clermont = {
+	prefix = "dynnp_de"
+	name = "dynn_Clermont"
+	dynasty = KOHD0005 #(Capet)
+}
+
+house_chalon = {
+	prefix = "dynnp_de"
+	name = "dynn_Chalon"
+	dynasty = 40022 #(Semur)
+}
+
+house_brabant = {
+	name = "dynn_Brabant"
+	prefix = "dynnp_de"
+	dynasty = 7198 #(Reginar)
+}
+
+house_fife = {
+	name = "dynn_Fife"
+	prefix = "dynnp_of"
+	dynasty = 1687 #Dunkeld
+}
+
+house_london = {
+	name = "dynn_London"
+	prefix = "dynnp_of"
+	dynasty = 1687 #Dunkeld
+}
+
+house_galightly = {
+	name = "dynn_Galightly"
+	dynasty = 1687 #Dunkeld
+}
+house_fitzwilliam = {
+	name = "dynn_Fitzwilliam"
+	dynasty = 1687 #Dunkeld
+}
+house_william = {
+	name = "dynn_William"
+	prefix = "dynnp_mac"
+	dynasty = 1687 #Dunkeld
+}
+house_Lechsgemund = {
+	name = "dynn_Lechsgemund"
+	dynasty = 653
+	prefix = "dynnp_von"
+}
+house_dampierre_en_astenois = {
+	name = "dynn_Dampierre_en_Astenois"
+	prefix = "dynnp_de"
+	dynasty = KOHD0013 #Toul
+}
+
+house_raabs = {
+	name = "dynn_raabs"
+	dynasty = 7220
+	prefix = "dynnp_von"
+}
+
+house_cuijk_arnsberg = {
+	name = "dynn_cuijk_Arnsberg"
+	dynasty = KOH_D_018
+	prefix = "dynnp_von"
+}
