@@ -1,0 +1,126 @@
+mrnjavamrnjavcevic = {
+    name = "Nenad"
+    dynasty = mrnjavcevic
+    religion = orthodox
+    culture = serbian
+
+    father= mrnjan
+    1290.1.1 = {
+        birth = yes
+    }
+    1345.1.1 = {
+        death = yes
+    }
+}
+serbia_001 = {
+    name = "Jovan"
+    dynasty = mrnjavcevic
+    religion = orthodox
+    culture = serbian
+
+    father= mrnjavamrnjavcevic
+    1320.1.1 = {
+        birth = yes
+    }
+    1371.1.1 = {
+        death = yes
+    }
+}
+serbia_002 = {
+    name = "Vukasin"
+    dynasty = mrnjavcevic
+    religion = orthodox
+    culture = serbian
+
+    father= mrnjavamrnjavcevic
+    1321.1.1 = {
+        birth = yes
+    }
+    1371.1.1 = {
+        death = yes
+    }
+}
+serbia_003 = {
+    name = "Gojko"
+    dynasty = mrnjavcevic
+    religion = orthodox
+    culture = serbian
+
+    father= mrnjavamrnjavcevic
+    1322.1.1 = {
+        birth = yes
+    }
+    1371.1.1 = {
+        death = yes
+    }
+}
+mrnjan = {
+    name = "Mrnjan"
+    dynasty = mrnjavcevic
+    religion = orthodox
+    culture = serbian
+    1250.1.1 = {
+        birth = yes
+    }
+    1300.1.1 = {
+        death = yes
+    }
+}
+afonsoraposo = {
+    name = "Afonso"
+    dynasty =  400 
+    religion = catholic
+    culture = portuguese
+
+    mother=  72821 
+
+    father=  142045 
+    1280.1.1 = {
+        birth = yes
+    }
+    1340.1.1 = {
+        death = yes
+    }
+}
+portugal_001 = {
+    name = "Martim"
+    dynasty =  400 
+    religion = catholic
+    culture = portuguese
+
+    father= afonsoraposo
+    1310.1.1 = {
+        birth = yes
+    }
+    1356.1.1 = {
+        death = yes
+    }
+}
+portugal_002 = {
+    name = "Joao"
+    dynasty =  400 
+    religion = catholic
+    culture = portuguese
+
+    father= afonsoraposo
+    1315.1.1 = {
+        birth = yes
+    }
+    1381.1.1 = {
+        death = yes
+    }
+}
+portugal_003 = {
+    name = "Maria"
+    dynasty =  400 
+    religion = catholic
+    culture = portuguese
+
+    father= afonsoraposo
+    1320.1.1 = {
+        birth = yes
+    }
+    1407.1.1 = {
+        death = yes
+    }
+}

@@ -1,0 +1,620 @@
+stafford_1000 = {
+    name = "Anne"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1001 #Edmund
+    1401.1.1 = {
+        birth = yes
+    }
+    1432.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1002 = {
+    name = "Anne"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1003 #Humphrey
+    1446.1.1 = {
+        birth = yes
+    }
+    1472.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1004 = {
+    name = "Beatrice"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1005 #Ralph
+    1341.1.1 = {
+        birth = yes
+    }
+    1415.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1006 = {
+    name = "Edmund"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1007 #Robert
+    1248.1.1 = {
+        birth = yes
+    }
+    1298.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1008 = {
+    name = "Edmund"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1009 #Nicholas
+    1272.1.1 = {
+        birth = yes
+    }
+    1308.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1010 = {
+    name = "Edmund"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1011 #Richard
+    1344.1.1 = {
+        birth = yes
+    }
+    1419.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1001 = {
+    name = "Edmund"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1012 #Hugh
+    1377.1.1 = {
+        birth = yes
+    }
+    1403.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1013 = {
+    name = "Elizabeth"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1005 #Ralph
+    1340.1.1 = {
+        birth = yes
+    }
+    1376.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1014 = {
+    name = "George"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1003 #Humphrey
+    1439.1.1 = {
+        birth = yes
+    }
+    1439.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1015 = {
+    name = "Harvey"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    1164.1.1 = {
+        birth = yes
+    }
+    1214.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1016 = {
+    name = "Harvey"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1015 #Harvey
+    1189.1.1 = {
+        birth = yes
+    }
+    1237.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1017 = {
+    name = "Harvey"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1016 #Harvey
+    1215.1.1 = {
+        birth = yes
+    }
+    1241.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1018 = {
+    name = "Henry"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1003 #Humphrey
+    1426.1.1 = {
+        birth = yes
+    }
+    1471.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1012 = {
+    name = "Hugh"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1005 #Ralph
+    1336.1.1 = {
+        birth = yes
+    }
+    1386.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1019 = {
+    name = "Hugh"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1012 #Hugh
+    1382.1.1 = {
+        birth = yes
+    }
+    1420.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1003 = {
+    name = "Humphrey"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1001 #Edmund
+    1402.1.1 = {
+        birth = yes
+    }
+    1460.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1020 = {
+    name = "Humphrey"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1003 #Humphrey
+    1425.1.1 = {
+        birth = yes
+    }
+    1458.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1021 = {
+    name = "Isabella"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1007 #Robert
+    1245.1.1 = {
+        birth = yes
+    }
+    1295.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1022 = {
+    name = "Joan"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1005 #Ralph
+    1329.1.1 = {
+        birth = yes
+    }
+    1373.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1023 = {
+    name = "Joan"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1005 #Ralph
+    1344.1.1 = {
+        birth = yes
+    }
+    1397.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1024 = {
+    name = "Joan"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1012 #Hugh
+    1378.1.1 = {
+        birth = yes
+    }
+    1402.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1025 = {
+    name = "Joan"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1003 #Humphrey
+    1442.1.1 = {
+        birth = yes
+    }
+    1484.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1026 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1003 #Humphrey
+    1427.1.1 = {
+        birth = yes
+    }
+    1473.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1027 = {
+    name = "Katherine"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1005 #Ralph
+    1348.1.1 = {
+        birth = yes
+    }
+    1361.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1028 = {
+    name = "Katherine"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1011 #Richard
+    1348.1.1 = {
+        birth = yes
+    }
+    1398.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1029 = {
+    name = "Katherine"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1012 #Hugh
+    1376.1.1 = {
+        birth = yes
+    }
+    1419.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1030 = {
+    name = "Katherine"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1003 #Humphrey
+    1437.1.1 = {
+        birth = yes
+    }
+    1476.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1031 = {
+    name = "Margaret"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1005 #Ralph
+    1331.1.1 = {
+        birth = yes
+    }
+    1396.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1032 = {
+    name = "Margaret"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1012 #Hugh
+    1364.1.1 = {
+        birth = yes
+    }
+    1396.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1033 = {
+    name = "Margaret"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1003 #Humphrey
+    1435.1.1 = {
+        birth = yes
+    }
+    1485.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1034 = {
+    name = "Maud"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 25063 #Stafford
+    father = stafford_1011 #Richard
+    1345.1.1 = {
+        birth = yes
+    }
+    1397.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1009 = {
+    name = "Nicholas"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1007 #Robert
+    1239.1.1 = {
+        birth = yes
+    }
+    1287.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1005 = {
+    name = "Ralph"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1008 #Edmund
+    1301.1.1 = {
+        birth = yes
+    }
+    1336.1.1 = {
+	add_spouse = 454611
+    }
+    1372.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1035 = {
+    name = "Ralph"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1005 #Ralph
+    1337.1.1 = {
+        birth = yes
+    }
+    1347.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1036 = {
+    name = "Ralph"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1012 #Hugh
+    1367.1.1 = {
+        birth = yes
+    }
+    1385.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1011 = {
+    name = "Richard"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1008 #Edmund
+    1305.1.1 = {
+        birth = yes
+    }
+    1380.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1037 = {
+    name = "Richard"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1011 #Richard
+    1339.1.1 = {
+        birth = yes
+    }
+    1372.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1007 = {
+    name = "Robert"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1016 #Harvey
+    1214.1.1 = {
+        birth = yes
+    }
+    1261.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1038 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1011 #Richard
+    1346.1.1 = {
+        birth = yes
+    }
+    1397.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1039 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1012 #Hugh
+    1368.1.1 = {
+        birth = yes
+    }
+    1392.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1040 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1038 #Thomas
+    1382.1.1 = {
+        birth = yes
+    }
+    1425.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1041 = {
+    name = "William"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1012 #Hugh
+    1375.1.1 = {
+        birth = yes
+    }
+    1395.1.1 = {
+        death = yes
+    }
+}
+
+stafford_1042 = {
+    name = "William"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 25063 #Stafford
+    father = stafford_1003 #Humphrey
+    1439.1.1 = {
+        birth = yes
+    }
+    1439.1.1 = {
+        death = yes
+    }
+}

@@ -1,0 +1,84 @@
+gediminid_1000 = {
+    name = "Konstantinas"
+    dynasty =  11 
+    religion = baltic_pagan
+    culture = lithuanian
+
+    father=  473509 
+    1335.1.1 = {
+        birth = yes
+    }
+    1392.1.1 = {
+        death = yes
+    }
+}
+gediminid_1001 = {
+    name = "Jurgis"
+    dynasty =  11 
+    religion = baltic_pagan
+    culture = lithuanian
+
+    father=  473509 
+    1330.1.1 = {
+        birth = yes
+    }
+    1375.1.1 = {
+        death = yes
+    }
+}
+gediminid_1002 = {
+    name = "Teodoras"
+    dynasty =  11 
+    religion = baltic_pagan
+    culture = lithuanian
+
+    father=  473509 
+    1331.1.1 = {
+        birth = yes
+    }
+    1414.1.1 = {
+        death = yes
+    }
+}
+gediminid_1003 = {
+    name = "Aleksandras "
+    dynasty =  11 
+    religion = baltic_pagan
+    culture = lithuanian
+
+    father=  473509 
+    1332.1.1 = {
+        birth = yes
+    }
+    1380.1.1 = {
+        death = yes
+    }
+}
+gediminid_1004 = {
+    name = "Simeonas"
+    dynasty =  11 
+    religion = baltic_pagan
+    culture = lithuanian
+
+    father=  473509 
+    1334.1.1 = {
+        birth = yes
+    }
+    1399.1.1 = {
+        death = yes
+    }
+}
+gediminid_1005 = {
+    name = "Aikštas"
+    dynasty =  11 
+    religion = baltic_pagan
+    culture = lithuanian
+
+    father=  473509 
+    1333.1.1 = {
+        birth = yes
+    }
+    1390.1.1 = {
+        death = yes
+    }
+}

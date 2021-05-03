@@ -1,0 +1,5 @@
+porhoet = {
+	prefix = "dynnp_de"
+	name = "Porhoët"
+	culture = "breton"
+}

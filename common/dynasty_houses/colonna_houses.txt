@@ -1,0 +1,20 @@
+colonna_gallicano = {
+	name = "Colonna-Gallicano"
+	dynasty = "colonna"
+}
+colonna_sciarra = {
+	name = "Colonna-Sciarra"
+	dynasty = "colonna"
+}
+colonna_palestrina = {
+	name = "Colonna-Palestrina"
+	dynasty = "colonna"
+}
+colonna_riofreddo = {
+	name = "Colonna-Riofreddo"
+	dynasty = "colonna"
+}
+colonna_genazzano = {
+	name = "Colonna-Genazzano"
+	dynasty = "colonna"
+}

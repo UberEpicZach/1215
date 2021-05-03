@@ -1,0 +1,2725 @@
+# Limoges {
+	CKU_limoges_1 = {
+		name = "Foucher"
+		religion = catholic
+		culture = occitan
+		dynasty = CKU_limoges
+		#father = Unknown
+		#mother = Unknown
+		# Married Unknown
+		836.1.1 = {
+			birth = yes
+		}
+		886.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_2 = {
+		name = "Hildebert"
+		religion = catholic
+		culture = occitan
+		dynasty = CKU_limoges
+		father = CKU_limoges_1
+		#mother = Unknown
+		# Married Unknown
+		863.1.1 = {
+			birth = yes
+		}
+		914.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_3 = {
+		name = "Hildegaire"
+		religion = catholic
+		culture = occitan
+		dynasty = CKU_limoges
+		father = CKU_limoges_2
+		#mother = Unknown
+		# Married Unknown
+		888.1.1 = {
+			birth = yes
+		}
+		943.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_4 = {
+		name = "Géraud"
+		religion = catholic
+		culture = occitan
+		dynasty = CKU_limoges
+		father = CKU_limoges_3
+		#mother = Unknown
+		# Married Rothilde
+		941.1.1 = {
+			birth = yes
+		}
+		988.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_5 = {
+		name = "Guy"
+		religion = catholic
+		culture = occitan
+		dynasty = CKU_limoges
+		father = CKU_limoges_4
+		#mother = Rothilde
+		# Married Unknown
+		962.1.1 = {
+			birth = yes
+		}
+		1025.10.27 = {
+			death = yes
+		}
+	}
+	CKU_limoges_6 = {
+		name = "Adémar"
+		religion = catholic
+		culture = occitan
+		dynasty = CKU_limoges
+		father = CKU_limoges_5
+		#mother = Unknown
+		# Married Unknown
+		990.1.1 = {
+			birth = yes
+		}
+		1036.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_7 = {
+		name = "Adémar"
+		religion = catholic
+		culture = occitan
+		dynasty = CKU_limoges
+		father = CKU_limoges_6
+		#mother = Unknown
+		# Married Humberge de Angoulême
+		1023.1.1 = {
+			birth = yes
+		}
+		1090.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_8 = {
+		name = "Humberge"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty = CKU_limoges
+		father = CKU_limoges_7
+		#mother = Humberge de Angoulême
+		# Married Archambaud IV de Comborn
+		1090.1.1 = {
+			birth = yes
+		}
+		1138.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_9 = {
+		name = "Adémar"
+		religion = catholic
+		culture = occitan
+		dynasty = CKU_limoges
+		father = CKU_limoges_7
+		#mother = Humberge de Angoulême
+		# Married Unknown
+		1085.1.1 = {
+			birth = yes
+		}
+		1139.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_10 = {
+		name = "Hugues"
+		religion = catholic
+		culture = occitan
+		dynasty = CKU_limoges
+		father = CKU_limoges_1
+		#mother = Unknown
+		# Married Unknown
+		870.1.1 = {
+			birth = yes
+		}
+		937.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_11 = {
+		name = "Archambaud"
+		religion = catholic
+		culture = occitan
+		dynasty = CKU_limoges
+		father = CKU_limoges_10
+		#mother = Unknown
+		# Married Unknown
+		910.1.1 = {
+			birth = yes
+		}
+		959.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_12 = {
+		name = "Archambaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_11
+		#mother = Unknown
+		# Married Unknown
+		934.1.1 = {
+			birth = yes
+		}
+		996.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_13 = {
+		name = "Ebles"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_12
+		#mother = Unknown
+		# Married Béatrice de Normandie
+		953.1.1 = {
+			birth = yes
+		}
+		1030.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_14 = {
+		name = "Archambaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_13
+		#mother = Béatrice de Normandie
+		# Married Rothberge de Rochechouart
+		1013.1.1 = {
+			birth = yes
+		}
+		1060.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_15 = {
+		name = "Guillaume"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_13
+		#mother = Béatrice de Normandie
+		# Married Mathilde
+		1005.1.1 = {
+			birth = yes
+		}
+		1055.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_16 = {
+		name = "Archambaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_14
+		#mother = Rothberge de Rochechouart
+		# Married Unknown
+		1034.1.1 = {
+			birth = yes
+		}
+		1086.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_17 = {
+		name = "Ebles"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_14
+		#mother = Rothberge de Rochechouart
+		# Married Almodie de Montberon
+		1035.1.1 = {
+			birth = yes
+		}
+		1080.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_18 = {
+		name = "Bernard"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_14
+		#mother = Rothberge de Rochechouart
+		# Married Unknown
+		1038.1.1 = {
+			birth = yes
+		}
+		1090.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_19 = {
+		name = "Archambaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_18
+		#mother = Unknown
+		# Married Humberge de Limoges
+		1060.1.1 = {
+			birth = yes
+		}
+		1124.1.1 = {
+			add_spouse = CKU_limoges_8
+		}
+		1147.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_20 = {
+		name = "Guy"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_19
+		mother = CKU_limoges_8
+		# Married Marquise de la Marche
+		1125.1.1 = {
+			birth = yes
+		}
+		1148.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_21 = {
+		name = "Adémar"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_19
+		mother = CKU_limoges_8
+		# Married Marguerite de Turenne
+		1127.1.1 = {
+			birth = yes
+		}
+		1143.1.1 = {
+			add_spouse = CKU_limoges_49
+		}
+		1148.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_22 = {
+		name = "Archambaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_19
+		mother = CKU_limoges_8
+		# Married ????
+		1130.1.1 = {
+			birth = yes
+		}
+		1185.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_23 = {
+		name = "Adémar"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_21
+		# mother = Marguerite de Turenne
+		# Married Sarah de Cornouailles
+		1147.1.1 = {
+			birth = yes
+		}
+		1199.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_24 = {
+		name = "Guy"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_23
+		# mother = Sarah de Cornouailles
+		# Married Ermengarde
+		1180.1.1 = {
+			birth = yes
+		}
+		1230.3.29 = {
+			death = yes
+		}
+	}
+	CKU_limoges_25 = {
+		name = "Guy"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_24
+		# mother = Ermengarde
+		# Married Unknown de Blaison
+		# Married Marguerite de Bourgogne
+		1213.1.1 = {
+			birth = yes
+		}
+		1263.8.16 = {
+			death = yes
+		}
+	}
+	CKU_limoges_26 = {
+		name = "Marie"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_25
+		# mother = Marguerite de Bourgogne
+		# Married Arthur de Dreux
+		1260.1.1 = {
+			birth = yes
+		}
+		1290.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_27 = {
+		name = "Archambaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_22
+		# mother = Marguerite de Turenne
+		# Married Unknown
+		1160.1.1 = {
+			birth = yes
+		}
+		1238.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_28 = {
+		name = "Bernard"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_27
+		# mother = Unknown
+		# Married Marguerite de Turenne
+		1190.1.1 = {
+			birth = yes
+		}
+		1207.1.1 = {
+			add_spouse = CKU_limoges_55
+		}
+		1256.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_29 = {
+		name = "Archambaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_28
+		mother = CKU_limoges_55
+		# Married Marie de Limoges
+		# Married Marguerite de Pons
+		1220.1.1 = {
+			birth = yes
+		}
+		1277.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_30 = {
+		name = "Bernard"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_29
+		# mother = Marguerite de Pons
+		# Married Unknown
+		1270.1.1 = {
+			birth = yes
+		}
+		1320.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_31 = {
+		name = "Archambaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_30
+		# mother = Unknown
+		# Married Unknown
+		1310.1.1 = {
+			birth = yes
+		}
+		1367.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_32 = {
+		name = "Archambaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_31
+		# mother = Unknown
+		# Married Unknown
+		1331.1.1 = {
+			birth = yes
+		}
+		1380.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_33 = {
+		name = "Guy"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_29
+		# mother = Marie de Limoges
+		# Married Unknown
+		1250.1.1 = {
+			birth = yes
+		}
+		1285.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_34 = {
+		name = "Archambaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_33
+		# mother = Unknown
+		# Married Unknown
+		1254.1.1 = {
+			birth = yes
+		}
+		1292.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_35 = {
+		name = "Eustachie"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_33
+		# mother = Unknown
+		# Married Échivard de Preuilly
+		1255.1.1 = {
+			birth = yes
+		}
+		1304.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_36 = {
+		name = "Marie"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_33
+		# mother = Unknown
+		# Married Guichard II de Comborn
+		1259.1.1 = {
+			birth = yes
+		}
+		1336.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_37 = {
+		name = "Guichard"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_27
+		# mother = Unknown
+		# Married Unknown
+		1195.1.1 = {
+			birth = yes
+		}
+		1255.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_38 = {
+		name = "Hélie"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_37
+		# mother = Unknown
+		# Married Unknown
+		1220.1.1 = {
+			birth = yes
+		}
+		1270.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_39 = {
+		name = "Guichard"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_38
+		# mother = Unknown
+		# Married Isabelle de Blanchefort
+		# Married Marie de Comborn
+		1250.1.1 = {
+			birth = yes
+		}
+		1275.1.1 = {
+			add_spouse = CKU_limoges_36
+		}
+		1323.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_40 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_39
+		mother = CKU_limoges_36
+		# Married Blanche de Ventadour
+		1277.1.1 = {
+			birth = yes
+		}
+		1346.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_41 = {
+		name = "Guichard"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_40
+		# mother = Blanche de Ventadour
+		# Married Unknown
+		1305.1.1 = {
+			birth = yes
+		}
+		1367.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_42 = {
+		name = "Guichard"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_41
+		# mother = Unknown
+		# Married Unknown
+		1347.11.3 = {
+			birth = yes
+		}
+		1415.10.25 = {
+			death = yes
+		}
+	}
+	CKU_limoges_43 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_42
+		# mother = Unknown
+		# Married Jeanne de Rochechouart
+		1395.1.1 = {
+			birth = yes
+		}
+		1480.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_44 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_43
+		# mother = Jeanne de Rochechouart
+		# Married Jeanne de Maignelais
+		1440.1.1 = {
+			birth = yes
+		}
+		1487.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_45 = {
+		name = "Boson"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_15
+		#mother = Mathilde
+		# Married Gerberge de Terrasson
+		1035.1.1 = {
+			birth = yes
+		}
+		1091.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_46 = {
+		name = "Raimond"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_45
+		#mother = Gerberge de Terrasson
+		# Married Mathilde du Perche
+		1067.1.1 = {
+			birth = yes
+		}
+		1121.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_47 = {
+		name = "Alpaïde"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_45
+		#mother = Gerberge de Terrasson
+		# Married Bernard de Armagnac
+		1070.1.1 = {
+			birth = yes
+		}
+		1120.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_48 = {
+		name = "Boson"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_46
+		#mother = Mathilde du Perche
+		# Married Eustorgie Anduze
+		1095.1.1 = {
+			birth = yes
+		}
+		1143.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_49 = {
+		name = "Marguerite"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_46
+		#mother = Mathilde du Perche
+		# Married Aymar IV Limoges-Comborn
+		# Married Ebles III Ventadour 
+		# Married Guillaume VI de Angoulême
+		1110.1.1 = {
+			birth = yes
+		}
+		1186.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_50 = {
+		name = "Raimond"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_48
+		#mother = Eustorgie Anduze
+		# Married Helis de Castelnau
+		1125.1.1 = {
+			birth = yes
+		}
+		1175.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_51 = {
+		name = "Raimond"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_50
+		#mother = Helis de Castelnau
+		# Married Helis de Severac
+		1150.1.1 = {
+			birth = yes
+		}
+		1200.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_52 = {
+		name = "Boson"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_51
+		#mother = Helis de Severac
+		# Married Unknown
+		1175.1.1 = {
+			birth = yes
+		}
+		1225.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_53 = {
+		name = "Raimond"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_51
+		#mother = Helis de Severac
+		# Married Helis de Auvergne
+		1178.1.1 = {
+			birth = yes
+		}
+		1200.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_54 = {
+		name = "Raimond"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_51
+		#mother = Helis de Severac
+		# Married Alamande de Malcmort
+		1185.1.1 = {
+			birth = yes
+		}
+		1247.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_55 = {
+		name = "Marguerite"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_52
+		#mother = Unknown
+		# Married Bernard de Comborn
+		1200.1.1 = {
+			birth = yes
+		}
+		1250.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_56 = {
+		name = "Dauphine"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_52
+		#mother = Unknown
+		# Married Raimond de Roquefueil
+		1205.1.1 = {
+			birth = yes
+		}
+		1255.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_57 = {
+		name = "Raimond"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_54
+		#mother = Alamande de Malcmort
+		# Married Agathe de Pons
+		# Married Laure de Chabanais
+		1215.1.1 = {
+			birth = yes
+		}
+		1285.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_58 = {
+		name = "Raimond"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_57
+		#mother = Agathe de Pons
+		# Married Létice
+		# Married Jeanne de Brienne
+		1240.1.1 = {
+			birth = yes
+		}
+		1304.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_59 = {
+		name = "Marguerite"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_58
+		#mother = Létice
+		# Married Bernard VI de Cominges
+		1270.1.1 = {
+			birth = yes
+		}
+		1320.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_60 = {
+		name = "Jacques"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_42
+		# mother = Unknown
+		1405.1.1 = {
+			birth = yes
+		}
+		1474.2.15 = {
+			death = yes
+		}
+	}
+	CKU_limoges_61 = {
+		name = "Pierre"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_42
+		# mother = Unknown
+		1407.1.1 = {
+			birth = yes
+		}
+		1467.9.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_62 = {
+		name = "Ebles"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_17
+		#mother = Almodie de Montberon
+		# Married Agnès de Montluçon 
+		1075.1.1 = {
+			birth = yes
+		}
+		1155.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_63 = {
+		name = "Ebles"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_62
+		#mother = Agnès de Montluçon 
+		# Married Alix de Montpellier
+		1110.1.1 = {
+			birth = yes
+		}
+		1170.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_64 = {
+		name = "Ebles"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_63
+		#mother = Alix de Montpellier
+		# Married Sibylle de La Faye
+		1140.1.1 = {
+			birth = yes
+		}
+		1214.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_65 = {
+		name = "Ebles"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_64
+		#mother = Sibylle de La Faye
+		# Married Marie de Limoges
+		# Married Marguerite de Turenne
+		1175.1.1 = {
+			birth = yes
+		}
+		1205.1.1 = {
+			add_spouse = CKU_limoges_66
+		}
+		1236.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_66 = {
+		name = "Marguerite"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_turenne
+		father = CKU_limoges_54
+		#mother = Alamande de Malcmort
+		# Married Ebles de Ventadour
+		1190.1.1 = {
+			birth = yes
+		}
+		1240.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_67 = {
+		name = "Ebles"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_65
+		mother = CKU_limoges_66
+		# Married Delphine de La Tour
+		1210.1.1 = {
+			birth = yes
+		}
+		1265.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_68 = {
+		name = "Ebles"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_67
+		# mother = Delphine de La Tour
+		# Married Blanche de Châteauneuf
+		1235.1.1 = {
+			birth = yes
+		}
+		1297.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_69 = {
+		name = "Hélie"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_68
+		# mother = Blanche de Châteauneuf
+		# Married Marguerite de Beaujeu
+		1265.1.1 = {
+			birth = yes
+		}
+		1328.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_70 = {
+		name = "Ebles"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_69
+		# mother = Marguerite de Beaujeu
+		# Married Unknown
+		1300.1.1 = {
+			birth = yes
+		}
+		1328.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_71 = {
+		name = "Bernard"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_69
+		# mother = Marguerite de Beaujeu
+		# Married Marguerite de Beaumont
+		1305.1.1 = {
+			birth = yes
+		}
+		1389.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_72 = {
+		name = "Robert"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_71
+		# mother = Marguerite de Beaumont
+		# Married Isabelle de Beauregard
+		1335.1.1 = {
+			birth = yes
+		}
+		1407.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_73 = {
+		name = "Jacques"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_72
+		# mother = Isabelle de Beauregard
+		# Married Jeanne de Torsay
+		1395.1.1 = {
+			birth = yes
+		}
+		1424.8.17 = {
+			death = yes
+		}
+	}
+	CKU_limoges_74 = {
+		name = "Marguerite"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_73
+		# mother = Jeanne de Torsay
+		# Married Jean de Mello
+		1420.1.1 = {
+			birth = yes
+		}
+		1470.8.17 = {
+			death = yes
+		}
+	}
+	CKU_limoges_75 = {
+		name = "Charles"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_72
+		# mother = Isabelle de Beauregard
+		# Married Marie de Pierrebuffière
+		1400.1.1 = {
+			birth = yes
+		}
+		1486.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_76 = {
+		name = "Louis"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_75
+		# mother = Marie de Pierrebuffière
+		# Married Catherine Roger de Beaufort
+		1425.1.1 = {
+			birth = yes
+		}
+		1500.12.23 = {
+			death = yes
+		}
+	}
+	CKU_limoges_77 = {
+		name = "Ranulphe"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_1
+		#mother = Unknown
+		# Married Godolinde
+		872.1.1 = {
+			birth = yes
+		}
+		934.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_78 = {
+		name = "Rainaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_77
+		#mother = Godolinde
+		# Married Alsinde
+		915.1.1 = {
+			birth = yes
+		}
+		958.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_79 = {
+		name = "Ranulphe"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_78
+		#mother = Alsinde
+		# Married Unknown
+		955.1.1 = {
+			birth = yes
+		}
+		1031.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_80 = {
+		name = "Ranulphe"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_79
+		#mother = Unknown
+		# Married Unknown
+		990.1.1 = {
+			birth = yes
+		}
+		1060.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_81 = {
+		name = "Rainaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_80
+		#mother = Unknown
+		# Married Adélaïs de Huriel
+		1025.1.1 = {
+			birth = yes
+		}
+		1069.3.30 = {
+			death = yes
+		}
+	}
+	CKU_limoges_82 = {
+		name = "Guillaume"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_81
+		#mother = Adélaïs de Huriel
+		# Married Agnès
+		1060.1.1 = {
+			birth = yes
+		}
+		1106.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_83 = {
+		name = "Ranulphe"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_81
+		#mother = Adélaïs de Huriel
+		# Married Unknown
+		1065.1.1 = {
+			birth = yes
+		}
+		1110.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_85 = {
+		name = "Rainaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_82
+		#mother = Agnès
+		# Married Unknown
+		1090.1.1 = {
+			birth = yes
+		}
+		1150.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_86 = {
+		name = "Rainaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_85
+		#mother = Agnès
+		# Married Matabrune de Ventadour
+		1130.1.1 = {
+			birth = yes
+		}
+		1160.1.1 = {
+			add_spouse = CKU_limoges_87
+		}
+		1201.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_87 = {
+		name = "Matabrune"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_ventadour
+		father = CKU_limoges_63
+		#mother = Alix de Montpellier
+		# Married Rainaud de Aubusson
+		1142.1.1 = {
+			birth = yes
+		}
+		1210.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_88 = {
+		name = "Guy"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_86
+		mother = CKU_limoges_87
+		# Married Assalide de Comborn
+		# Married Jourdaine de Périgord
+		1165.1.1 = {
+			birth = yes
+		}
+		1185.1.1 = {
+			add_spouse = CKU_limoges_89
+		}
+		1194.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_89 = {
+		name = "Assalide"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_19
+		mother = CKU_limoges_8
+		# Married Guy de Aubusson
+		1140.1.1 = {
+			birth = yes
+		}
+		1190.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_90 = {
+		name = "Renaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_88
+		mother = CKU_limoges_89
+		# Married Abel
+		1186.1.1 = {
+			birth = yes
+		}
+		1249.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_91 = {
+		name = "Guy"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_90
+		# mother = Abel
+		# Married Ahci
+		1200.1.1 = {
+			birth = yes
+		}
+		1266.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_92 = {
+		name = "Ranulphe"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_90
+		# mother = Abel
+		# Married Unknown
+		1205.1.1 = {
+			birth = yes
+		}
+		1277.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_93 = {
+		name = "Aldengarde"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_91
+		# mother = Ahci
+		# Married Henri de Beaujeu
+		# Married Raoul de la Roche de Agoul
+		1240.1.1 = {
+			birth = yes
+		}
+		1290.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_94 = {
+		name = "Guillaume"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_92
+		# mother = Unknown
+		# Married Guillemette
+		1235.1.1 = {
+			birth = yes
+		}
+		1317.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_95 = {
+		name = "Renaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_94
+		# mother = Guillemette
+		# Married Marguerite
+		1275.1.1 = {
+			birth = yes
+		}
+		1353.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_96 = {
+		name = "Guy"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_95
+		# mother = Marguerite
+		# Married Marguerite de Ventadour
+		1310.1.1 = {
+			birth = yes
+		}
+		1364.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_97 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_96
+		# mother = Marguerite de Ventadour
+		# Married Guyonne de Monteruc
+		1350.1.1 = {
+			birth = yes
+		}
+		1420.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_98 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_97
+		# mother = Guyonne de Monteruc
+		# Married Marguerite de Chauveron
+		1375.1.1 = {
+			birth = yes
+		}
+		1446.2.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_99 = {
+		name = "Renaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_97
+		# mother = Guyonne de Monteruc
+		# Married Marguerite de Comborn
+		1378.1.1 = {
+			birth = yes
+		}
+		1412.9.4 = {
+			add_spouse = CKU_limoges_100
+		}
+		1433.2.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_100 = {
+		name = "Marguerite"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_comborn
+		father = CKU_limoges_42
+		# mother = Unknown
+		# Married Renaud de Aubusson
+		1398.1.1 = {
+			birth = yes
+		}
+		1480.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_101 = {
+		name = "Guillaume"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_97
+		# mother = Guyonne de Monteruc
+		# Married Marguerite
+		1390.1.1 = {
+			birth = yes
+		}
+		1460.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_102 = {
+		name = "Guy"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_97
+		# mother = Guyonne de Monteruc
+		# Married Arsene-Louise Hélie de Villac
+		1398.1.1 = {
+			birth = yes
+		}
+		1481.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_103 = {
+		name = "Louis"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_97
+		# mother = Guyonne de Monteruc
+		1395.1.1 = {
+			birth = yes
+		}
+		1468.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_104 = {
+		name = "Jacques"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_97
+		# mother = Guyonne de Monteruc
+		1392.1.1 = {
+			birth = yes
+		}
+		1468.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_105 = {
+		name = "Gilles"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_97
+		# mother = Guyonne de Monteruc
+		1382.1.1 = {
+			birth = yes
+		}
+		1445.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_106 = {
+		name = "Antoine"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_97
+		# mother = Guyonne de Monteruc
+		1397.1.1 = {
+			birth = yes
+		}
+		1468.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_107 = {
+		name = "Jeanne"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_97
+		# mother = Guyonne de Monteruc
+		# Married Bertrand
+		1385.1.1 = {
+			birth = yes
+		}
+		1452.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_108 = {
+		name = "Catherine"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_97
+		# mother = Guyonne de Monteruc
+		# Married Nicolas
+		1387.1.1 = {
+			birth = yes
+		}
+		1455.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_109 = {
+		name = "Marguerite"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_97
+		# mother = Guyonne de Monteruc
+		# Married Unknown
+		1388.1.1 = {
+			birth = yes
+		}
+		1450.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_110 = {
+		name = "Marie"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_97
+		# mother = Guyonne de Monteruc
+		1390.1.1 = {
+			birth = yes
+		}
+		1460.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_111 = {
+		name = "Philippe"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_97
+		# mother = Guyonne de Monteruc
+		# Married Jean de Gontaut
+		1401.1.1 = {
+			birth = yes
+		}
+		1470.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_112 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_98
+		# mother = Marguerite de Chauveron
+		# Married Agnes de Saint-Georges
+		1400.1.1 = {
+			birth = yes
+		}
+		1471.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_113 = {
+		name = "Audouin"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_98
+		# mother = Marguerite de Chauveron
+		1402.1.1 = {
+			birth = yes
+		}
+		1463.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_114 = {
+		name = "Antoine"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_98
+		# mother = Marguerite de Chauveron
+		# Married Marguerite de Aubusson(?)
+		1404.1.1 = {
+			birth = yes
+		}
+		1459.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_115 = {
+		name = "Guyot"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_98
+		# mother = Marguerite de Chauveron
+		1405.1.1 = {
+			birth = yes
+		}
+		1471.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_116 = {
+		name = "Souveraine"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_98
+		# mother = Marguerite de Chauveron
+		# Married Guillaume-Daniel de Murault
+		1406.1.1 = {
+			birth = yes
+		}
+		1456.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_117 = {
+		name = "Jacques"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_112
+		# mother = Agnes de Saint-Georges
+		# Married Jeanne de Vivonne
+		1425.1.1 = {
+			birth = yes
+		}
+		1475.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_118 = {
+		name = "Marguerite"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_112
+		# mother = Agnes de Saint-Georges
+		# Married Andre Foucault
+		1430.1.1 = {
+			birth = yes
+		}
+		1480.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_119 = {
+		name = "Isabelle"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_112
+		# mother = Agnes de Saint-Georges
+		# Married Guillaume de Rochefort
+		# Married Amaury de Fontenay
+		1433.1.1 = {
+			birth = yes
+		}
+		1485.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_120 = {
+		name = "Antoine"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_99
+		mother = CKU_limoges_100
+		# Married Marguerite de Villequier
+		# Married Louise de Peyre
+		1415.1.1 = {
+			birth = yes
+		}
+		1470.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_121 = {
+		name = "Hugues"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_99
+		mother = CKU_limoges_100
+		1418.1.1 = {
+			birth = yes
+		}
+		1454.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_122 = {
+		name = "Louis"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_99
+		mother = CKU_limoges_100
+		1424.1.1 = {
+			birth = yes
+		}
+		1471.9.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_123 = {
+		name = "Guichard"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_99
+		mother = CKU_limoges_100
+		1425.1.1 = {
+			birth = yes
+		}
+		1489.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_124 = {
+		name = "Pierre"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_99
+		mother = CKU_limoges_100
+		trait = brave
+		trait = zealous
+		trait = impatient
+		trait = faith_warrior
+		1423.1.1 = {
+			birth = yes
+		}
+		1503.7.3 = {
+			death = yes
+		}
+	}
+	CKU_limoges_125 = {
+		name = "Souveraine"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_99
+		mother = CKU_limoges_100
+		# Married Guy de Blanchefort
+		1426.1.1 = {
+			birth = yes
+		}
+		1476.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_126 = {
+		name = "Louis"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_101
+		# mother = Marguerite
+		# Married Catherine de Rochechouart
+		1440.1.1 = {
+			birth = yes
+		}
+		1500.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_127 = {
+		name = "Jacques"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_101
+		# mother = Marguerite
+		1442.1.1 = {
+			birth = yes
+		}
+		1519.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_128 = {
+		name = "Gilles"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_101
+		# mother = Marguerite
+		1443.1.1 = {
+			birth = yes
+		}
+		1473.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_129 = {
+		name = "Gilles"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_102
+		# mother = Arsene-Louise Hélie de Villac
+		# Married Jeanne de Reynel
+		1441.1.1 = {
+			birth = yes
+		}
+		1515.8.10 = {
+			death = yes
+		}
+	}
+	CKU_limoges_130 = {
+		name = "Berard"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_aubusson
+		father = CKU_limoges_102
+		# mother = Arsene-Louise Hélie de Villac
+		1443.1.1 = {
+			birth = yes
+		}
+		1508.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_131 = {
+		name = "Hildegaire"
+		religion = catholic
+		culture = occitan
+		dynasty = CKU_limoges
+		father = CKU_limoges_4
+		#mother = Rothilde
+		964.1.1 = {
+			birth = yes
+		}
+		990.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_132 = {
+		name = "Alduin"
+		religion = catholic
+		culture = occitan
+		dynasty = CKU_limoges
+		father = CKU_limoges_4
+		#mother = Rothilde
+		968.1.1 = {
+			birth = yes
+		}
+		1014.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_133 = {
+		name = "Aimery"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_4
+		#mother = Rothilde
+		# Married Ava de Angoulême
+		970.1.1 = {
+			birth = yes
+		}
+		1036.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_134 = {
+		name = "Bernard"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_6
+		#mother = Unknown
+		# Married Unknown de Bridiers
+		1025.1.1 = {
+			birth = yes
+		}
+		1105.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_135 = {
+		name = "Géraud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_134
+		#mother = Unknown de Bridiers
+		# Married Agnès de Liveran
+		1050.1.1 = {
+			birth = yes
+		}
+		1136.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_136 = {
+		name = "Bernard"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_135
+		#mother = Agnès de Liveran
+		# Married Unknown
+		1105.1.1 = {
+			birth = yes
+		}
+		1168.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_137 = {
+		name = "Bernard"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_136
+		#mother = Unknown
+		# Married Unknown
+		1135.1.1 = {
+			birth = yes
+		}
+		1198.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_138 = {
+		name = "Hugues"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_137
+		#mother = Unknown
+		# Married Unknown
+		1185.1.1 = {
+			birth = yes
+		}
+		1256.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_139 = {
+		name = "Guillaume"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_137
+		#mother = Unknown
+		1190.1.1 = {
+			birth = yes
+		}
+		1268.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_140 = {
+		name = "Hugues"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_138
+		#mother = Unknown
+		# Married Isabelle de Deols
+		1215.1.1 = {
+			birth = yes
+		}
+		1270.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_141 = {
+		name = "Roger"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_138
+		#mother = Unknown
+		# Married Marguerite de Deols
+		1220.1.1 = {
+			birth = yes
+		}
+		1287.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_142 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_140
+		#mother = Isabelle de Deols
+		# Married Unknown
+		1240.1.1 = {
+			birth = yes
+		}
+		1290.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_143 = {
+		name = "Jeanne"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_142
+		#mother = Isabelle de Deols
+		# Married Audre de Chauvigny
+		1270.1.1 = {
+			birth = yes
+		}
+		1348.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_144 = {
+		name = "Pierre"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_141
+		#mother = Marguerite de Deols
+		# Married Blanche de Sancerre
+		1245.1.1 = {
+			birth = yes
+		}
+		1305.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_145 = {
+		name = "Guillaume"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_141
+		#mother = Marguerite de Deols
+		1255.1.1 = {
+			birth = yes
+		}
+		1338.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_146 = {
+		name = "Louis"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_144
+		#mother = Blanche de Sancerre
+		# Married Jeanne de Saint-Verain
+		# Married Conflance de La Tour
+		1290.1.1 = {
+			birth = yes
+		}
+		1356.9.19 = {
+			death = yes
+		}
+	}
+	CKU_limoges_147 = {
+		name = "Marguerite"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_146
+		#mother = Jeanne de Saint-Verain
+		# Married Guillaume de Comptour
+		1320.1.1 = {
+			birth = yes
+		}
+		1370.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_148 = {
+		name = "Blanche"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_146
+		#mother = Jeanne de Saint-Verain
+		# Married Guy de Chauvigny
+		1323.1.1 = {
+			birth = yes
+		}
+		1373.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_149 = {
+		name = "Louis"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_146
+		#mother = Conflance de La Tour
+		# Married Marie de Harcourt
+		1340.1.1 = {
+			birth = yes
+		}
+		1390.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_150 = {
+		name = "Pierre"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_146
+		#mother = Conflance de La Tour
+		# Married Marguerite de Malleval
+		1345.1.1 = {
+			birth = yes
+		}
+		1422.7.28 = {
+			death = yes
+		}
+	}
+	CKU_limoges_151 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_150
+		#mother = Marguerite de Malleval
+		# Married Jeanne de Naillac
+		1376.1.1 = {
+			birth = yes
+		}
+		1433.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_152 = {
+		name = "Catherine"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_150
+		#mother = Marguerite de Malleval
+		# Married Blain Loup
+		1385.1.1 = {
+			birth = yes
+		}
+		1466.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_153 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_151
+		#mother = Jeanne de Naillac
+		# Married Nicole de Blois
+		1423.1.1 = {
+			birth = yes
+		}
+		1437.6.18 = {
+			add_spouse = CKU_chatillon_10
+		}
+		1482.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_154 = {
+		name = "Marguerite"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_151
+		#mother = Jeanne de Naillac
+		# Married Germain de Vivonne
+		1415.1.1 = {
+			birth = yes
+		}
+		1460.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_155 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_brosse
+		father = CKU_limoges_153
+		mother = CKU_chatillon_10
+		# Married Louise de Laval
+		1443.1.1 = {
+			birth = yes
+		}
+		1502.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_156 = {
+		name = "Aimery"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_133
+		#mother = Ava de Angoulême
+		# Married Ermessinde de Champagnac
+		995.1.1 = {
+			birth = yes
+		}
+		1047.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_157 = {
+		name = "Aimery"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_156
+		#mother = Ermessinde de Champagnac
+		# Married Alpaïs de Salaignac
+		1025.1.1 = {
+			birth = yes
+		}
+		1075.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_158 = {
+		name = "Aimery"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_157
+		#mother = Alpaïs de Salaignac
+		# Married Marguerite
+		1040.1.1 = {
+			birth = yes
+		}
+		1120.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_159 = {
+		name = "Aimery"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_158
+		#mother = Marguerite
+		# Married Unknown
+		1095.1.1 = {
+			birth = yes
+		}
+		1170.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_160 = {
+		name = "Aimery"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_159
+		#mother = Unknown
+		# Married Luce de Pérusse
+		1150.1.1 = {
+			birth = yes
+		}
+		1230.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_161 = {
+		name = "Aimery"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_160
+		#mother = Luce de Pérusse
+		# Married Alix de Mortemart
+		1180.1.1 = {
+			birth = yes
+		}
+		1243.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_162 = {
+		name = "Aimery"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_161
+		#mother = Alix de Mortemart
+		# Married Jeanne de Tonnay-Charente
+		1220.1.1 = {
+			birth = yes
+		}
+		1283.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_163 = {
+		name = "Guillaume"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart # Mortemart!!!!!!!!
+		father = CKU_limoges_161
+		#mother = Alix de Mortemart
+		# Married Unknown
+		1215.1.1 = {
+			birth = yes
+		}
+		1280.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_164 = {
+		name = "Aimery"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_162
+		#mother = Jeanne de Tonnay-Charente
+		# Married Jeanne de Vivonne
+		1245.1.1 = {
+			birth = yes
+		}
+		1280.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_165 = {
+		name = "Aimery"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_164
+		#mother = Jeanne de Vivonne
+		# Married Unknown
+		1271.1.1 = {
+			birth = yes
+		}
+		1306.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_166 = {
+		name = "Foucaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_162
+		#mother = Jeanne de Tonnay-Charente
+		1270.1.1 = {
+			birth = yes
+		}
+		1343.8.7 = {
+			death = yes
+		}
+	}
+	CKU_limoges_167 = {
+		name = "Simon"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_162
+		#mother = Jeanne de Tonnay-Charente
+		# Married Laure de Chabanais
+		1275.1.1 = {
+			birth = yes
+		}
+		1318.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_168 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_167
+		#mother = Laure de Chabanais
+		# Married Jeanne de Sully
+		1300.1.1 = {
+			birth = yes
+		}
+		1356.12.19 = {
+			death = yes
+		}
+	}
+	CKU_limoges_169 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_168
+		#mother = Jeanne de Sully
+		1330.1.1 = {
+			birth = yes
+		}
+		1398.12.13 = {
+			death = yes
+		}
+	}
+	CKU_limoges_170 = {
+		name = "Louis"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_168
+		#mother = Jeanne de Sully
+		# Married Marie
+		1305.1.1 = {
+			birth = yes
+		}
+		1370.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_171 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_170
+		#mother = Marie
+		# Married Aénor de Mathefelon
+		1356.1.1 = {
+			birth = yes
+		}
+		1413.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_172 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_171
+		#mother = Aénor de Mathefelon
+		# Married Unknown
+		1356.1.1 = {
+			birth = yes
+		}
+		1413.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_173 = {
+		name = "Geoffroy"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_171
+		#mother = Aénor de Mathefelon
+		# Married Marguerite Chenin de Mauzé
+		1375.1.1 = {
+			birth = yes
+		}
+		1440.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_174 = {
+		name = "Foucaud"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_173
+		#mother = Marguerite Chenin de Mauzé
+		# Married Isabeau de Surgères
+		1411.1.1 = {
+			birth = yes
+		}
+		1472.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_175 = {
+		name = "Jeanne"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_173
+		#mother = Marguerite Chenin de Mauzé
+		# Married Foucauld de La Rochefoucauld
+		1407.1.1 = {
+			birth = yes
+		}
+		1460.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_176 = {
+		name = "Anne"
+		female = yes
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_174
+		#mother = Isabeau de Surgères
+		# Married Jean de Pontville
+		1430.1.1 = {
+			birth = yes
+		}
+		1494.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_177 = {
+		name = "Geoffroy"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_172
+		#mother = Unknown
+		# Married Isabelle Brachet
+		1405.1.1 = {
+			birth = yes
+		}
+		1481.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_178 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_172
+		#mother = Unknown
+		# Married Anne de Chaunay
+		1407.1.1 = {
+			birth = yes
+		}
+		1473.1.1 = {
+			death = yes
+		}
+	}
+	CKU_limoges_179 = {
+		name = "Jean"
+		religion = catholic
+		culture = occitan
+		dynasty_house = house_limoges_rochechouart
+		father = CKU_limoges_178
+		#mother = Anne de Chaunay
+		# Married Anne de Chevenon
+		1440.1.1 = {
+			birth = yes
+		}
+		1498.1.1 = {
+			death = yes
+		}
+	}
+# }

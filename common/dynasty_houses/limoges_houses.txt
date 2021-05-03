@@ -1,0 +1,31 @@
+# Limoges
+house_limoges_comborn = {
+	prefix = "dynnp_de"
+	name = "Comborn"
+	dynasty = CKU_limoges
+}
+house_limoges_turenne = {
+	prefix = "dynnp_de"
+	name = "Turenne"
+	dynasty = CKU_limoges
+}
+house_limoges_ventadour = {
+	prefix = "dynnp_de"
+	name = "Ventadour"
+	dynasty = CKU_limoges
+}
+house_limoges_aubusson = {
+	prefix = "dynnp_de"
+	name = "Aubusson"
+	dynasty = CKU_limoges
+}
+house_limoges_brosse = {
+	prefix = "dynnp_de"
+	name = "Brosse"
+	dynasty = CKU_limoges
+}
+house_limoges_rochechouart = {
+	prefix = "dynnp_de"
+	name = "Rochechouart"
+	dynasty = CKU_limoges
+}

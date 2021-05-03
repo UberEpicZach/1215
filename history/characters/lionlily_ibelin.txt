@@ -1,0 +1,369 @@
+10002000 = {
+    name = "Marguerite"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+    female = yes
+
+    father=  144175 
+    1307.1.1 = {
+        birth = yes
+    }
+    1357.1.1 = {
+        death = yes
+    }
+}
+10002001 = {
+    name = "Philippe"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+
+    father=  144168 
+    1253.1.1 = {
+        birth = yes
+    }
+    1318.1.1 = {
+        death = yes
+    }
+}
+10002002 = {
+    name = "Jean"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+
+    father=  10002001 
+    1302.1.1 = {
+        birth = yes
+    }
+    1317.1.1 = {
+        death = yes
+    }
+}
+10002003 = {
+    name = "Guy"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+
+    father=  10002001 
+    1303.1.1 = {
+        birth = yes
+    }
+    1350.1.1 = {
+        death = yes
+    }
+}
+10002004 = {
+    name = "Balian"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+
+    father=  10002001 
+    1304.1.1 = {
+        birth = yes
+    }
+    1349.1.1 = {
+        death = yes
+    }
+}
+10002005 = {
+    name = "Isabelle"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+    female = yes
+
+    father=  10002001 
+    1300.1.1 = {
+        birth = yes
+    }
+    1342.1.1 = {
+        death = yes
+    }
+}
+10002006 = {
+    name = "Eschive"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+    female = yes
+
+    father=  10002001 
+    1307.1.1 = {
+        birth = yes
+    }
+    1347.1.1 = {
+        death = yes
+    }
+}
+10002007 = {
+    name = "Philippe"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+
+    father=  144188 
+    1290.1.1 = {
+        birth = yes
+    }
+    1316.1.1 = {
+        death = yes
+    }
+}
+10002008 = {
+    name = "Hugues"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+
+    father=  144188 
+    1291.1.1 = {
+        birth = yes
+    }
+    1349.1.1 = {
+        death = yes
+    }
+}
+10002009 = {
+    name = "Balian"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+
+    father=  144188 
+    1292.1.1 = {
+        birth = yes
+    }
+    1342.1.1 = {
+        death = yes
+    }
+}
+10002010 = {
+    name = "Hugues"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+
+    father=  10002007 
+    1315.1.1 = {
+        birth = yes
+    }
+    1355.1.1 = {
+        death = yes
+    }
+}
+10002011 = {
+    name = "Balian"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+
+    father=  10002008 
+    1321.1.1 = {
+        birth = yes
+    }
+    1352.1.1 = {
+        death = yes
+    }
+}
+10002012 = {
+    name = "Guy"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+
+    father=  10002008 
+    1322.1.1 = {
+        birth = yes
+    }
+    1363.1.1 = {
+        death = yes
+    }
+}
+10002013 = {
+    name = "Balian"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+
+    father=  10002012 
+    1338.1.1 = {
+        birth = yes
+    }
+    1388.1.1 = {
+        death = yes
+    }
+}
+10002014 = {
+    name = "Jean"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+
+    father=  10002012 
+    1340.1.1 = {
+        birth = yes
+    }
+    1375.1.1 = {
+        death = yes
+    }
+}
+10002015 = {
+    name = "Marie"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+    female = yes
+
+    father=  10002012 
+    1342.1.1 = {
+        birth = yes
+    }
+    1392.1.1 = {
+        death = yes
+    }
+}
+10002016 = {
+    name = "Jean"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+
+    father=  10002003 
+    1319.1.1 = {
+        birth = yes
+    }
+    1369.1.1 = {
+        death = yes
+    }
+}
+10002017 = {
+    name = "Alice"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+    female = yes
+
+    father=  10002003 
+    1320.1.1 = {
+        birth = yes
+    }
+    1370.1.1 = {
+        death = yes
+    }
+}
+10002018 = {
+    name = "Marguerite"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+    female = yes
+
+    father=  10002003 
+    1321.1.1 = {
+        birth = yes
+    }
+    1371.1.1 = {
+        death = yes
+    }
+}
+10002019 = {
+    name = "Jean"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+    father=  144159 
+    1211.1.1 = {
+        birth = yes
+    }
+    1258.1.1 = {
+        death = yes
+    }
+}
+10002020 = {
+    name = "Jean"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+    father=  10002019 
+    1239.1.1 = {
+        birth = yes
+    }
+    1277.1.1 = {
+        death = yes
+    }
+}
+10002021 = {
+    name = "Jean"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+    father=  10002020 
+    1269.1.1 = {
+        birth = yes
+    }
+    1309.1.1 = {
+        death = yes
+    }
+}
+10002022 = {
+    name = "Balian"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+    father=  10002021 
+    1301.1.1 = {
+        birth = yes
+    }
+    1351.1.1 = {
+        death = yes
+    }
+}
+10002023 = {
+    name = "Marguerite"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+    father=  10002021 
+	female = yes
+    1302.1.1 = {
+        birth = yes
+    }
+	1320.1.1 = {
+		add_spouse = 10002004
+	}
+    1352.1.1 = {
+        death = yes
+    }
+}
+10002024 = {
+    name = "Lucia"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+    father=  10002021 
+	female = yes
+    1303.1.1 = {
+        birth = yes
+    }
+    1353.1.1 = {
+        death = yes
+    }
+}
+10002025 = {
+    name = "Alice"
+    dynasty =  23102 
+    religion = catholic
+    culture = french
+    father=  10002021 
+	female = yes
+    1304.1.1 = {
+        birth = yes
+    }
+    1354.1.1 = {
+        death = yes
+    }
+}

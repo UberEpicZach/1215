@@ -1,0 +1,1360 @@
+461700 = {
+	name = "Robert" # Robert the Wise, king of Naples
+	dna = dna_naples
+	dynasty_house = house_anjou
+	martial = 8
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = french
+	trait = patient
+	trait = physician_3
+	trait = august
+	trait = calm
+	trait = poet
+	trait = scholar
+	trait = diplomat
+	trait = education_learning_4
+	trait = theologian
+	father = 461710
+	mother = 461711
+	1277.1.2 = {
+		birth = "1277.1.2"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1297.1.24 = {
+		add_spouse = 460592
+	}
+	1309.1.1 = {
+		add_spouse = 460610
+	}
+	1337.1.1 = {
+		give_nickname = nick_new_solomon
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1343.1.20 = {
+		death = "1343.1.20"
+	}
+}
+
+461703 = {
+	name = "Jeanne"
+	dna = dna_joanna_naples
+	female = yes
+	dynasty_house = house_anjou
+	religion = "catholic"
+	culture = french
+	trait = beauty_good_3
+	father = 461701
+	mother = 461702
+	1326.1.29 = {
+		birth = "1326.1.29"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1334.1.1 = {
+		effect = {
+			create_betrothal = character:469513
+		}
+	}
+	1376.1.29 = {
+		death = "1376.1.29"
+	}
+}
+
+455784 = {
+	name = "Charles" # Charles de Blois
+	dynasty = 23113
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = french
+	trait = education_martial_3
+	trait = zealous
+	trait = chaste
+	trait = flagellant
+	father = 455781
+	mother = 455511
+	1319.1.2 = {
+		birth = "1319.1.2"
+	}
+	1337.5.1 = {
+		add_spouse = 455753
+	}
+	1369.1.2 = {
+		death = "1369.1.2"
+	}
+}
+
+461717 = {
+	name = "Catherine" # Latin Empress, Catherine de Valois-Courtenay
+	female = yes
+	dynasty_house = house_valois
+	martial = 5
+	diplomacy = 9
+	intrigue = 8
+	stewardship = 9
+	religion = "catholic"
+	culture = french
+	trait = education_intrigue_4
+	trait = ambitious
+	trait = greedy
+	trait = deceitful
+	trait = callous
+	father = 455512
+	mother = 32791 # Catherine de Courtenay
+	1303.1.1 = {
+		birth = "1303.1.1"
+	}
+	1335.1.1 = {
+		set_relation_lover = niccoloacciaiuoli
+		add_pressed_claim = e_latin_empire
+	}
+	1346.10.1 = {
+		death = "1346.10.1"
+	}
+}
+
+170258 = {
+	name = "Muhammad" # Muhammad b. Tughluq, Delhi sultan
+	dynasty = 1040208
+	dna = muhammadbtughluq
+	religion = "ashari"
+	culture = "turkish"
+	father = 170257
+	mother = motherofmbt
+	trait = ambitious
+	trait = administrator
+	trait = arrogant
+	trait = cynical
+	trait = diligent
+	trait = whole_of_body
+	trait = education_martial_3
+	trait = education_martial_prowess_3
+	trait = brave
+	trait = generous
+	trait = overseer
+	trait = vengeful
+	trait = scholar
+	trait = chaste
+	trait = temperate
+	trait = physician_2
+	trait = theologian
+	1297.1.1 = {
+		birth = "1297.1.1"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1325.1.1 = {
+		give_nickname = nick_shadow_god
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1351.3.20 = {
+		death = "1351.3.20"
+	}
+}
+
+485000 = {
+	name = "Nasir_ad-Din_Muhammad"
+	dynasty = 762
+	martial = 4
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 7
+	religion = "ashari"
+	culture = "egyptian"
+	sexuality = homosexual
+	trait = just
+	trait = education_stewardship_4
+	trait = generous
+	trait = improvident
+	trait = architect
+	trait = pilgrim
+	trait = administrator
+	trait = august
+	father = 32936
+	mother = ashlun
+	1285.1.1 = {
+		birth = "1285.1.1"
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+			set_relation_friend = character:maliktamur
+			set_relation_friend = character:qawsun
+			set_relation_friend = character:tankiz
+		}
+		give_nickname = nick_the_victorious
+	}
+	1343.1.1 = {
+		death = "1343.1.1"
+	}
+}
+
+451500 = {
+	name = "Valdemar" # 'Atterdag'
+	dynasty = 487
+	martial = 8
+	diplomacy = 9
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "danish"
+	trait = diligent
+	trait = education_learning_2
+	father = 451520 # Christoffer II
+	mother = 451521
+	1320.1.1 = {
+		birth = "1320.1.1"
+	}
+	1337.1.1 = {
+		give_nickname = nick_the_dawnbringer
+	}
+	1375.10.24 = {
+		death = "1375.10.24"
+	}
+}
+
+450500 = {
+	name = "Magnus" # Magnus IV of Sweden
+	# AKA: Magnus Eriksson
+	dna=magnusiv
+	dynasty_house = house_royal_bjalbo
+	religion = "catholic"
+	culture = "swedish"
+	trait = generous
+	trait = shy
+	trait = beauty_good_2
+	trait = content
+	trait = reclusive
+	trait = profligate
+	trait = education_diplomacy_1
+	fertility = 20
+	sexuality = homosexual
+	father = 450501 # Duke Erik Magnusson
+	mother = 452505
+	1316.4.20 = {
+		birth = "1316.4.20"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1335.1.2 = {
+		add_spouse = 455942
+		give_nickname = nick_the_caresser
+	}
+	1374.12.1 = {
+		death = "1374.12.1"
+	}
+}
+
+32251 = {
+	name = "Gabre_Maskal" # Negus of Ethiopia
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = zealous
+	trait = faith_warrior
+	trait = holy_warrior
+	trait = education_martial_4
+	father = 32250
+	1280.1.1 = {
+		birth = "1280.1.1"
+	}
+	1315.1.1 = {
+		add_spouse = 32256
+	}
+	1320.1.1 = {
+		add_spouse = 32257
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1344.1.1 = {
+		death = "1344.1.1"
+	}
+}
+
+454500 = {
+	name = "Edward" # Edward III of England
+	dna = edwardiiiportrait
+	dynasty = 106
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "english"
+	trait = just
+	trait = arrogant
+	trait = education_martial_prowess_4
+	trait = gregarious
+	trait = forgiving
+	trait = chaste
+	trait = athletic
+	trait = whole_of_body
+	trait = ambitious
+	trait = education_martial_3
+	trait = gallant
+	trait = family_first
+	trait = brave
+	father = 454510
+	mother = 455525
+	1312.11.13 = {
+		birth = "1312.11.13"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1328.1.1 = {
+		add_spouse = 455611
+	}
+	1328.2.1 = {
+		add_pressed_claim = k_france
+		add_pressed_claim = d_aquitaine
+		add_pressed_claim = d_poitou
+		add_pressed_claim = d_normandy
+		give_nickname = nick_young_lion
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+			spawn_army = {
+				name = event_troop_default_name
+				levies = 8000
+				location = 1527
+				inheritable = yes
+			}
+		}
+		set_relation_friend = character:454030
+		set_relation_friend = character:williamclinton
+		set_relation_friend = character:ralphstafford
+		set_relation_friend = character:455515
+	}
+	1377.6.21 = {
+		death = "1377.6.21"
+	}
+}
+
+412078 = {
+	name = "Mastino" # Mastino della Scala, lord of Verona
+	dna = mastinodellascalaportrait
+	dynasty = 13032
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "italian"
+	trait = lustful
+	trait = callous
+	trait = ambitious
+	trait = education_martial_3
+	father = 412070
+	mother = 412085
+	1308.1.1 = {
+		birth = "1308.1.1"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1327.1.1 = {
+		add_spouse = 412079
+		give_nickname = nick_the_mastiff
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1351.1.1 = {
+		death = "1351.1.1"
+	}
+}
+
+466500 = {
+	name = "Giorgi" # George of Georgia
+	# AKA: Giorgi 'Brtskinvale'
+	dynasty = 507
+	martial = 8
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = deceitful
+	trait = diligent
+	trait = brave
+	trait = education_intrigue_3
+	trait = chaste
+	father = 466501
+	mother = 466502
+	1287.1.2 = {
+		birth = "1287.1.2"
+	}
+	1337.1.1 = {
+		give_nickname = nick_the_brilliant
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1346.1.1 = {
+		death = "1346.1.1"
+	}
+}
+
+457500 = {
+	name = "Alfonso" #AKA: Alfonso XI 'el Justiciero'
+	dynasty = borgona
+	martial = 5
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = "castilian"
+	trait = callous
+	trait = cynical
+	trait = deceitful
+	trait = vengeful
+	trait = education_intrigue_3
+	father = 457520
+	mother = 459511
+	1311.8.13 = {
+		birth = "1311.8.13"
+	}
+	1325.11.28 = {
+		add_spouse = 457631
+	}
+	1326.1.1 = {
+		give_nickname = nick_the_avenger
+	}
+	1327.1.1 = {
+		remove_spouse = 457631
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1328.1.1 = {
+		add_spouse = 459502
+	}
+	1350.3.26 = {
+		death = "1350.3.26"
+	}
+}
+
+480000 = {
+	name = "O_zbeg"
+	dynasty = 11100
+	religion = "tengri_pagan"
+	culture = "mongol"
+	father = 125513
+	1282.1.1 = {
+		birth = "1282.1.1"
+	}
+	1313.1.1 = {
+		religion = "ashari"
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1341.1.1 = {
+		death = "1341.1.1"
+	}
+}
+
+459500 = {
+	name = "Afonso" # Afonso IV the Brave
+	dynasty = borgonha # de Bourgogne
+	dna = dna_portugal
+	religion = "catholic"
+	culture = "portuguese"
+	trait = brave
+	trait = education_martial_2
+	father = 459510
+	mother = 460591
+	1291.2.8 = {
+		birth = "1291.2.8"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1309.9.12 = {
+		add_spouse = 457534
+		give_nickname = nick_the_brave
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+		set_relation_friend = character:72637
+	}
+	1357.5.29 = {
+		death = "1357.5.29"
+	}
+}
+
+129014 = {
+	name = "Raoul" # Raoul the Valiant, duke of Lorraine
+	dynasty = 667
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 3
+	religion = "catholic"
+	culture = french
+	trait = education_martial_3
+	trait = brave
+	father = 129013
+	mother = 462043
+	1320.1.2 = {
+		birth = "1320.1.2"
+	}
+	1329.1.1 = {
+		add_spouse = 454521
+	}
+	1334.1.1 = {
+		add_spouse = 455785
+	}
+	1337.1.1 = {
+		give_nickname = nick_the_valiant
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1346.8.26 = {
+		death = "1346.8.26"
+	}
+}
+
+455710 = {
+	name = "Louis" #Louis I de Flandre
+	dna = dna_flanders
+	dynasty = 92 #Dampierre
+	religion = "catholic"
+	culture = french
+	father = 455711 #Louis de Flandre
+	mother = 455720
+	trait=arrogant
+	trait=brave
+	trait=greedy
+	trait=stubborn
+	trait=education_martial_1
+	1304.1.1 = {
+		birth = "1304.1.1"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1320.1.1 = {
+		add_spouse = 455508
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1346.8.25 = {
+		death = "1346.8.25"
+	}
+}
+
+455910 = {
+	name = "Eudes" # Burgundy
+	dna = dna_burgundy
+	dynasty_house = house_burgundy
+	martial = 8
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = french
+	trait = education_martial_3
+	father = 455535
+	mother = 455830
+	1295.1.2 = {
+		birth = "1295.1.2"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1316.1.1 = {
+		add_pressed_claim = k_thessalonika
+		add_pressed_claim = d_thessalonika
+		add_pressed_claim = c_thessalonika
+		add_pressed_claim = d_achaia
+	}
+	1318.1.1 = {
+		add_spouse = 455913
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+			add_realm_law = male_only_law
+		}
+	}
+	1347.1.2 = {
+		death = "1347.1.2"
+	}
+}
+
+487044 = {
+	name = "Jan"
+	dynasty_house = house_brabant_lothier
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "dutch"
+	trait = lustful
+	trait = education_martial_2
+	trait = education_martial_prowess_4
+	father = 487042
+	mother = 487043
+	1300.10.20 = {
+		birth = "1300.10.20"
+
+	}
+	1316.12.1 = {
+		add_spouse = 487045
+		give_nickname = nick_the_triumphator
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+		remove_claim = k_england
+	}
+	1355.12.5 = {
+		death = "1355.12.5"
+	}
+}
+
+463152 = {
+	name = "BernabO_" # Bernabò Visconti
+	dynasty = 234
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "cisalpine"
+	trait = lustful
+	trait = wrathful
+	trait = fecund
+	trait = greedy
+	trait = vengeful
+	trait = ambitious
+	trait = education_intrigue_3
+	trait = cynical
+
+	father = 463148
+	mother = 463149
+
+	1321.1.1 = {
+		birth = yes
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1385.12.18 = {
+		death = {
+			death_reason = death_poison
+		}
+	}
+}
+
+475550 = {
+	name = "Basarab"
+	dynasty = 764
+	martial = 4
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "orthodox"
+	culture = "vlach"
+	trait = arbitrary
+	trait = zealous
+	trait = ambitious
+	trait = education_martial_3
+	father = 475560
+	1282.1.1 = {
+		birth = "1282.1.1"
+	}
+	1303.1.1 = {
+		add_spouse = 475551
+	}
+	1337.1.1 = {
+		give_nickname = nick_the_great
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1352.1.1 = {
+		death = "1352.1.1"
+	}
+}
+
+471500 = {
+	name = "Kazimierz"
+	dna = casimirdna
+	dynasty = 699
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 9
+	religion = "catholic"
+	culture = "polish"
+	trait = intellect_good_3
+	trait = just
+	trait = architect
+	trait = administrator
+	trait = lustful
+	trait = ambitious
+	trait = education_stewardship_4
+	father = 471510
+	mother = 471555
+	1310.4.30 = {
+		birth = "1310.4.30"
+		give_nickname = "nick_the_great"
+		effect = {
+          		add_character_flag = has_scripted_appearance
+        }
+	}
+	1325.1.2 = {
+		add_spouse = 471503
+	}
+	1370.11.5 = {
+		death = "1370.11.5"
+	}
+}
+
+462740 = {
+	name = "Ludwig" # Louis the Bavarian, HRE
+	dna=louisthebavarianportrait
+	dynasty = 217
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = bavarian
+	trait = temperate
+	trait = arrogant
+	trait = diligent
+	trait = education_intrigue_1
+	father = 462750
+	mother = 462751
+	1282.4.1 = {
+		birth = "1282.4.1"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1309.1.2 = {
+		add_spouse = 161902 # Beatrycza of Schweidnitz
+	}
+	1324.2.25 = {
+		add_spouse = 462741
+		give_nickname = nick_the_bavarian
+		set_relation_friend = character:462020
+		set_relation_rival = character:462610
+		set_relation_rival = character:455500 # Philip of France
+	}
+	1347.10.11 = {
+		death = "1347.10.11"
+	}
+}
+
+455750 = {
+	name = "Jean" #Jean III le Bon de Bretagne
+	dna = dna_brittany
+	dynasty_house = house_dreux
+	religion = "catholic"
+	culture = french
+	trait = just
+	trait = infertile
+	trait = content
+	father = 455751  #Arthur II de Bretagne
+	mother = 455590  #Marie de Comborn
+	1286.3.8 = {
+		birth = "1286.3.8"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1298.1.1 = {
+		add_spouse = 455510
+		give_nickname = "nick_the_good"
+	}
+	1329.1.1 = {
+		add_spouse = 462152
+		set_relation_rival = character:455755
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1341.4.30 = {
+		death = "1341.4.30"
+	}
+}
+
+462610 = {
+	name = "Jean" #John the Blind
+	dna="dnajohnofbohemia"
+	dynasty_house = house_luxemburg_bohemia
+	martial = 8
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = french
+	trait = brave
+	trait = chaste
+	trait = gregarious
+	trait = education_martial_2
+	trait = gallant
+	father = 462611
+	mother = 462620
+	1296.8.10 = {
+		birth = "1296.8.10"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1310.9.2 = {
+		add_spouse = 462855
+	}
+	1335.1.9 = {
+		add_spouse = 455657
+	}
+	1337.1.1 = {
+		trait = one_eyed
+		trait = faith_warrior
+		give_nickname = nick_red_lion
+		remove_claim = d_brabant
+		set_relation_friend = character:peterrosenberg
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1346.8.26 = {
+		death = "1346.8.26"
+	}
+}
+
+462020 = {
+	name = "Albrecht" # Albert the Wise of Austria
+	dna = albertwiseportrait
+	dynasty = 51
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = swabian
+	trait = just
+	trait = education_learning_3
+	trait = scholar
+	trait = diplomat
+	trait = content
+	trait = weak
+	father = 462023
+	mother = 462713
+	1298.12.12 = {
+		birth = "1298.12.12"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1324.1.1 = {
+		add_spouse = 462033
+	}
+	1337.1.1 = {
+		give_nickname = nick_the_wise
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1358.8.16 = {
+		death = "1358.8.16"
+	}
+}
+
+469500 = {
+	name = "Charles_Robert" # Charobert of Hungary
+	dynasty_house = house_anjou_hungary
+	dna = dna_charobert
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = french
+	trait = just
+	trait = administrator
+	trait = diligent
+	trait = education_martial_2
+	father = 469520
+	mother = 469521
+	1288.1.2 = {
+		birth = "1288.1.2"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1321.1.2 = {
+		add_spouse = 471501
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+		remove_claim = e_hre
+		remove_claim = c_caserta
+		remove_claim = c_andria
+		remove_claim = c_napoli
+		remove_claim = c_salerno
+		remove_claim = c_forcalquier
+		remove_claim = c_novara
+		remove_claim = c_mantua
+	}
+	1342.7.16 = {
+		death = "1342.7.16"
+	}
+}
+
+455500 = {
+	name = "Philippe" # Philippe VI of France
+	dna=dnaphilipvifrance
+	dynasty_house = house_valois
+	martial = 1
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = french
+	trait = arrogant
+	trait = zealous
+	trait = education_martial_1
+	father = 455512
+	mother = 455805
+	1293.1.2 = {
+		birth = "1293.1.2"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1329.1.2 = {
+		add_spouse = 455532
+		give_nickname = nick_the_fortunate
+		effect = {
+			add_realm_law = single_heir_succession_law
+			add_realm_law = male_only_law
+		}
+		remove_claim = k_naples
+	}
+	1350.8.22 = {
+		death = "1350.8.22"
+	}
+}
+
+473500 = {
+	name = "Gediminas"
+	dna=gediminasportrait
+	dynasty = 11
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 10
+	religion = "baltic_pagan"
+	culture = "lithuanian"
+	trait = education_diplomacy_3
+	trait = just
+	father = 472352
+	1270.1.2 = {
+		birth = "1270.1.2"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1287.1.2 = {
+		add_spouse = 473501
+	}
+	1295.1.2 = {
+		add_spouse = 473502
+	}
+	1329.1.2 = {
+		effect = {
+			add_realm_law = high_partition_succession_law
+		}
+	}
+	1341.5.2 = {
+		death = "1341.5.2"
+	}
+}
+
+468500 = {
+	name = "Uros" # Stefan Uros Dusan IV
+	dna = dna_stefandusan
+	# AKA: Stefan Uros Dusan
+	dynasty = 184
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "orthodox"
+	culture = "serbian"
+	trait = diligent
+	trait = arrogant
+	trait = strong
+	trait = ambitious
+	trait = beauty_good_2
+	trait = education_martial_4
+	father = 468510
+	mother = 467541
+	1308.1.1 = {
+		birth = "1308.1.1"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1331.8.21 = {
+		give_nickname = nick_the_mighty
+	}
+	1332.4.9 = {
+		add_spouse = 467501
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1355.12.20 = {
+		death = "1355.12.20"
+	}
+}
+
+455515 = {
+	name = "Robert" # Robert of Artois
+	dynasty_house = house_artois
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = french
+	trait = deceitful
+	trait = education_intrigue_2
+	trait = fickle
+	trait = ambitious
+	trait = callous
+	trait = gregarious
+	father = 455516
+	mother = 455517
+	1287.1.2 = {
+		birth = "1287.1.2"
+	}
+	1320.1.2 = {
+		add_spouse = 161900
+	}
+	1334.1.1 = {
+		set_relation_rival = character:455500
+		add_pressed_claim = c_artois
+		employer = 454500
+	}
+	1342.1.2 = {
+		death = "1342.1.2"
+	}
+}
+
+465500 = {
+	name = "Andronikos"
+	dna=andronikosiiipalaiologos
+	dynasty = 48
+	martial = 5
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 4
+	religion = "orthodox"
+	culture = "greek"
+	trait = wrathful
+	trait = greedy
+	trait = education_martial_2
+	father = 465501
+	mother = 465911
+	1297.3.25 = {
+		birth = "1297.3.25"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1326.1.2 = {
+		add_spouse = 462157
+		set_relation_friend = character:465530
+	}
+	1341.6.15 = {
+		death = "1341.6.15"
+	}
+}
+
+453500 = {
+	name = "David" # David II of Scotland
+	dna = dna_scotland
+	dynasty = 3123
+	martial = 4
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = "scottish"
+	trait = arbitrary
+	trait = infertile
+	trait = education_learning_2
+	father = 453501
+	mother = 453502
+	1324.1.2 = {
+		birth = "1324.1.2"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1328.1.1 = {
+		add_spouse = 454506
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1374.1.2 = {
+		death = "1374.1.2"
+	}
+}
+
+74723 = {
+	name = "Hasan"
+	dynasty = 12334
+	religion = "ashari"
+	culture = "persian"
+	trait = education_martial_3
+	trait = brave
+	trait = forgiving
+	trait = profligate
+	trait = generous
+	trait = hunter_3
+	trait = ambitious
+	trait = patient
+
+	1294.1.1 = {
+		birth = yes
+	}
+	1312.1.1 = {
+		add_spouse = 74725
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1359.1.1 = {
+		death = yes
+	}
+}
+
+460500 = {
+	name = "Pere"
+	#AKA: Pere 'el Ceremoniós'
+	dynasty = 100204
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "catalan"
+	trait = calm
+	trait = education_intrigue_2
+	father = 460510
+	mother = 460511
+	1319.9.5 = {
+		birth = "1319.9.5"
+	}
+	1337.1.1 = {
+		give_nickname = nick_the_ceremonious
+		add_spouse = 455812
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1387.1.5 = {
+		death = "1387.1.5"
+	}
+}
+
+451980 = {
+	name = "Albrecht"
+	# AKA: Albrecht
+	dynasty_house = house_mecklenburg
+	martial = 9
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = saxon
+	trait = calm
+	trait = generous
+	trait = education_learning_2
+	father = 451981
+	mother = 462112
+	1318.1.1 = {
+		birth = "1318.1.1"
+	}
+	1336.4.10 = {
+		add_spouse = 450508 #Eufemia af Bjalbo
+		give_nickname = nick_the_fox
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1379.2.18 = {
+		death = "1379.2.18"
+	}
+}
+
+455810 = {
+	name = "Philippe" # Philip of Evreux, King of Navarre
+	dna = dna_navarre
+	dynasty_house = house_evreux
+	martial = 4
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = french
+	trait = just
+	trait = education_stewardship_3
+	trait = diligent
+	father = 455811
+	mother = 455825
+	
+	1306.3.27 = {
+		birth = "1306.3.27"
+		effect = {
+            add_character_flag = has_scripted_appearance
+        }
+	}
+	1329.1.1 = {
+		add_spouse = 455835
+	}
+	1340.1.1 = {
+		trait = ill
+	}
+	1343.9.26 = {
+		death = "1343.9.26"
+	}
+}
+
+461800 = {
+	name = "Levon" #king of Armenia 1320-1341
+	dynasty = 23003
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = lazy
+	trait = education_diplomacy_2
+	trait = kinslayer_3
+	father = 461803
+	mother = 31877
+	1296.1.1 = {
+		birth = "1296.1.1"
+	}
+	1312.1.1 = {
+		add_spouse = 461798
+	}
+	1333.1.1 = {
+		add_spouse = 461509
+	}
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+		}
+	}
+	1345.1.1 = {
+		death = "1345.1.1"
+	}
+}
+
+461730 = {
+	name = "Gauthier"
+	dna=walterofbrienne
+	dynasty_house = house_brienne_athens
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = french
+	trait = brave
+	trait = ambitious
+	trait = greedy
+	trait = callous
+	trait = education_martial_2
+	father = 461733
+	mother = 455778
+	1306.1.11 = {
+		birth = "1306.1.11"
+		effect = {
+           		add_character_flag = has_scripted_appearance
+        	}
+	}
+	1312.3.15 = {
+		add_pressed_claim = d_athens
+		add_pressed_claim = c_atheniai
+		add_pressed_claim = c_hellas
+		add_pressed_claim = c_demetrias
+	}
+	1325.1.11 = {
+		add_spouse = 461714
+	}
+	1356.9.19 = {
+		death = "1356.9.19"
+	}
+}

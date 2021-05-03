@@ -1,0 +1,203 @@
+house_neville_westmorland = {
+	name = "Neville-Westmorland"
+	dynasty = neville
+}
+
+house_neville_salisbury = {
+	name = "Neville-Salisbury"
+	dynasty = neville
+}
+
+house_neville_hornby = {
+	name = "Neville-Hornby"
+	dynasty = neville
+}
+
+house_fitzgerald_desmond = {
+	name = "FitzGerald-Desmond"
+	dynasty = fitzgerald
+}
+
+house_fitzgerald_kildare = {
+	name = "FitzGerald-Kildare"
+	dynasty = fitzgerald
+}
+
+house_fitzgerald_glin = {
+	name = "FitzGerald-Glin"
+	dynasty = fitzgerald
+}
+
+house_fitzmaurice = {
+	name = "FitzMaurice"
+	dynasty = fitzgerald
+}
+
+house_fitzgibbon = {
+	name = "FitzGibbon"
+	dynasty = fitzgerald
+}
+
+house_burke_galway = {
+	name = "Burke-Galway"
+	dynasty = burke
+}
+
+house_burke_mayo = {
+	name = "Burke-Mayo"
+	dynasty = burke
+}
+
+house_burke_ulster = {
+	name = "Burke-Ulster"
+	dynasty = burke
+}
+
+house_butler_dunboyne = {
+	name = "Butler-Dunboyne"
+	dynasty = butler
+}
+
+house_butler_ormonde = {
+	name = "Butler-Ormonde"
+	dynasty = butler
+}
+house_brienne_eu = {
+	prefix = "dynnp_de"
+	name = "Brienne-Eu"
+	dynasty = "80"
+}
+house_brienne_athens = {
+	prefix = "dynnp_de"
+	name = "Brienne-Athens"
+	dynasty = "80"
+}
+house_brienne_beaumont = {
+	prefix = "dynnp_de"
+	name = "Brienne-Beaumont"
+	dynasty = "80"
+}
+house_la_cerda = {
+	prefix = "dynnp_de"
+	name = "la Cerda"
+	dynasty = "borgona"
+}
+house_trastamara = {
+	prefix = "dynnp_de"
+	name = "Trastámara"
+	dynasty = "borgona"
+}
+house_enriquez = {
+	name = "Enríquez"
+	dynasty = "borgona"
+}
+house_aguilar = {
+	prefix = "dynnp_de"
+	name = "Aguilar"
+	dynasty = "borgona"
+}
+house_alburquerque = {
+	prefix = "dynnp_de"
+	name = "Alburquerque"
+	dynasty = "borgonha"
+}
+house_sousa_chichorro = {
+	prefix = "dynnp_de"
+	name = "Afonso Chichorro"
+	dynasty = "borgonha"
+}
+house_sousa = {
+	prefix = "dynnp_de"
+	name = "Sousa"
+	dynasty = "borgonha"
+}
+house_xerica = {
+	prefix = "dynnp_de"
+	name = "Jérica"
+	dynasty = "100204" # Barcelona
+}
+house_ayerbe = {
+	prefix = "dynnp_de"
+	name = "Ayerbe"
+	dynasty = "100204" # Barcelona
+}
+house_hijar = {
+	prefix = "dynnp_de"
+	name = "Híjar"
+	dynasty = "100204" # Barcelona
+}
+house_urgell = {
+	prefix = "dynnp_de"
+	name = "Barcelona-Urgell"
+	dynasty = "100204" # Barcelona
+}
+house_castro = {
+	prefix = "dynnp_de"
+	name = "Castre"
+	dynasty = "100204" # Barcelona
+}
+house_villena = {
+	prefix = "dynnp_de"
+	name = "Borgoña-Villena"
+	dynasty = "borgona"
+}
+house_borgona_valencia = {
+	prefix = "dynnp_de"
+	name = "Borgoña-Valencia"
+	dynasty = "borgona"
+}
+house_aumale = {
+	prefix = "dynnp_de"
+	name = "Borgoña-Aumale"
+	dynasty = "borgona"
+}
+house_beaumont = {
+	prefix = "dynnp_de"
+	name = "Beaumont"
+	dynasty = "80"
+}
+house_brienne_athens = {
+	prefix = "dynnp_de"
+	name = "Brienne-Athens"
+	dynasty = "80"
+}
+house_velho = {
+	prefix = "dynnp_de"
+	name = "Baião-Velho"
+	dynasty = "1020122"
+}
+house_azevedo = {
+	prefix = "dynnp_de"
+	name = "Baião-Azevedo"
+	dynasty = "1020122"
+}
+house_luxemburg_bohemia = {
+	prefix = "dynnp_de"
+	name = "Luxemburg-Bohemia"
+	dynasty = "420"
+}
+house_brabant_lothier = {
+	prefix = "dynnp_de"
+	name = "Brabant-Lothier"
+	dynasty = "7198"
+}
+house_wittelsbach_brandenburg = {
+	prefix = "dynnp_von"
+	name = "Wittelsbach-Brandenburg"
+	dynasty = "217"
+}
+house_wittelsbach_palatinate = {
+	prefix = "dynnp_von"
+	name = "Wittelsbach-Palatinate"
+	dynasty = "217"
+}
+house_royal_bjalbo = {
+	prefix = "dynnp_af"
+	name = "dynn_BjA_lbo"
+	dynasty = "155"
+}
+house_mecklenburg = {
+	prefix = "dynnp_von"
+	name = "Mecklenburg"
+	dynasty = "101893"
+}

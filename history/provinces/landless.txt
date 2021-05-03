@@ -1,0 +1,231 @@
+9660 = {
+	culture = french
+	religion = catholic
+	
+	holding = castle_holding
+}
+
+9661 = {
+	culture = french
+	religion = catholic
+	
+	holding = castle_holding
+}
+
+9662 = {
+	culture = french
+	religion = catholic
+	
+	holding = castle_holding
+}
+
+9663 = {
+	culture = french
+	religion = catholic
+	
+	holding = castle_holding
+}
+
+9664 = {
+	culture = french
+	religion = catholic
+	
+	holding = castle_holding
+}
+9665 = {	#ROCABERTI
+	culture = catalan
+	religion = catholic
+	holding = castle_holding
+}
+9666 = {	#MISTRETTA
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9667 = {	#MEDICI
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9668 = {	#STROZZI
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9669 = {	#ALBIZZI
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9670 = {	#PAZZI
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9671 = {	#ACCIAIUOLI
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9674 = {
+	culture = scottish
+	religion = catholic
+	holding = castle_holding
+}
+9675 = {
+	culture = scottish
+	religion = catholic
+	holding = castle_holding
+}
+9676 = {
+	culture = scottish
+	religion = catholic
+	holding = castle_holding
+}
+9677 = {
+	culture = scottish
+	religion = catholic
+	holding = castle_holding
+}
+9678 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9679 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9680 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9681 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9682 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9683 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9684 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9685 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+
+9687 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+
+9688 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+
+9696 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+
+9697 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+
+9699 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+
+9698 = {
+	culture = cisalpine
+	religion = catholic
+	holding = castle_holding
+}
+
+9701 = {
+	culture = basque
+	religion = catholic
+	holding = castle_holding
+}
+
+9702 = {
+	culture = basque
+	religion = catholic
+	holding = castle_holding
+}
+
+9703 = {
+	culture = basque
+	religion = catholic
+	holding = castle_holding
+}
+
+9686 = {
+	culture = catalan
+	religion = catholic
+	holding = castle_holding
+}
+
+9700 = {
+	culture = french
+	religion = catholic
+	holding = castle_holding
+}
+
+9690 = {
+	culture = gaelic
+	religion = catholic
+	holding = castle_holding
+}
+
+9689 = {
+	culture = scots
+	religion = catholic
+	holding = castle_holding
+}
+
+9672 = {
+	culture = scots
+	religion = catholic
+	holding = castle_holding
+}
+
+9673 = {
+	culture = scots
+	religion = catholic
+	holding = castle_holding
+}
+
+9692 = {
+	culture = scots
+	religion = catholic
+	holding = castle_holding
+}
+
+9693 = {
+	culture = scots
+	religion = catholic
+	holding = castle_holding
+}

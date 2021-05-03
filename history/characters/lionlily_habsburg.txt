@@ -1,0 +1,344 @@
+habsburg_1001 = {
+    name = "Albrecht"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = 462020 #Albrecht
+    1349.1.1 = {
+        birth = yes
+    }
+    1395.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1002 = {
+    name = "Albrecht"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = habsburg_1001 #Albrecht
+    1377.1.1 = {
+        birth = yes
+    }
+    1404.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1003 = {
+    name = "Albrecht"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = habsburg_1002 #Albrecht
+    1397.1.1 = {
+        birth = yes
+    }
+    1439.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1004 = {
+    name = "Albrecht"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = habsburg_1005 #Ernst
+    1418.1.1 = {
+        birth = yes
+    }
+    1463.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1006 = {
+    name = "Anna"
+    culture = "swabian"
+    religion = "catholic"
+    female = yes
+    dynasty = 51 #von Habsburg
+    father = habsburg_1003 #Albrecht
+    1432.1.1 = {
+        birth = yes
+    }
+    1462.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1007 = {
+    name = "Elisabeth"
+    culture = "swabian"
+    religion = "catholic"
+    female = yes
+    dynasty = 51 #von Habsburg
+    father = habsburg_1003 #Albrecht
+    1436.1.1 = {
+        birth = yes
+    }
+    1505.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1005 = {
+    name = "Ernst"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = habsburg_1008 #Leopold
+    1377.1.1 = {
+        birth = yes
+    }
+    1424.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1009 = {
+    name = "Ernst"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = habsburg_1005 #Ernst
+    1420.1.1 = {
+        birth = yes
+    }
+    1432.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1010 = {
+    name = "Friedrich"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = 462020 #Albrecht
+    1347.1.1 = {
+        birth = yes
+    }
+    1362.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1011 = {
+    name = "Friedrich"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = habsburg_1008 #Leopold
+    1382.1.1 = {
+        birth = yes
+    }
+    1439.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1012 = {
+    name = "Friedrich"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = habsburg_1005 #Ernst
+    1415.1.1 = {
+        birth = yes
+    }
+    1493.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1013 = {
+    name = "Hedwig"
+    culture = "swabian"
+    religion = "catholic"
+    female = yes
+    dynasty = 51 #von Habsburg
+    father = habsburg_1011 #Friedrich
+    1424.1.1 = {
+        birth = yes
+    }
+    1427.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1014 = {
+    name = "Katharina"
+    culture = "swabian"
+    religion = "catholic"
+    female = yes
+    dynasty = 51 #von Habsburg
+    father = 462020 #Albrecht
+    1342.1.1 = {
+        birth = yes
+    }
+    1381.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1015 = {
+    name = "Katharina"
+    culture = "swabian"
+    religion = "catholic"
+    female = yes
+    dynasty = 51 #von Habsburg
+    father = habsburg_1005 #Ernst
+    1420.1.1 = {
+        birth = yes
+    }
+    1493.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1016 = {
+    name = "Ladislaus"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = habsburg_1003 #Albrecht
+    1440.1.1 = {
+        birth = yes
+    }
+    1457.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1008 = {
+    name = "Leopold"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = 462020 #Albrecht
+    1351.1.1 = {
+        birth = yes
+    }
+    1386.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1017 = {
+    name = "Leopold"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = habsburg_1008 #Leopold
+    1371.1.1 = {
+        birth = yes
+    }
+    1411.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1018 = {
+    name = "Margarete"
+    culture = "swabian"
+    religion = "catholic"
+    female = yes
+    dynasty = 51 #von Habsburg
+    father = habsburg_1002 #Albrecht
+    1395.1.1 = {
+        birth = yes
+    }
+    1447.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1019 = {
+    name = "Margarethe"
+    culture = "swabian"
+    religion = "catholic"
+    female = yes
+    dynasty = 51 #von Habsburg
+    father = 462020 #Albrecht
+    1346.1.1 = {
+        birth = yes
+    }
+    1366.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1020 = {
+    name = "Margarethe"
+    culture = "swabian"
+    religion = "catholic"
+    female = yes
+    dynasty = 51 #von Habsburg
+    father = habsburg_1005 #Ernst
+    1416.1.1 = {
+        birth = yes
+    }
+    1486.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1021 = {
+    name = "Margarethe"
+    culture = "swabian"
+    religion = "catholic"
+    female = yes
+    dynasty = 51 #von Habsburg
+    father = habsburg_1011 #Friedrich
+    1423.1.1 = {
+        birth = yes
+    }
+    1424.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1022 = {
+    name = "Rudolf"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = 462020 #Albrecht
+    1339.1.1 = {
+        birth = yes
+    }
+    1365.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1023 = {
+    name = "Sigismund"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = habsburg_1011 #Friedrich
+    1427.1.1 = {
+        birth = yes
+    }
+    1496.1.1 = {
+        death = yes
+    }
+}
+
+habsburg_1024 = {
+    name = "Wilhelm"
+    culture = "swabian"
+    religion = "catholic"
+    dynasty = 51 #von Habsburg
+    father = habsburg_1008 #Leopold
+    1370.1.1 = {
+        birth = yes
+    }
+    1406.1.1 = {
+        death = yes
+    }
+}

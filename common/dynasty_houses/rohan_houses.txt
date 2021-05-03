@@ -1,0 +1,29 @@
+rohan = {
+	prefix = "dynnp_de"
+	name = "Rohan"
+	dynasty = porhoet
+}
+rohan_guemene = {
+	prefix = "dynnp_de"
+	name = "Rohan-Guéméné"
+	dynasty = porhoet
+}
+rohan_gue_de_lisle = {
+	prefix = "dynnp_de"
+	name = "Rohan-Gué-de-l'Isle"
+	dynasty = porhoet
+}
+rohan_montauban = {
+	prefix = "dynnp_de"
+	name = "Rohan-Montauban"
+	dynasty = porhoet
+}
+rohan_bois_de_la_roche = {
+	prefix = "dynnp_de"
+	name = "Rohan-Bois-de-la-Roche"
+	dynasty = porhoet
+}
+zouche = {
+	name = "Zouche"
+	dynasty = porhoet
+}

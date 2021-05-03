@@ -1,0 +1,328 @@
+mowbray_1000 = {
+    name = "Alexander"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    father = mowbray_1001 #John
+    1314.1.1 = {
+        birth = yes
+    }
+    1368.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1002 = {
+    name = "Blanche"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 558 #Mowbray
+    father = mowbray_1003 #John
+    1341.1.1 = {
+        birth = yes
+    }
+    1409.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1004 = {
+    name = "Eleanor"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 558 #Mowbray
+    father = mowbray_1003 #John
+    1342.1.1 = {
+        birth = yes
+    }
+    1392.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1005 = {
+    name = "Elizabeth"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 558 #Mowbray
+    father = mowbray_1000 #Alexander
+    1340.1.1 = {
+        birth = yes
+    }
+    1391.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1006 = {
+    name = "Elizabeth"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 558 #Mowbray
+    father = mowbray_1007 #Thomas
+    1394.1.1 = {
+        birth = yes
+    }
+    1444.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1008 = {
+    name = "Isabel"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 558 #Mowbray
+    father = mowbray_1007 #Thomas
+    1398.1.1 = {
+        birth = yes
+    }
+    1448.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1009 = {
+    name = "Joan"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 558 #Mowbray
+    father = mowbray_1010 #John
+    1363.1.1 = {
+        birth = yes
+    }
+    1402.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1001 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    father = mowbray_1011 #Roger
+    1286.1.1 = {
+        birth = yes
+    }
+    1322.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1003 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    father = mowbray_1001 #John
+    1310.1.1 = {
+        birth = yes
+    }
+    1361.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1010 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    father = mowbray_1003 #John
+    1340.1.1 = {
+        birth = yes
+    }
+    1368.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1012 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    father = mowbray_1010 #John
+    1365.1.1 = {
+        birth = yes
+    }
+    1383.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1013 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    father = mowbray_1007 #Thomas
+    1392.1.1 = {
+        birth = yes
+    }
+    1432.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1014 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    father = mowbray_1013 #John
+    1415.1.1 = {
+        birth = yes
+    }
+    1461.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1015 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    father = mowbray_1014 #John
+    1444.10.18 = {
+        birth = yes
+    }
+    1476.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1016 = {
+    name = "Margaret"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 558 #Mowbray
+    father = mowbray_1010 #John
+    1361.1.1 = {
+        birth = yes
+    }
+    1402.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1017 = {
+    name = "Margaret"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 558 #Mowbray
+    father = mowbray_1007 #Thomas
+    1388.1.1 = {
+        birth = yes
+    }
+    1438.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1018 = {
+    name = "Nigel"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    1148.1.1 = {
+        birth = yes
+    }
+    1198.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1019 = {
+    name = "Nigel"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    father = mowbray_1020 #William
+    1198.1.1 = {
+        birth = yes
+    }
+    1230.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1021 = {
+    name = "Roger"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    father = mowbray_1020 #William
+    1210.1.1 = {
+        birth = yes
+    }
+    1266.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1011 = {
+    name = "Roger"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    father = mowbray_1021 #Roger
+    1254.1.1 = {
+        birth = yes
+    }
+    1297.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1007 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    father = mowbray_1010 #John
+    1366.1.1 = {
+        birth = yes
+    }
+    1399.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1022 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    father = mowbray_1007 #Thomas
+    1385.1.1 = {
+        birth = yes
+    }
+    1405.1.1 = {
+        death = yes
+    }
+}
+
+mowbray_1020 = {
+    name = "William"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 558 #Mowbray
+    father = mowbray_1018 #Nigel
+    1173.1.1 = {
+        birth = yes
+    }
+    1224.1.1 = {
+        death = yes
+    }
+}

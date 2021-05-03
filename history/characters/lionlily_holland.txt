@@ -1,0 +1,518 @@
+holland_1000 = {
+    name = "Alan"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1001 #Robert
+    1317.1.1 = {
+        birth = yes
+    }
+    1339.1.1 = {
+        death = yes
+    }
+}
+
+holland_1002 = {
+    name = "Alice"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1003 #John
+    1392.1.1 = {
+        birth = yes
+    }
+    1406.1.1 = {
+        death = yes
+    }
+}
+
+holland_1004 = {
+    name = "Anne"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1005 #John
+    1431.1.1 = {
+        birth = yes
+    }
+    1486.1.1 = {
+        death = yes
+    }
+}
+
+holland_1006 = {
+    name = "Constance"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1003 #John
+    1387.1.1 = {
+        birth = yes
+    }
+    1437.1.1 = {
+        death = yes
+    }
+}
+
+holland_1007 = {
+    name = "Edmund"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1008 #Thomas
+    1354.1.1 = {
+        birth = yes
+    }
+    1354.1.1 = {
+        death = yes
+    }
+}
+
+holland_1009 = {
+    name = "Edmund"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1010 #Thomas
+    1382.1.1 = {
+        birth = yes
+    }
+    1408.1.1 = {
+        death = yes
+    }
+}
+
+holland_1011 = {
+    name = "Edward"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1003 #John
+    1399.1.1 = {
+        birth = yes
+    }
+    1413.1.1 = {
+        death = yes
+    }
+}
+
+holland_1012 = {
+    name = "Eleanor"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1001 #Robert
+    1321.1.1 = {
+        birth = yes
+    }
+    1341.1.1 = {
+        death = yes
+    }
+}
+
+holland_1013 = {
+    name = "Eleanor"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1010 #Thomas
+    1370.1.1 = {
+        birth = yes
+    }
+    1405.1.1 = {
+        death = yes
+    }
+}
+
+holland_1014 = {
+    name = "Eleanor"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1010 #Thomas
+    1386.1.1 = {
+        birth = yes
+    }
+    1413.1.1 = {
+        death = yes
+    }
+}
+
+holland_1015 = {
+    name = "Elizabeth"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1001 #Robert
+    1320.1.1 = {
+        birth = yes
+    }
+    1387.1.1 = {
+        death = yes
+    }
+}
+
+holland_1016 = {
+    name = "Elizabeth"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1010 #Thomas
+    1387.1.1 = {
+        birth = yes
+    }
+    1420.1.1 = {
+        death = yes
+    }
+}
+
+holland_1017 = {
+    name = "Elizabeth"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1003 #John
+    1389.1.1 = {
+        birth = yes
+    }
+    1449.1.1 = {
+        death = yes
+    }
+}
+
+holland_1018 = {
+    name = "Henry"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1005 #John
+    1430.1.1 = {
+        birth = yes
+    }
+    1475.1.1 = {
+        death = yes
+    }
+}
+
+holland_1019 = {
+    name = "Isabel"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1001 #Robert
+    1315.1.1 = {
+        birth = yes
+    }
+    1365.1.1 = {
+        death = yes
+    }
+}
+
+holland_1020 = {
+    name = "Joan"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1008 #Thomas
+    1351.1.1 = {
+        birth = yes
+    }
+    1384.1.1 = {
+        death = yes
+    }
+}
+
+holland_1021 = {
+    name = "Joan"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1010 #Thomas
+    1380.1.1 = {
+        birth = yes
+    }
+    1434.1.1 = {
+        death = yes
+    }
+}
+
+holland_1003 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1008 #Thomas
+    1352.1.1 = {
+        birth = yes
+    }
+    1400.1.1 = {
+        death = yes
+    }
+}
+
+holland_1022 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1010 #Thomas
+    1374.1.1 = {
+        birth = yes
+    }
+    1394.1.1 = {
+        death = yes
+    }
+}
+
+holland_1005 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1003 #John
+    1395.1.1 = {
+        birth = yes
+    }
+    1447.1.1 = {
+        death = yes
+    }
+}
+
+holland_1023 = {
+    name = "Margaret"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1001 #Robert
+    1318.1.1 = {
+        birth = yes
+    }
+    1349.1.1 = {
+        death = yes
+    }
+}
+
+holland_1024 = {
+    name = "Margaret"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1010 #Thomas
+    1385.1.1 = {
+        birth = yes
+    }
+    1439.1.1 = {
+        death = yes
+    }
+}
+
+holland_1025 = {
+    name = "Matthew"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    1175.1.1 = {
+        birth = yes
+    }
+    1224.1.1 = {
+        death = yes
+    }
+}
+
+holland_1026 = {
+    name = "Maud"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1001 #Robert
+    1319.1.1 = {
+        birth = yes
+    }
+    1369.1.1 = {
+        death = yes
+    }
+}
+
+holland_1027 = {
+    name = "Maud"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 4035 #Holland
+    father = holland_1008 #Thomas
+    1353.1.1 = {
+        birth = yes
+    }
+    1392.1.1 = {
+        death = yes
+    }
+}
+
+holland_1028 = {
+    name = "Otho"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1001 #Robert
+    1316.1.1 = {
+        birth = yes
+    }
+    1359.1.1 = {
+        death = yes
+    }
+}
+
+holland_1029 = {
+    name = "Richard"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1010 #Thomas
+    1376.1.1 = {
+        birth = yes
+    }
+    1396.1.1 = {
+        death = yes
+    }
+}
+
+holland_1030 = {
+    name = "Richard"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1003 #John
+    1388.1.1 = {
+        birth = yes
+    }
+    1400.1.1 = {
+        death = yes
+    }
+}
+
+holland_1031 = {
+    name = "Robert"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1025 #Matthew
+    1197.1.1 = {
+        birth = yes
+    }
+    1243.1.1 = {
+        death = yes
+    }
+}
+
+holland_1032 = {
+    name = "Robert"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1031 #Robert
+    1220.1.1 = {
+        birth = yes
+    }
+    1275.1.1 = {
+        death = yes
+    }
+}
+
+holland_1033 = {
+    name = "Robert"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1032 #Robert
+    1245.1.1 = {
+        birth = yes
+    }
+    1300.1.1 = {
+        death = yes
+    }
+}
+
+holland_1001 = {
+    name = "Robert"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1033 #Robert
+    1283.1.1 = {
+        birth = yes
+    }
+    1328.1.1 = {
+        death = yes
+    }
+}
+
+holland_1034 = {
+    name = "Robert"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1001 #Robert
+    1311.1.1 = {
+        birth = yes
+    }
+    1372.1.1 = {
+        death = yes
+    }
+}
+
+holland_1008 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1001 #Robert
+    1314.1.1 = {
+        birth = yes
+    }
+    1360.1.1 = {
+        death = yes
+    }
+}
+
+holland_1010 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1008 #Thomas
+    1350.1.1 = {
+        birth = yes
+    }
+    1397.1.1 = {
+        death = yes
+    }
+}
+
+holland_1035 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 4035 #Holland
+    father = holland_1010 #Thomas
+    1372.1.1 = {
+        birth = yes
+    }
+    1400.1.1 = {
+        death = yes
+    }
+}

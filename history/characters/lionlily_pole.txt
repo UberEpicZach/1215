@@ -1,0 +1,605 @@
+pole_1000 = {
+    name = "Alexander"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1001 #Michael
+    1397.1.1 = {
+        birth = yes
+    }
+    1429.1.1 = {
+        death = yes
+    }
+}
+
+pole_1002 = {
+    name = "Anne"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1003 #Michael
+    1373.1.1 = {
+        birth = yes
+    }
+    1423.1.1 = {
+        death = yes
+    }
+}
+
+pole_1004 = {
+    name = "Blanche"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1005 #William
+    1338.1.1 = {
+        birth = yes
+    }
+    1403.1.1 = {
+        death = yes
+    }
+}
+
+pole_1006 = {
+    name = "Catherine"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1007 #Michael
+    1410.1.1 = {
+        birth = yes
+    }
+    1460.1.1 = {
+        death = yes
+    }
+}
+
+pole_1008 = {
+    name = "Edmund"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1005 #William
+    1337.1.1 = {
+        birth = yes
+    }
+    1419.1.1 = {
+        death = yes
+    }
+}
+
+pole_1009 = {
+    name = "Elizabeth"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1010 #Richard
+    1320.1.1 = {
+        birth = yes
+    }
+    1370.1.1 = {
+        death = yes
+    }
+}
+
+pole_1011 = {
+    name = "Elizabeth"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1008 #Edmund
+    1362.1.1 = {
+        birth = yes
+    }
+    1403.1.1 = {
+        death = yes
+    }
+}
+
+pole_1012 = {
+    name = "Elizabeth"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1003 #Michael
+    1377.1.1 = {
+        birth = yes
+    }
+    1427.1.1 = {
+        death = yes
+    }
+}
+
+pole_1013 = {
+    name = "Elizabeth"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1001 #Michael
+    1401.1.1 = {
+        birth = yes
+    }
+    1451.1.1 = {
+        death = yes
+    }
+}
+
+pole_1014 = {
+    name = "Elizabeth"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1007 #Michael
+    1411.1.1 = {
+        birth = yes
+    }
+    1422.1.1 = {
+        death = yes
+    }
+}
+
+pole_1015 = {
+    name = "Isabel"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1001 #Michael
+    1400.1.1 = {
+        birth = yes
+    }
+    1466.1.1 = {
+        death = yes
+    }
+}
+
+pole_1016 = {
+    name = "Isabel"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1007 #Michael
+    1415.1.1 = {
+        birth = yes
+    }
+    1422.1.1 = {
+        death = yes
+    }
+}
+
+pole_1017 = {
+    name = "Jane"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1018 #William
+    add_trait = bastard
+    1430.1.1 = {
+        birth = yes
+    }
+    1494.1.1 = {
+        death = yes
+    }
+}
+
+pole_1019 = {
+    name = "Joan"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1010 #Richard
+    1319.1.1 = {
+        birth = yes
+    }
+    1369.1.1 = {
+        death = yes
+    }
+}
+
+pole_1020 = {
+    name = "Joan"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1021 #John
+    1378.1.1 = {
+        birth = yes
+    }
+    1434.1.1 = {
+        death = yes
+    }
+}
+
+pole_1022 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1023 #William
+    1303.1.1 = {
+        birth = yes
+    }
+    1353.1.1 = {
+        death = yes
+    }
+}
+
+pole_1024 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1010 #Richard
+    1318.1.1 = {
+        birth = yes
+    }
+    1368.1.1 = {
+        death = yes
+    }
+}
+
+pole_1021 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1025 #William
+    1341.1.1 = {
+        birth = yes
+    }
+    1380.1.1 = {
+        death = yes
+    }
+}
+
+pole_1026 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1003 #Michael
+    1369.1.1 = {
+        birth = yes
+    }
+    1415.1.1 = {
+        death = yes
+    }
+}
+
+pole_1027 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1001 #Michael
+    1398.1.1 = {
+        birth = yes
+    }
+    1429.1.1 = {
+        death = yes
+    }
+}
+
+pole_1028 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1018 #William
+    1442.1.1 = {
+        birth = yes
+    }
+    1492.1.1 = {
+        death = yes
+    }
+}
+
+pole_1029 = {
+    name = "Katherine"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1030 #Thomas
+    1356.1.1 = {
+        birth = yes
+    }
+    1362.1.1 = {
+        death = yes
+    }
+}
+
+pole_1031 = {
+    name = "Katherine"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1001 #Michael
+    1410.1.1 = {
+        birth = yes
+    }
+    1473.1.1 = {
+        death = yes
+    }
+}
+
+pole_1032 = {
+    name = "Margaret"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1010 #Richard
+    1317.1.1 = {
+        birth = yes
+    }
+    1373.1.1 = {
+        death = yes
+    }
+}
+
+pole_1033 = {
+    name = "Margaret"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1005 #William
+    1339.1.1 = {
+        birth = yes
+    }
+    1413.1.1 = {
+        death = yes
+    }
+}
+
+pole_1034 = {
+    name = "Margaret"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 1042610 #Pole
+    father = pole_1003 #Michael
+    1386.1.1 = {
+        birth = yes
+    }
+    1436.1.1 = {
+        death = yes
+    }
+}
+
+pole_1003 = {
+    name = "Michael"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1005 #William
+    1330.1.1 = {
+        birth = yes
+    }
+    1389.1.1 = {
+        death = yes
+    }
+}
+
+pole_1001 = {
+    name = "Michael"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1003 #Michael
+    1361.1.1 = {
+        birth = yes
+    }
+    1415.1.1 = {
+        death = yes
+    }
+}
+
+pole_1007 = {
+    name = "Michael"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1001 #Michael
+    1394.1.1 = {
+        birth = yes
+    }
+    1415.1.1 = {
+        death = yes
+    }
+}
+
+pole_1010 = {
+    name = "Richard"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1023 #William
+    1301.1.1 = {
+        birth = yes
+    }
+    1345.1.1 = {
+        death = yes
+    }
+}
+
+pole_1035 = {
+    name = "Richard"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1003 #Michael
+    1367.1.1 = {
+        birth = yes
+    }
+    1402.1.1 = {
+        death = yes
+    }
+}
+
+pole_1030 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1005 #William
+    1336.1.1 = {
+        birth = yes
+    }
+    1361.1.1 = {
+        death = yes
+    }
+}
+
+pole_1036 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1003 #Michael
+    1363.1.1 = {
+        birth = yes
+    }
+    1415.1.1 = {
+        death = yes
+    }
+}
+
+pole_1037 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1001 #Michael
+    1399.1.1 = {
+        birth = yes
+    }
+    1433.1.1 = {
+        death = yes
+    }
+}
+
+pole_1038 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1036 #Thomas
+    1412.1.1 = {
+        birth = yes
+    }
+    1429.1.1 = {
+        death = yes
+    }
+}
+
+pole_1039 = {
+    name = "Walter"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1005 #William
+    1335.1.1 = {
+        birth = yes
+    }
+    1385.1.1 = {
+        death = yes
+    }
+}
+
+pole_1040 = {
+    name = "Walter"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1008 #Edmund
+    1371.1.1 = {
+        birth = yes
+    }
+    1434.1.1 = {
+        death = yes
+    }
+}
+
+pole_1023 = {
+    name = "William"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    1276.1.1 = {
+        birth = yes
+    }
+    1326.1.1 = {
+        death = yes
+    }
+}
+
+pole_1005 = {
+    name = "William"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1023 #William
+    1302.1.1 = {
+        birth = yes
+    }
+    1366.1.1 = {
+        death = yes
+    }
+}
+
+pole_1025 = {
+    name = "William"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1010 #Richard
+    1316.1.1 = {
+        birth = yes
+    }
+    1366.1.1 = {
+        death = yes
+    }
+}
+
+pole_1041 = {
+    name = "William"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1003 #Michael
+    1365.1.1 = {
+        birth = yes
+    }
+    1390.1.1 = {
+        death = yes
+    }
+}
+
+pole_1018 = {
+    name = "William"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 1042610 #Pole
+    father = pole_1001 #Michael
+    1396.1.1 = {
+        birth = yes
+    }
+    1450.1.1 = {
+        death = yes
+    }
+}

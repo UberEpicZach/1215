@@ -1,0 +1,895 @@
+plantagenet_1000 = {
+    name = "Anne"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1001 #Edmund
+    1435.1.1 = {
+        birth = yes
+    }
+    1496.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1001 = {
+    name = "Edmund"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1002 #John
+    1406.1.1 = {
+        birth = yes
+    }
+    1455.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1003 = {
+    name = "Edmund"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1001 #Edmund
+    1439.1.1 = {
+        birth = yes
+    }
+    1471.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1004 = {
+    name = "Eleanor"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1001 #Edmund
+    1431.1.1 = {
+        birth = yes
+    }
+    1501.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1005 = {
+    name = "Elizabeth"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1001 #Edmund
+    1443.1.1 = {
+        birth = yes
+    }
+    1475.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1006 = {
+    name = "Henry"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1007 #John
+    1375.1.1 = {
+        birth = yes
+    }
+    1447.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1008 = {
+    name = "Henry"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1002 #John
+    1401.1.1 = {
+        birth = yes
+    }
+    1418.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1009 = {
+    name = "Henry"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1001 #Edmund
+    1436.1.1 = {
+        birth = yes
+    }
+    1464.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1010 = {
+    name = "Joan"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1007 #John
+    1379.1.1 = {
+        birth = yes
+    }
+    1440.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1011 = {
+    name = "Joan"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1002 #John
+    1404.1.1 = {
+        birth = yes
+    }
+    1445.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1012 = {
+    name = "Joan"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1001 #Edmund
+    1433.1.1 = {
+        birth = yes
+    }
+    1518.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1002 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1007 #John
+    1373.1.1 = {
+        birth = yes
+    }
+    1410.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1013 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1002 #John
+    1404.1.1 = {
+        birth = yes
+    }
+    1444.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1014 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1001 #Edmund
+    1441.1.1 = {
+        birth = yes
+    }
+    1471.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1015 = {
+    name = "Margaret"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1002 #John
+    1409.1.1 = {
+        birth = yes
+    }
+    1449.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1016 = {
+    name = "Margaret"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1001 #Edmund
+    1437.1.1 = {
+        birth = yes
+    }
+    1474.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1017 = {
+    name = "Margaret"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1013 #John
+    1443.1.1 = {
+        birth = yes
+    }
+    1509.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1018 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1007 #John
+    1377.1.1 = {
+        birth = yes
+    }
+    1427.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1019 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_beaufort #Beaufort
+    father = plantagenet_1002 #John
+    1405.1.1 = {
+        birth = yes
+    }
+    1431.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1022 = {
+    name = "Edward"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 106 #Plantagenet
+    father = 454501 #Edward
+    1365.1.1 = {
+        birth = yes
+    }
+    1370.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1023 = {
+    name = "Lionel"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 106 #Plantagenet
+    father = 454500 #Edward
+    1338.1.1 = {
+        birth = yes
+    }
+    1368.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1024 = {
+    name = "Margaret"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 106 #Plantagenet
+    father = 454500 #Edward
+    1346.1.1 = {
+        birth = yes
+    }
+    1361.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1025 = {
+    name = "Mary"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 106 #Plantagenet
+    father = 454500 #Edward
+    1344.1.1 = {
+        birth = yes
+    }
+    1361.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1026 = {
+    name = "Philippa"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty = 106 #Plantagenet
+    father = plantagenet_1023 #Lionel
+    1355.1.1 = {
+        birth = yes
+    }
+    1382.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1027 = {
+    name = "Richard"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 106 #Plantagenet
+    father = 454501 #Edward
+    1367.1.1 = {
+        birth = yes
+    }
+    1400.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1028 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 106 #Plantagenet
+    father = 454500 #Edward
+    1347.1.1 = {
+        birth = yes
+    }
+    1348.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1029 = {
+    name = "William"
+    culture = "english"
+    religion = "catholic"
+    dynasty = 106 #Plantagenet
+    father = 454500 #Edward
+    1348.1.1 = {
+        birth = yes
+    }
+    1348.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1030 = {
+    name = "Anne"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_gloucester #Plantagenet-Gloucester
+    father = plantagenet_1031 #Thomas
+    1383.1.1 = {
+        birth = yes
+    }
+    1438.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1032 = {
+    name = "Humphrey"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_gloucester #Plantagenet-Gloucester
+    father = plantagenet_1031 #Thomas
+    1381.1.1 = {
+        birth = yes
+    }
+    1399.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1033 = {
+    name = "Isabel"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_gloucester #Plantagenet-Gloucester
+    father = plantagenet_1031 #Thomas
+    1385.1.1 = {
+        birth = yes
+    }
+    1402.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1034 = {
+    name = "Joan"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_gloucester #Plantagenet-Gloucester
+    father = plantagenet_1031 #Thomas
+    1384.1.1 = {
+        birth = yes
+    }
+    1400.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1035 = {
+    name = "Philippa"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_gloucester #Plantagenet-Gloucester
+    father = plantagenet_1031 #Thomas
+    1388.1.1 = {
+        birth = yes
+    }
+    1388.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1031 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_gloucester #Plantagenet-Gloucester
+    father = 454500 #Edward
+    1355.1.1 = {
+        birth = yes
+    }
+    1397.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1036 = {
+    name = "Blanche"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1007 #John
+    add_trait = bastard
+    1359.1.1 = {
+        birth = yes
+    }
+    1389.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1037 = {
+    name = "Blanche"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1038 #Henry
+    1392.1.1 = {
+        birth = yes
+    }
+    1409.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1039 = {
+    name = "Catherine"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1007 #John
+    1373.1.1 = {
+        birth = yes
+    }
+    1418.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1040 = {
+    name = "Edward"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1007 #John
+    1365.1.1 = {
+        birth = yes
+    }
+    1365.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1041 = {
+    name = "Elizabeth"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1007 #John
+    1364.1.1 = {
+        birth = yes
+    }
+    1426.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1038 = {
+    name = "Henry"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1007 #John
+    1367.1.1 = {
+        birth = yes
+    }
+    1413.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1042 = {
+    name = "Henry"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1038 #Henry
+    1386.1.1 = {
+        birth = yes
+    }
+    1422.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1043 = {
+    name = "Henry"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1042 #Henry
+    1421.1.1 = {
+        birth = yes
+    }
+    1471.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1044 = {
+    name = "Humphrey"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1038 #Henry
+    1390.1.1 = {
+        birth = yes
+    }
+    1447.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1045 = {
+    name = "Isabel"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1007 #John
+    1368.1.1 = {
+        birth = yes
+    }
+    1368.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1007 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = 454500 #Edward
+    1340.1.1 = {
+        birth = yes
+    }
+    1399.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1046 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1007 #John
+    1362.1.1 = {
+        birth = yes
+    }
+    1365.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1047 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1007 #John
+    1366.1.1 = {
+        birth = yes
+    }
+    1367.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1048 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1007 #John
+    1374.1.1 = {
+        birth = yes
+    }
+    1375.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1049 = {
+    name = "John"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1038 #Henry
+    1389.1.1 = {
+        birth = yes
+    }
+    1435.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1050 = {
+    name = "Philippa"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1007 #John
+    1360.1.1 = {
+        birth = yes
+    }
+    1415.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1051 = {
+    name = "Philippa"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1038 #Henry
+    1394.1.1 = {
+        birth = yes
+    }
+    1430.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1052 = {
+    name = "Thomas"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_lancaster #Plantagenet-Lancaster
+    father = plantagenet_1038 #Henry
+    1387.1.1 = {
+        birth = yes
+    }
+    1421.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1053 = {
+    name = "Anne"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_york #Plantagenet-York
+    father = plantagenet_1054 #Richard
+    1439.1.1 = {
+        birth = yes
+    }
+    1476.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1055 = {
+    name = "Constance"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_york #Plantagenet-York
+    father = plantagenet_1056 #Edmund
+    1374.1.1 = {
+        birth = yes
+    }
+    1416.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1056 = {
+    name = "Edmund"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_york #Plantagenet-York
+    father = 454500 #Edward
+    1341.1.1 = {
+        birth = yes
+    }
+    1402.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1057 = {
+    name = "Edmund"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_york #Plantagenet-York
+    father = plantagenet_1054 #Richard
+    1443.1.1 = {
+        birth = yes
+    }
+    1460.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1058 = {
+    name = "Edward"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_york #Plantagenet-York
+    father = plantagenet_1056 #Edmund
+    1373.1.1 = {
+        birth = yes
+    }
+    1415.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1059 = {
+    name = "Edward"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_york #Plantagenet-York
+    father = plantagenet_1054 #Richard
+    1442.1.1 = {
+        birth = yes
+    }
+    1483.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1060 = {
+    name = "Elizabeth"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_york #Plantagenet-York
+    father = plantagenet_1054 #Richard
+    1444.4.22 = {
+        birth = yes
+    }
+    1503.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1061 = {
+    name = "Henry"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_york #Plantagenet-York
+    father = plantagenet_1054 #Richard
+    1441.1.1 = {
+        birth = yes
+    }
+    1441.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1062 = {
+    name = "Isabel"
+    culture = "english"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_plantagenet_york #Plantagenet-York
+    father = plantagenet_1063 #Richard
+    1409.1.1 = {
+        birth = yes
+    }
+    1484.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1063 = {
+    name = "Richard"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_york #Plantagenet-York
+    father = plantagenet_1056 #Edmund
+    1385.1.1 = {
+        birth = yes
+    }
+    1415.1.1 = {
+        death = yes
+    }
+}
+
+plantagenet_1054 = {
+    name = "Richard"
+    culture = "english"
+    religion = "catholic"
+    dynasty_house = house_plantagenet_york #Plantagenet-York
+    father = plantagenet_1063 #Richard
+    1411.1.1 = {
+        birth = yes
+    }
+    1460.1.1 = {
+        death = yes
+    }
+}

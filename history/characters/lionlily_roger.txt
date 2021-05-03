@@ -1,0 +1,286 @@
+roger_000 = {
+    name = "Guillaume"
+    dynasty = roger
+    religion = catholic
+    culture = french
+
+    father= roger_016
+    1265.1.1 = {
+        birth = yes
+    }
+    1338.1.1 = {
+        death = yes
+    }
+}
+roger_001 = {
+    name = "Guillaume"
+    dynasty = roger
+    religion = catholic
+    culture = french
+
+    father= roger_000
+    1290.1.1 = {
+        birth = yes
+    }
+    1380.1.1 = {
+        death = yes
+    }
+}
+roger_002 = {
+    name = "Guillaume"
+    dynasty = roger
+    religion = catholic
+    culture = french
+
+    father= roger_001
+    1332.1.1 = {
+        birth = yes
+    }
+    1395.1.1 = {
+        death = yes
+    }
+}
+roger_003 = {
+    name = "Roger"
+    dynasty = roger
+    religion = catholic
+    culture = french
+
+    father= roger_001
+    1333.1.1 = {
+        birth = yes
+    }
+    1383.1.1 = {
+        death = yes
+    }
+}
+roger_004 = {
+    name = "Pierre"
+    dynasty = roger
+    religion = catholic
+    culture = french
+
+    father= roger_001
+    1329.1.1 = {
+        birth = yes
+    }
+    1378.1.1 = {
+        death = yes
+    }
+}
+roger_005 = {
+    name = "Nicolas"
+    dynasty = roger
+    religion = catholic
+    culture = french
+	trait = devoted
+    father= roger_001
+    1340.1.1 = {
+        birth = yes
+    }
+    1415.1.1 = {
+        death = yes
+    }
+}
+roger_006 = {
+    name = "Jean"
+    dynasty = roger
+    religion = catholic
+    culture = french
+
+    father= roger_001
+    1334.1.1 = {
+        birth = yes
+    }
+    1391.1.1 = {
+        death = yes
+    }
+}
+roger_007 = {
+    name = "Delphine"
+    dynasty = roger
+    religion = catholic
+    culture = french
+    female = yes
+
+    father= roger_001
+    1335.1.1 = {
+        birth = yes
+    }
+    1385.1.1 = {
+        death = yes
+    }
+}
+roger_008 = {
+    name = "Marthe"
+    dynasty = roger
+    religion = catholic
+    culture = french
+    female = yes
+
+    father= roger_001
+    1336.1.1 = {
+        birth = yes
+    }
+    1386.1.1 = {
+        death = yes
+    }
+}
+roger_009 = {
+    name = "Marie"
+    dynasty = roger
+    religion = catholic
+    culture = french
+    female = yes
+
+    father= roger_001
+    1337.1.1 = {
+        birth = yes
+    }
+    1387.1.1 = {
+        death = yes
+    }
+}
+roger_010 = {
+    name = "Marguerite"
+    dynasty = roger
+    religion = catholic
+    culture = french
+    female = yes
+
+    father= roger_001
+    1338.1.1 = {
+        birth = yes
+    }
+    1388.1.1 = {
+        death = yes
+    }
+}
+roger_011 = {
+    name = "Hélène "
+    dynasty = roger
+    religion = catholic
+    culture = french
+    female = yes
+
+    father= roger_001
+    1339.1.1 = {
+        birth = yes
+    }
+    1389.1.1 = {
+        death = yes
+    }
+}
+roger_012 = {
+    name = "Jeanne"
+    dynasty = roger
+    religion = catholic
+    culture = french
+    female = yes
+
+    father= roger_001
+    1346.1.1 = {
+        birth = yes
+    }
+    1396.1.1 = {
+        death = yes
+    }
+}
+roger_013 = {
+    name = "Claire"
+    dynasty = roger
+    religion = catholic
+    culture = french
+    female = yes
+
+    father= roger_001
+    1347.1.1 = {
+        birth = yes
+    }
+    1397.1.1 = {
+        death = yes
+    }
+}
+roger_014 = {
+    name = "Raymond"
+    dynasty = roger
+    religion = catholic
+    culture = french
+
+    father= roger_001
+    1369.1.1 = {
+        birth = yes
+    }
+    1419.1.1 = {
+        death = yes
+    }
+}
+roger_015 = {
+    name = "Tristan"
+    dynasty = roger
+    religion = catholic
+    culture = french
+    trait = bastard
+    father= roger_001
+    1335.1.1 = {
+        birth = yes
+    }
+    1395.1.1 = {
+        death = yes
+    }
+}
+roger_016 = {
+    name = "Pierre"
+    dynasty = roger
+    religion = catholic
+    culture = french
+    1240.1.1 = {
+        birth = yes
+    }
+    1300.1.1 = {
+        death = yes
+    }
+}
+roger_017 = {
+    name = "Nicolas"
+    dynasty = roger
+    religion = catholic
+    culture = french
+
+    father= roger_016
+    1277.1.1 = {
+        birth = yes
+    }
+    1347.1.1 = {
+        death = yes
+    }
+}
+roger_018 = {
+    name = "Peyronne"
+    dynasty = roger
+    religion = catholic
+    culture = french
+    female = yes
+
+    father= roger_016
+    1269.1.1 = {
+        birth = yes
+    }
+    1319.1.1 = {
+        death = yes
+    }
+}
+roger_019 = {
+    name = "Pierre"
+    dynasty = roger
+    religion = catholic
+    culture = french
+
+    father= roger_016
+    1267.1.1 = {
+        birth = yes
+    }
+    1324.1.1 = {
+        death = yes
+    }
+}

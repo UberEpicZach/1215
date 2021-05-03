@@ -1,0 +1,314 @@
+bordeaux = {
+    name = "Pierre"
+    dynasty = deluc
+    religion = catholic
+    culture = french
+    1275.1.1 = {
+        birth = yes
+    }
+    1345.1.1 = {
+        death = yes
+    }
+}
+arles = {
+    name = "Gasbert"
+    dynasty = delaval
+    religion = catholic
+    culture = french
+    1271.1.1 = {
+        birth = yes
+    }
+    1341.1.1 = {
+        death = yes
+    }
+}
+aix = {
+    name = "Armand"
+    dynasty = denarces
+    religion = catholic
+    culture = french
+    1278.1.1 = {
+        birth = yes
+    }
+    1348.1.1 = {
+        death = yes
+    }
+}
+besancon = {
+    name = "Hugues"
+    dynasty =  675 
+    religion = catholic
+    culture = french
+    1285.1.1 = {
+        birth = yes
+    }
+    1355.1.1 = {
+        death = yes
+    }
+}
+bourges = {
+    name = "Foucaud"
+    dynasty =  5001 
+    religion = catholic
+    culture = french
+    1273.1.1 = {
+        birth = yes
+    }
+    1343.1.1 = {
+        death = yes
+    }
+}
+embrun = {
+    name = "Bertrand"
+    dynasty = deaulx
+    religion = catholic
+    culture = french
+    1285.1.1 = {
+        birth = yes
+    }
+    1355.1.1 = {
+        death = yes
+    }
+}
+lyon = {
+    name = "Guy"
+    dynasty =  733 
+    religion = catholic
+    culture = french
+    father = 7471
+    mother = 138429
+    1313.1.1 = {
+        birth = yes
+    }
+    1373.1.1 = {
+        death = yes
+    }
+}
+tarentaise = {
+    name = "Jacques"
+    dynasty = deverlozdesalins
+    religion = catholic
+    culture = french
+    1271.1.1 = {
+        birth = yes
+    }
+    1341.1.1 = {
+        death = yes
+    }
+}
+vienne = {
+    name = "Bertrand"
+    dynasty = delachapelle
+    religion = catholic
+    culture = french
+    1282.1.1 = {
+        birth = yes
+    }
+    1352.1.1 = {
+        death = yes
+    }
+}
+tarragona = {
+    name = "Arnaldo"
+    dynasty = sescomes
+    religion = catholic
+    culture = catalan
+    1276.1.1 = {
+        birth = yes
+    }
+    1346.1.1 = {
+        death = yes
+    }
+}
+zaragoza = {
+    name = "Pedro"
+    dynasty =  7033 
+    religion = catholic
+    culture = catalan
+    1275.1.1 = {
+        birth = yes
+    }
+    1345.1.1 = {
+        death = yes
+    }
+}
+york = {
+    name = "William"
+    dynasty = melton
+    religion = catholic
+    culture = english
+    1270.1.1 = {
+        birth = yes
+    }
+    1340.1.1 = {
+        death = yes
+    }
+}
+canterbury = {
+    name = "John"
+    dynasty =  1027031 
+    religion = catholic
+    culture = english
+    1275.1.1 = {
+        birth = yes
+    }
+    1348.1.1 = {
+        death = yes
+    }
+}
+standrews = {
+    name = "William"
+    dynasty = bell
+    religion = catholic
+    culture = scottish
+    1273.1.1 = {
+        birth = yes
+    }
+    1343.1.1 = {
+        death = yes
+    }
+}
+dublin = {
+    name = "Alexander"
+    dynasty = bicknor
+    religion = catholic
+    culture = english
+    1279.1.1 = {
+        birth = yes
+    }
+    1349.1.1 = {
+        death = yes
+    }
+}
+armagh = {
+    name = "David"
+    dynasty = mageraghty
+    religion = catholic
+    culture = irish
+    1276.1.1 = {
+        birth = yes
+    }
+    1346.1.1 = {
+        death = yes
+    }
+}
+esztergom = {
+    name = "Csanad"
+    dynasty =  19045 
+    religion = catholic
+    culture = hungarian
+    1280.1.1 = {
+        birth = yes
+    }
+    1349.1.1 = {
+        death = yes
+    }
+}
+nidaros = {
+    name = "Pal"
+    dynasty = bardsson
+    religion = catholic
+    culture = norwegian
+    1276.1.1 = {
+        birth = yes
+    }
+    1346.1.1 = {
+        death = yes
+    }
+}
+uppsala = {
+    name = "Peder"
+    dynasty =  141 
+    religion = catholic
+    culture = swedish
+    1271.1.1 = {
+        birth = yes
+    }
+    1341.1.1 = {
+        death = yes
+    }
+}
+lund = {
+    name = "Peder"
+    dynasty =  760 
+    religion = catholic
+    culture = danish
+    1285.1.1 = {
+        birth = yes
+    }
+    1355.1.1 = {
+        death = yes
+    }
+}
+genoa = {
+    name = "Dino"
+    dynasty = radicofani
+    religion = catholic
+    culture = italian
+    1278.1.1 = {
+        birth = yes
+    }
+    1348.1.1 = {
+        death = yes
+    }
+}
+grado = {
+    name = "Andrea"
+    dynasty = dapadova
+    religion = catholic
+    culture = italian
+    1285.1.1 = {
+        birth = yes
+    }
+    1355.1.1 = {
+        death = yes
+    }
+}
+pisa = {
+    name = "Dino"
+    dynasty = detusci
+    religion = catholic
+    culture = italian
+    1272.1.1 = {
+        birth = yes
+    }
+    1342.1.1 = {
+        death = yes
+    }
+}
+naples = {
+    name = "Giovanni"
+    dynasty =  2 
+    religion = catholic
+    culture = italian
+    1289.1.1 = {
+        birth = yes
+    }
+    1359.1.1 = {
+        death = yes
+    }
+}
+paderborn = {
+    name = "Bernard"
+    dynasty =  12462 
+    religion = catholic
+    culture = franconian
+    1277.1.1 = {
+        birth = yes
+    }
+    1341.1.1 = {
+        death = yes
+    }
+}
+freising = {
+    name = "Konrad"
+    dynasty =  9515 
+    religion = catholic
+    culture = franconian
+    1270.1.1 = {
+        birth = yes
+    }
+    1340.1.1 = {
+        death = yes
+    }
+}

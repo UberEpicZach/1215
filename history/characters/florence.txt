@@ -1,0 +1,90 @@
+florence_000 = {
+    name = "Salvestro"
+    dynasty = medici
+    religion = catholic
+    culture = italian
+    1300.1.1 = {
+        birth = yes
+    }
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+			add_realm_law = male_only_law
+		}
+	}
+    1346.1.1 = {
+        death = yes
+    }
+}
+florence_001 = {
+    name = "Guidotto"
+    dynasty = pazzi
+    religion = catholic
+    culture = italian
+    1298.1.1 = {
+        birth = yes
+    }
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+			add_realm_law = male_only_law
+		}
+	}
+    1348.1.1 = {
+        death = yes
+    }
+}
+florence_002 = {
+    name = "Piero"
+    dynasty = albizzi
+    religion = catholic
+    culture = italian
+    1305.1.1 = {
+        birth = yes
+    }
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+			add_realm_law = male_only_law
+		}
+	}
+    1379.1.1 = {
+        death = yes
+    }
+}
+florence_003 = {
+    name = "Palla"
+    dynasty = strozzi
+    religion = catholic
+    culture = italian
+    1314.1.1 = {
+        birth = yes
+    }
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+			add_realm_law = male_only_law
+		}
+	}
+    1364.1.1 = {
+        death = yes
+    }
+}
+florence_004 = {
+    name = "Jacopo"
+    dynasty = acciaiuoli
+    religion = catholic
+    culture = italian
+    1306.1.1 = {
+        birth = yes
+    }
+	1337.1.1 = {
+		effect = {
+			add_realm_law = single_heir_succession_law
+			add_realm_law = male_only_law
+		}
+	}
+    1356.1.1 = {
+        death = yes
+    }
+}

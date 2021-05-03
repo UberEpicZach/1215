@@ -1,0 +1,77 @@
+CKU_limoges = {
+	pattern = "pattern_solid.dds"
+	color1 = "yellow"	
+	color2 = "blue"
+
+	colored_emblem = {
+		texture = "ce_lion_rampant.dds"
+		color1 = "blue"
+		color2 = "blue"
+		instance = { position = { 0.315 0.29 } scale = { 0.48 0.48 }  }
+		instance = { position = { 0.685 0.29 } scale = { 0.48 0.48 }  }
+		instance = { position = { 0.5 0.68 } scale = { 0.48 0.48 }  }
+	}
+}
+house_limoges_comborn = {
+	pattern = "pattern_solid.dds"
+	color1 = "yellow"	
+	color2 = "red"
+
+	colored_emblem = {
+		texture = "ce_lion_passant_small.dds"
+		color1 = "red"
+		color2 = "red"
+		instance = { position = { 0.50 0.33 } scale = { 1.0 1.0 }  }
+		instance = { position = { 0.50 0.66 } scale = { 1.0 1.0 }  }
+	}
+}
+house_limoges_turenne = {
+	pattern = "pattern_solid.dds"
+	color1 = "yellow"	
+	color2 = "red"
+
+	colored_emblem = {
+		texture = "ce_bends_04.dds"
+		color1 = "red"
+	}
+}
+house_limoges_ventadour = {
+	pattern = "pattern_checkers_06.dds"
+	color1 = "red"	
+	color2 = "yellow"
+}
+house_limoges_aubusson = {
+	pattern = "pattern_solid.dds"
+	color1 = "yellow"	
+	color2 = "red"
+
+	colored_emblem = {
+		texture = "ce_cross_moline.dds"
+		color1 = "red"
+	}
+}
+house_limoges_brosse = {
+	pattern = "pattern_solid.dds"
+	color1 = "blue"	
+	color2 = "yellow"
+
+	colored_emblem = {
+		texture = "ce_grain.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance = { position = { 0.30 0.25 } scale = { 0.50 0.50 }  }
+		instance = { position = { 0.70 0.25 } scale = { 0.50 0.50 }  }
+		instance = { position = { 0.5 0.70 } scale = { 0.50 0.50 }  }
+	}
+}
+house_limoges_rochechouart = {
+	pattern = "pattern_solid.dds"
+	color1 = "white"	
+	color2 = "red"
+
+	colored_emblem = {
+		texture = "ce_nebuly_01.dds"
+		color1 = "red"
+		color2 = "white"
+	}
+}

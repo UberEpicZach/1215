@@ -1,0 +1,648 @@
+balassa_1000 = {
+    name = "Agata"
+    culture = "hungarian"
+    religion = "catholic"
+    female = yes
+    dynasty = balassa #Balassa
+    father = balassa_1001 #Laszlo
+    1440.1.1 = {
+        birth = yes
+    }
+    1490.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1002 = {
+    name = "Anna"
+    culture = "hungarian"
+    religion = "catholic"
+    female = yes
+    dynasty = balassa #Balassa
+    father = balassa_1003 #Péter
+    1270.1.1 = {
+        birth = yes
+    }
+    1320.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1004 = {
+    name = "Balasz"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1005 #Miklós
+    1330.1.1 = {
+        birth = yes
+    }
+    1380.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1006 = {
+    name = "Bernat"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1001 #Laszlo
+    1445.1.1 = {
+        birth = yes
+    }
+    1495.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1007 = {
+    name = "Biter"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1008 #Miko
+    1230.1.1 = {
+        birth = yes
+    }
+    1290.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1009 = {
+    name = "Bora"
+    culture = "hungarian"
+    religion = "catholic"
+    female = yes
+    dynasty = balassa #Balassa
+    father = balassa_1001 #Laszlo
+    1430.1.1 = {
+        birth = yes
+    }
+    1480.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1010 = {
+    name = "Demeter"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1011 #Miklós
+    1240.1.1 = {
+        birth = yes
+    }
+    1290.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1012 = {
+    name = "Detre"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    1180.1.1 = {
+        birth = yes
+    }
+    1230.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1013 = {
+    name = "Detre"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1012 #Detre
+    1220.1.1 = {
+        birth = yes
+    }
+    1270.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1014 = {
+    name = "Detre"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1013 #Detre
+    1255.1.1 = {
+        birth = yes
+    }
+    1305.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1015 = {
+    name = "Elek"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1013 #Detre
+    1250.1.1 = {
+        birth = yes
+    }
+    1300.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1016 = {
+    name = "Erzse"
+    culture = "hungarian"
+    religion = "catholic"
+    female = yes
+    dynasty = balassa #Balassa
+    father = balassa_1001 #Laszlo
+    1425.1.1 = {
+        birth = yes
+    }
+    1475.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1017 = {
+    name = "Ferenc"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1001 #Laszlo
+    1460.1.1 = {
+        birth = yes
+    }
+    1526.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1018 = {
+    name = "Ferenc"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1019 #László
+    1320.1.1 = {
+        birth = yes
+    }
+    1370.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1020 = {
+    name = "Ferenc"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1021 #László
+    1356.1.1 = {
+        birth = yes
+    }
+    1406.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1022 = {
+    name = "György"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1023 #Miklós
+    1285.1.1 = {
+        birth = yes
+    }
+    1335.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1024 = {
+    name = "György"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1025 #Péter
+    1305.1.1 = {
+        birth = yes
+    }
+    1355.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1026 = {
+    name = "Janos"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1007 #Biter
+    1255.1.1 = {
+        birth = yes
+    }
+    1305.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1027 = {
+    name = "Janos"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1025 #Péter
+    1300.1.1 = {
+        birth = yes
+    }
+    1350.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1028 = {
+    name = "Janos"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1024 #György
+    1330.1.1 = {
+        birth = yes
+    }
+    1380.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1029 = {
+    name = "Janos"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1005 #Miklós
+    1332.1.1 = {
+        birth = yes
+    }
+    1382.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1030 = {
+    name = "Janos"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1001 #Laszlo
+    1455.1.1 = {
+        birth = yes
+    }
+    1505.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1031 = {
+    name = "Kata"
+    culture = "hungarian"
+    religion = "catholic"
+    female = yes
+    dynasty = balassa #Balassa
+    father = balassa_1001 #Laszlo
+    1435.1.1 = {
+        birth = yes
+    }
+    1485.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1032 = {
+    name = "Kats"
+    culture = "hungarian"
+    religion = "catholic"
+    female = yes
+    dynasty = balassa #Balassa
+    father = balassa_1003 #Péter
+    1265.1.1 = {
+        birth = yes
+    }
+    1315.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1033 = {
+    name = "Kelemen"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1034 #Miklós
+    1405.1.1 = {
+        birth = yes
+    }
+    1455.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1001 = {
+    name = "Laszlo"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1034 #Miklós
+    1400.1.1 = {
+        birth = yes
+    }
+    1477.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1019 = {
+    name = "László"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1025 #Péter
+    1295.1.1 = {
+        birth = yes
+    }
+    1345.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1021 = {
+    name = "László"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1005 #Miklós
+    1331.1.1 = {
+        birth = yes
+    }
+    1381.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1035 = {
+    name = "Mihály"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1007 #Biter
+    1270.1.1 = {
+        birth = yes
+    }
+    1320.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1011 = {
+    name = "Miklós"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1012 #Detre
+    1215.1.1 = {
+        birth = yes
+    }
+    1265.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1023 = {
+    name = "Miklós"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1007 #Biter
+    1260.1.1 = {
+        birth = yes
+    }
+    1310.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1005 = {
+    name = "Miklós"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1025 #Péter
+    1310.1.1 = {
+        birth = yes
+    }
+    1360.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1034 = {
+    name = "Miklós"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1004 #Balasz
+    1355.1.1 = {
+        birth = yes
+    }
+    1424.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1036 = {
+    name = "Miklós"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1021 #László
+    1361.1.1 = {
+        birth = yes
+    }
+    1411.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1037 = {
+    name = "Miklós"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1001 #Laszlo
+    1450.1.1 = {
+        birth = yes
+    }
+    1500.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1008 = {
+    name = "Miko"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1012 #Detre
+    1205.1.1 = {
+        birth = yes
+    }
+    1254.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1038 = {
+    name = "Miko"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1008 #Miko
+    1231.1.1 = {
+        birth = yes
+    }
+    1281.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1039 = {
+    name = "Miko"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1013 #Detre
+    1245.1.1 = {
+        birth = yes
+    }
+    1295.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1040 = {
+    name = "Miko"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1005 #Miklós
+    1333.1.1 = {
+        birth = yes
+    }
+    1383.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1041 = {
+    name = "Ogouch"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1008 #Miko
+    1233.1.1 = {
+        birth = yes
+    }
+    1283.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1042 = {
+    name = "Péter"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1012 #Detre
+    1210.1.1 = {
+        birth = yes
+    }
+    1260.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1003 = {
+    name = "Péter"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1008 #Miko
+    1232.1.1 = {
+        birth = yes
+    }
+    1282.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1043 = {
+    name = "Péter"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1011 #Miklós
+    1245.1.1 = {
+        birth = yes
+    }
+    1295.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1025 = {
+    name = "Péter"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1007 #Biter
+    1265.1.1 = {
+        birth = yes
+    }
+    1337.12.31 = {
+        death = yes
+    }
+}
+
+balassa_1044 = {
+    name = "Péter"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1024 #György
+    1335.1.1 = {
+        birth = yes
+    }
+    1385.1.1 = {
+        death = yes
+    }
+}
+
+balassa_1045 = {
+    name = "Zsigmond"
+    culture = "hungarian"
+    religion = "catholic"
+    dynasty = balassa #Balassa
+    father = balassa_1034 #Miklós
+    1410.1.1 = {
+        birth = yes
+    }
+    1460.1.1 = {
+        death = yes
+    }
+}

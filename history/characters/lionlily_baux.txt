@@ -1,0 +1,2533 @@
+baux_0000 = {
+    name = "Agathe"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0001 #Agoult
+    1316.1.1 = {
+        birth = yes
+    }
+    1366.1.1 = {
+        death = yes
+    }
+}
+
+baux_0001 = {
+    name = "Agoult"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0002 #Bertrand
+    1286.1.1 = {
+        birth = yes
+    }
+    1346.1.1 = {
+        death = yes
+    }
+}
+
+baux_0003 = {
+    name = "Alazasia"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0004 #Raymond
+    1133.1.1 = {
+        birth = yes
+    }
+    1183.1.1 = {
+        death = yes
+    }
+}
+
+baux_0005 = {
+    name = "Alazasia"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0006 #Hugues
+    1220.1.1 = {
+        birth = yes
+    }
+    1274.1.1 = {
+        death = yes
+    }
+}
+
+baux_0007 = {
+    name = "Alice"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0008 #Raymond
+    mother = baux_0009 #Etiennette
+    1308.1.1 = {
+        birth = yes
+    }
+    1358.1.1 = {
+        death = yes
+    }
+}
+
+baux_0010 = {
+    name = "Alix"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0011 #Raymond
+    1367.1.1 = {
+        birth = yes
+    }
+    1426.1.1 = {
+        death = yes
+    }
+}
+
+baux_0012 = {
+    name = "Amiel"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0001 #Agoult
+    1315.1.1 = {
+        birth = yes
+    }
+    1374.1.1 = {
+        death = yes
+    }
+}
+
+baux_0013 = {
+    name = "Antoine"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0014 #Hugues
+    1332.1.1 = {
+        birth = yes
+    }
+    1374.1.1 = {
+        death = yes
+    }
+}
+
+baux_0015 = {
+    name = "Barral"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0006 #Hugues
+    1217.1.1 = {
+        birth = yes
+    }
+    1268.1.1 = {
+        death = yes
+    }
+}
+
+baux_0016 = {
+    name = "Barral"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0002 #Bertrand
+    1285.1.1 = {
+        birth = yes
+    }
+    1331.1.1 = {
+        death = yes
+    }
+}
+
+baux_0017 = {
+    name = "Bauzia"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0001 #Agoult
+    1318.1.1 = {
+        birth = yes
+    }
+    1390.1.1 = {
+        death = yes
+    }
+}
+
+baux_0018 = {
+    name = "Beatrice"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0002 #Bertrand
+    1266.1.1 = {
+        birth = yes
+    }
+    1324.1.1 = {
+        death = yes
+    }
+}
+
+baux_0019 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0004 #Raymond
+    1130.1.1 = {
+        birth = yes
+    }
+    1181.1.1 = {
+        death = yes
+    }
+}
+
+baux_0020 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0019 #Bertrand
+    1175.1.1 = {
+        birth = yes
+    }
+    1201.1.1 = {
+        death = yes
+    }
+}
+
+baux_0002 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0015 #Barral
+    1235.1.1 = {
+        birth = yes
+    }
+    1305.1.1 = {
+        death = yes
+    }
+}
+
+baux_0021 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0001 #Agoult
+    1311.1.1 = {
+        birth = yes
+    }
+    1336.1.1 = {
+        add_spouse = baux_0022 #Catherine
+    }
+    1375.1.1 = {
+        death = yes
+    }
+}
+
+baux_0023 = {
+    name = "Cecile"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0006 #Hugues
+    1219.1.1 = {
+        birth = yes
+    }
+    1234.1.1 = {
+        death = yes
+    }
+}
+
+baux_0024 = {
+    name = "Cecile"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0015 #Barral
+    1230.1.1 = {
+        birth = yes
+    }
+    1275.1.1 = {
+        death = yes
+    }
+}
+
+baux_0025 = {
+    name = "Cecile"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0002 #Bertrand
+    1287.1.1 = {
+        birth = yes
+    }
+    1342.1.1 = {
+        death = yes
+    }
+}
+
+baux_0026 = {
+    name = "Cecile"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0001 #Agoult
+    1317.1.1 = {
+        birth = yes
+    }
+    1367.1.1 = {
+        death = yes
+    }
+}
+
+baux_0027 = {
+    name = "Dragonnet"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0001 #Agoult
+    add_trait = devoted
+    1312.1.1 = {
+        birth = yes
+    }
+    1362.1.1 = {
+        death = yes
+    }
+}
+
+baux_0028 = {
+    name = "Etiennette"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0014 #Hugues
+    1335.1.1 = {
+        birth = yes
+    }
+    1360.1.1 = {
+        death = yes
+    }
+}
+
+baux_0029 = {
+    name = "François"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0014 #Hugues
+    1334.1.1 = {
+        birth = yes
+    }
+    1390.1.1 = {
+        death = yes
+    }
+}
+
+baux_0030 = {
+    name = "Gilbert"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0004 #Raymond
+    1132.1.1 = {
+        birth = yes
+    }
+    1160.1.1 = {
+        death = yes
+    }
+}
+
+baux_0031 = {
+    name = "Gilbert"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0006 #Hugues
+    1218.1.1 = {
+        birth = yes
+    }
+    1243.1.1 = {
+        death = yes
+    }
+}
+
+baux_0032 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0004 #Raymond
+    1131.1.1 = {
+        birth = yes
+    }
+    1160.1.1 = {
+        death = yes
+    }
+}
+
+baux_0033 = {
+    name = "Guillaume Hugues"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0034 #Hugues
+    1050.1.1 = {
+        birth = yes
+    }
+    1105.1.1 = {
+        death = yes
+    }
+}
+
+baux_0034 = {
+    name = "Hugues"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0035 #Pons
+    970.1.1 = {
+        birth = yes
+    }
+    1059.1.1 = {
+        death = yes
+    }
+}
+
+baux_0036 = {
+    name = "Hugues"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0004 #Raymond
+    1121.1.1 = {
+        birth = yes
+    }
+    1179.1.1 = {
+        death = yes
+    }
+}
+
+baux_0006 = {
+    name = "Hugues"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0019 #Bertrand
+    1174.1.1 = {
+        birth = yes
+    }
+    1240.1.1 = {
+        death = yes
+    }
+}
+
+baux_0037 = {
+    name = "Hugues"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0002 #Bertrand
+    1265.1.1 = {
+        birth = yes
+    }
+    1303.1.1 = {
+        death = yes
+    }
+}
+
+baux_0014 = {
+    name = "Hugues"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0008 #Raymond
+    mother = baux_0009 #Etiennette
+    1306.1.1 = {
+        birth = yes
+    }
+    1351.1.1 = {
+        death = yes
+    }
+}
+
+baux_0038 = {
+    name = "Ison"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0039 #Pons
+    890.1.1 = {
+        birth = yes
+    }
+    940.1.1 = {
+        death = yes
+    }
+}
+
+baux_0040 = {
+    name = "Jacques"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0016 #Barral
+    1310.1.1 = {
+        birth = yes
+    }
+    1360.1.1 = {
+        death = yes
+    }
+}
+
+baux_0041 = {
+    name = "Louis"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0001 #Agoult
+    1314.1.1 = {
+        birth = yes
+    }
+    1364.1.1 = {
+        death = yes
+    }
+}
+
+baux_0042 = {
+    name = "Marquise"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0015 #Barral
+    1239.1.1 = {
+        birth = yes
+    }
+    1270.1.1 = {
+        death = yes
+    }
+}
+
+baux_0043 = {
+    name = "Philippine"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0008 #Raymond
+    mother = baux_0009 #Etiennette
+    1307.1.1 = {
+        birth = yes
+    }
+    1371.1.1 = {
+        death = yes
+    }
+}
+
+baux_0039 = {
+    name = "Pons"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    860.1.1 = {
+        birth = yes
+    }
+    910.1.1 = {
+        death = yes
+    }
+}
+
+baux_0044 = {
+    name = "Pons"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0038 #Ison
+    920.1.1 = {
+        birth = yes
+    }
+    970.1.1 = {
+        death = yes
+    }
+}
+
+baux_0035 = {
+    name = "Pons"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0044 #Pons
+    950.1.1 = {
+        birth = yes
+    }
+    1032.1.1 = {
+        death = yes
+    }
+}
+
+baux_0004 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0033 #Guillaume Hugues
+    1085.1.1 = {
+        birth = yes
+    }
+    1150.1.1 = {
+        death = yes
+    }
+}
+
+baux_0045 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0020 #Bertrand
+    1193.1.1 = {
+        birth = yes
+    }
+    1236.1.1 = {
+        death = yes
+    }
+}
+
+baux_0008 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0002 #Bertrand
+    1264.1.1 = {
+        birth = yes
+    }
+    1293.1.1 = {
+        add_spouse = baux_0009 #Etiennette
+    }
+    1321.1.1 = {
+        death = yes
+    }
+}
+
+baux_0046 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0001 #Agoult
+    add_trait = devoted
+    1313.1.1 = {
+        birth = yes
+    }
+    1381.1.1 = {
+        death = yes
+    }
+}
+
+baux_0011 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0014 #Hugues
+    1333.1.1 = {
+        birth = yes
+    }
+    1372.1.1 = {
+        death = yes
+    }
+}
+
+baux_0047 = {
+    name = "Robert"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0014 #Hugues
+    1331.1.1 = {
+        birth = yes
+    }
+    1353.1.1 = {
+        death = yes
+    }
+}
+
+baux_0048 = {
+    name = "Sibylla"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0002 #Bertrand
+    1283.1.1 = {
+        birth = yes
+    }
+    1360.1.1 = {
+        death = yes
+    }
+}
+
+baux_0049 = {
+    name = "Sibylla"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty = 5117 #Baux
+    father = baux_0008 #Raymond
+    mother = baux_0009 #Etiennette
+    1319.1.1 = {
+        birth = yes
+    }
+    1361.1.1 = {
+        death = yes
+    }
+}
+
+baux_0050 = {
+    name = "Umbert"
+    culture = "french"
+    religion = "catholic"
+    dynasty = 5117 #Baux
+    father = baux_0039 #Pons
+    891.1.1 = {
+        birth = yes
+    }
+    933.1.1 = {
+        death = yes
+    }
+}
+
+baux_0051 = {
+    name = "Angilbert"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_andria #Baux-Andria
+    father = baux_0052 #Francois
+    1450.1.1 = {
+        birth = yes
+    }
+    1487.1.1 = {
+        death = yes
+    }
+}
+
+baux_0053 = {
+    name = "Antonia"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_andria #Baux-Andria
+    father = baux_0054 #Francois
+    1359.1.1 = {
+        birth = yes
+    }
+    1409.1.1 = {
+        death = yes
+    }
+}
+
+baux_0054 = {
+    name = "Francois"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_andria #Baux-Andria
+    father = baux_0055 #Bertrand
+    1338.1.1 = {
+        birth = yes
+    }
+    1422.1.1 = {
+        death = yes
+    }
+}
+
+baux_0052 = {
+    name = "Francois"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_andria #Baux-Andria
+    father = baux_0056 #Guillaume
+    1410.1.1 = {
+        birth = yes
+    }
+    1482.1.1 = {
+        death = yes
+    }
+}
+
+baux_0056 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_andria #Baux-Andria
+    father = baux_0054 #Francois
+    1369.1.1 = {
+        birth = yes
+    }
+    1444.1.1 = {
+        death = yes
+    }
+}
+
+baux_0057 = {
+    name = "Jacques"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_andria #Baux-Andria
+    father = baux_0054 #Francois
+    1354.1.1 = {
+        birth = yes
+    }
+    1383.1.1 = {
+        death = yes
+    }
+}
+
+baux_0058 = {
+    name = "Marguerite"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_andria #Baux-Andria
+    father = baux_0054 #Francois
+    1364.1.1 = {
+        birth = yes
+    }
+    1414.1.1 = {
+        death = yes
+    }
+}
+
+baux_0059 = {
+    name = "Pierre"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_andria #Baux-Andria
+    father = baux_0052 #Francois
+    1430.1.1 = {
+        birth = yes
+    }
+    1491.1.1 = {
+        death = yes
+    }
+}
+
+baux_0060 = {
+    name = "Barral"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_berre #Baux-Berre
+    father = baux_0061 #Guillaume
+    1246.1.1 = {
+        birth = yes
+    }
+    1296.1.1 = {
+        death = yes
+    }
+}
+
+baux_0062 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_berre #Baux-Berre
+    father = baux_0061 #Guillaume
+    1245.1.1 = {
+        birth = yes
+    }
+    1309.1.1 = {
+        death = yes
+    }
+}
+
+baux_0055 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_berre #Baux-Berre
+    father = baux_0062 #Bertrand
+    1270.1.1 = {
+        birth = yes
+    }
+    1351.1.1 = {
+        death = yes
+    }
+}
+
+baux_0063 = {
+    name = "Blanche"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_berre #Baux-Berre
+    father = baux_0055 #Bertrand
+    1335.1.1 = {
+        birth = yes
+    }
+    1385.1.1 = {
+        death = yes
+    }
+}
+
+baux_0064 = {
+    name = "Catherine"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_berre #Baux-Berre
+    father = baux_0055 #Bertrand
+    1339.1.1 = {
+        birth = yes
+    }
+    1389.1.1 = {
+        death = yes
+    }
+}
+
+baux_0061 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_berre #Baux-Berre
+    father = baux_0045 #Raymond
+    1219.1.1 = {
+        birth = yes
+    }
+    1266.1.1 = {
+        death = yes
+    }
+}
+
+baux_0065 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_berre #Baux-Berre
+    father = baux_0061 #Guillaume
+    add_trait = devoted
+    1247.1.1 = {
+        birth = yes
+    }
+    1297.1.1 = {
+        death = yes
+    }
+}
+
+baux_0066 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_berre #Baux-Berre
+    father = baux_0062 #Bertrand
+    1275.1.1 = {
+        birth = yes
+    }
+    1324.1.1 = {
+        add_spouse = baux_0067 #Eleanor
+    }
+    1344.1.1 = {
+        death = yes
+    }
+}
+
+baux_0068 = {
+    name = "Hugues"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_berre #Baux-Berre
+    father = baux_0062 #Bertrand
+    1280.1.1 = {
+        birth = yes
+    }
+    1319.1.1 = {
+        add_spouse = baux_0069 #Isoard
+    }
+    1344.1.1 = {
+        death = yes
+    }
+}
+
+baux_0070 = {
+    name = "Isabelle"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_berre #Baux-Berre
+    father = baux_0055 #Bertrand
+    1325.1.1 = {
+        birth = yes
+    }
+    1379.1.1 = {
+        death = yes
+    }
+}
+
+baux_0071 = {
+    name = "Izoarde"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_berre #Baux-Berre
+    father = baux_0062 #Bertrand
+    1290.1.1 = {
+        birth = yes
+    }
+    1347.1.1 = {
+        death = yes
+    }
+}
+
+baux_0072 = {
+    name = "Marie"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_berre #Baux-Berre
+    father = baux_0055 #Bertrand
+    1309.1.1 = {
+        birth = yes
+    }
+    1347.1.1 = {
+        death = yes
+    }
+}
+
+baux_0073 = {
+    name = "Amiel"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0074 #Bertrand
+    mother = baux_0075 #Etienette
+    1286.1.1 = {
+        birth = yes
+    }
+    1351.1.1 = {
+        death = yes
+    }
+}
+
+baux_0076 = {
+    name = "Amiel"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0077 #Jean Théoden
+    add_trait = bastard
+    1326.1.1 = {
+        birth = yes
+    }
+    1382.1.1 = {
+        death = yes
+    }
+}
+
+baux_0078 = {
+    name = "Banselen"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0074 #Bertrand
+    mother = baux_0075 #Etienette
+    1283.1.1 = {
+        birth = yes
+    }
+    1333.1.1 = {
+        death = yes
+    }
+}
+
+baux_0079 = {
+    name = "Barral"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0074 #Bertrand
+    mother = baux_0075 #Etienette
+    1281.1.1 = {
+        birth = yes
+    }
+    1331.1.1 = {
+        death = yes
+    }
+}
+
+baux_0074 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0080 #Raymond
+    1255.1.1 = {
+        birth = yes
+    }
+    1272.1.1 = {
+        add_spouse = baux_0075 #Etienette
+    }
+    1305.1.1 = {
+        death = yes
+    }
+}
+
+baux_0081 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0074 #Bertrand
+    mother = baux_0075 #Etienette
+    1284.1.1 = {
+        birth = yes
+    }
+    1301.1.1 = {
+        add_spouse = baux_0082 #Margarita
+    }
+    1345.1.1 = {
+        death = yes
+    }
+}
+
+baux_0083 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0084 #Raymond
+    1301.1.1 = {
+        birth = yes
+    }
+    1347.1.1 = {
+        death = yes
+    }
+}
+
+baux_0085 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0073 #Amiel
+    1309.1.1 = {
+        birth = yes
+    }
+    1336.1.1 = {
+        death = yes
+    }
+}
+
+baux_0022 = {
+    name = "Catherine"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0083 #Bertrand
+    1321.1.1 = {
+        birth = yes
+    }
+    1336.1.1 = {
+        add_spouse = baux_0021 #Bertrand
+    }
+    1394.1.1 = {
+        death = yes
+    }
+}
+
+baux_0086 = {
+    name = "Catherine"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0087 #Jacques
+    1421.1.1 = {
+        birth = yes
+    }
+    1471.1.1 = {
+        death = yes
+    }
+}
+
+baux_0088 = {
+    name = "Giovanella"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0087 #Jacques
+    1423.1.1 = {
+        birth = yes
+    }
+    1473.1.1 = {
+        death = yes
+    }
+}
+
+baux_0089 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0074 #Bertrand
+    mother = baux_0075 #Etienette
+    1282.1.1 = {
+        birth = yes
+    }
+    1332.1.1 = {
+        death = yes
+    }
+}
+
+baux_0090 = {
+    name = "Hugues"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0074 #Bertrand
+    mother = baux_0075 #Etienette
+    1285.1.1 = {
+        birth = yes
+    }
+    1315.1.1 = {
+        death = yes
+    }
+}
+
+baux_0069 = {
+    name = "Isoard"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0084 #Raymond
+    1302.1.1 = {
+        birth = yes
+    }
+    1319.1.1 = {
+        add_spouse = baux_0068 #Hugues
+    }
+    1352.1.1 = {
+        death = yes
+    }
+}
+
+baux_0091 = {
+    name = "Jacques"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0092 #Raymond
+    1370.1.1 = {
+        birth = yes
+    }
+    1448.1.1 = {
+        death = yes
+    }
+}
+
+baux_0087 = {
+    name = "Jacques"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0091 #Jacques
+    1395.1.1 = {
+        birth = yes
+    }
+    1444.1.1 = {
+        death = yes
+    }
+}
+
+baux_0077 = {
+    name = "Jean Théoden"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0073 #Amiel
+    1310.1.1 = {
+        birth = yes
+    }
+    1360.1.1 = {
+        death = yes
+    }
+}
+
+baux_0093 = {
+    name = "Lucretia"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0087 #Jacques
+    1422.1.1 = {
+        birth = yes
+    }
+    1472.1.1 = {
+        death = yes
+    }
+}
+
+baux_0094 = {
+    name = "Marguerite"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0087 #Jacques
+    1424.1.1 = {
+        birth = yes
+    }
+    1474.1.1 = {
+        death = yes
+    }
+}
+
+baux_0080 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0095 #Guillaume
+    1233.1.1 = {
+        birth = yes
+    }
+    1279.1.1 = {
+        death = yes
+    }
+}
+
+baux_0084 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0074 #Bertrand
+    mother = baux_0075 #Etienette
+    1280.1.1 = {
+        birth = yes
+    }
+    1332.1.1 = {
+        death = yes
+    }
+}
+
+baux_0092 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0077 #Jean Théoden
+    1340.1.1 = {
+        birth = yes
+    }
+    1412.1.1 = {
+        death = yes
+    }
+}
+
+baux_0096 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0080 #Raymond
+    1360.1.1 = {
+        birth = yes
+    }
+    1339.1.1 = {
+        death = yes
+    }
+}
+
+baux_0097 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0091 #Jacques
+    1405.1.1 = {
+        birth = yes
+    }
+    1471.1.1 = {
+        death = yes
+    }
+}
+
+baux_0098 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_courthezon #Baux-Courthézon
+    father = baux_0087 #Jacques
+    1420.1.1 = {
+        birth = yes
+    }
+    1490.1.1 = {
+        death = yes
+    }
+}
+
+baux_0099 = {
+    name = "Alice"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0100 #François
+    1380.1.1 = {
+        birth = yes
+    }
+    1455.1.1 = {
+        death = yes
+    }
+}
+
+baux_0101 = {
+    name = "Anne"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0102 #Jean
+    1441.1.1 = {
+        birth = yes
+    }
+    1513.1.1 = {
+        death = yes
+    }
+}
+
+baux_0103 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0104 #Gilbert
+    1250.1.1 = {
+        birth = yes
+    }
+    1300.1.1 = {
+        death = yes
+    }
+}
+
+baux_0105 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0106 #Raymond
+    1277.1.1 = {
+        birth = yes
+    }
+    1337.1.1 = {
+        death = yes
+    }
+}
+
+baux_0067 = {
+    name = "Eleanor"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0107 #Gilbert
+    1307.1.1 = {
+        birth = yes
+    }
+    1324.1.1 = {
+        add_spouse = baux_0066 #Guillaume
+    }
+    1340.1.1 = {
+        death = yes
+    }
+}
+
+baux_0108 = {
+    name = "Fanetta"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0109 #Guillaume
+    1352.1.1 = {
+        birth = yes
+    }
+    1402.1.1 = {
+        death = yes
+    }
+}
+
+baux_0100 = {
+    name = "François"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0109 #Guillaume
+    1350.1.1 = {
+        birth = yes
+    }
+    1437.1.1 = {
+        death = yes
+    }
+}
+
+baux_0104 = {
+    name = "Gilbert"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0045 #Raymond
+    1220.1.1 = {
+        birth = yes
+    }
+    1277.1.1 = {
+        death = yes
+    }
+}
+
+baux_0107 = {
+    name = "Gilbert"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0106 #Raymond
+    1275.1.1 = {
+        birth = yes
+    }
+    1309.1.1 = {
+        death = yes
+    }
+}
+
+baux_0109 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0107 #Gilbert
+    1305.1.1 = {
+        birth = yes
+    }
+    1370.1.1 = {
+        death = yes
+    }
+}
+
+baux_0110 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0109 #Guillaume
+    1351.1.1 = {
+        birth = yes
+    }
+    1432.1.1 = {
+        death = yes
+    }
+}
+
+baux_0111 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0110 #Guillaume
+    1391.1.1 = {
+        birth = yes
+    }
+    1478.1.1 = {
+        death = yes
+    }
+}
+
+baux_0112 = {
+    name = "Hugues"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0104 #Gilbert
+    1260.1.1 = {
+        birth = yes
+    }
+    1353.1.1 = {
+        death = yes
+    }
+}
+
+baux_0113 = {
+    name = "Hugues"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0106 #Raymond
+    1276.1.1 = {
+        birth = yes
+    }
+    1376.1.1 = {
+        death = yes
+    }
+}
+
+baux_0102 = {
+    name = "Jean"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0111 #Guillaume
+    1416.1.1 = {
+        birth = yes
+    }
+    1471.1.1 = {
+        death = yes
+    }
+}
+
+baux_0114 = {
+    name = "Jugetta"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0112 #Hugues
+    1285.1.1 = {
+        birth = yes
+    }
+    1335.1.1 = {
+        death = yes
+    }
+}
+
+baux_0115 = {
+    name = "Marguerite"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0100 #François
+    add_trait = devoted
+    1375.1.1 = {
+        birth = yes
+    }
+    1425.1.1 = {
+        death = yes
+    }
+}
+
+baux_0116 = {
+    name = "Marguerite"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0111 #Guillaume
+    1417.1.1 = {
+        birth = yes
+    }
+    1467.1.1 = {
+        death = yes
+    }
+}
+
+baux_0106 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0104 #Gilbert
+    1255.1.1 = {
+        birth = yes
+    }
+    1306.1.1 = {
+        death = yes
+    }
+}
+
+baux_0117 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_marignan #Baux-Marignan
+    father = baux_0107 #Gilbert
+    1306.1.1 = {
+        birth = yes
+    }
+    1356.1.1 = {
+        death = yes
+    }
+}
+
+baux_0118 = {
+    name = "Alazasia"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0119 #Bertrand
+    1261.1.1 = {
+        birth = yes
+    }
+    1311.1.1 = {
+        death = yes
+    }
+}
+
+baux_0120 = {
+    name = "Alazasia"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0121 #Raymond
+    add_trait = devoted
+    1278.1.1 = {
+        birth = yes
+    }
+    1328.1.1 = {
+        death = yes
+    }
+}
+
+baux_0122 = {
+    name = "Beatrice"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0119 #Bertrand
+    1262.1.1 = {
+        birth = yes
+    }
+    1312.1.1 = {
+        death = yes
+    }
+}
+
+baux_0123 = {
+    name = "Beatrice"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0124 #Guillaume Monet
+    1328.1.1 = {
+        birth = yes
+    }
+    1377.1.1 = {
+        death = yes
+    }
+}
+
+baux_0119 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0045 #Raymond
+    1218.1.1 = {
+        birth = yes
+    }
+    1266.1.1 = {
+        death = yes
+    }
+}
+
+baux_0125 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0121 #Raymond
+    1273.1.1 = {
+        birth = yes
+    }
+    1333.1.1 = {
+        death = yes
+    }
+}
+
+baux_0126 = {
+    name = "Eliza"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0121 #Raymond
+    1275.1.1 = {
+        birth = yes
+    }
+    1325.1.1 = {
+        death = yes
+    }
+}
+
+baux_0009 = {
+    name = "Etiennette"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0121 #Raymond
+    1276.1.1 = {
+        birth = yes
+    }
+    1293.1.1 = {
+        add_spouse = baux_0008 #Raymond
+    }
+    1367.1.1 = {
+        death = yes
+    }
+}
+
+baux_0127 = {
+    name = "Floretta"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0124 #Guillaume Monet
+    1328.1.1 = {
+        birth = yes
+    }
+    1378.1.1 = {
+        death = yes
+    }
+}
+
+baux_0124 = {
+    name = "Guillaume Monet"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0121 #Raymond
+    1274.1.1 = {
+        birth = yes
+    }
+    1335.1.1 = {
+        death = yes
+    }
+}
+
+baux_0128 = {
+    name = "Hugues"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0119 #Bertrand
+    1236.1.1 = {
+        birth = yes
+    }
+    1305.1.1 = {
+        death = yes
+    }
+}
+
+baux_0129 = {
+    name = "Leonia"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0121 #Raymond
+    1277.1.1 = {
+        birth = yes
+    }
+    1327.1.1 = {
+        death = yes
+    }
+}
+
+baux_0130 = {
+    name = "Margarita"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0121 #Raymond
+    add_trait = devoted
+    1280.1.1 = {
+        birth = yes
+    }
+    1330.1.1 = {
+        death = yes
+    }
+}
+
+baux_0131 = {
+    name = "Martha"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0124 #Guillaume Monet
+    1327.1.1 = {
+        birth = yes
+    }
+    1376.1.1 = {
+        death = yes
+    }
+}
+
+baux_0121 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0119 #Bertrand
+    1260.1.1 = {
+        birth = yes
+    }
+    1320.1.1 = {
+        death = yes
+    }
+}
+
+baux_0132 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0124 #Guillaume Monet
+    1325.1.1 = {
+        birth = yes
+    }
+    1352.1.1 = {
+        death = yes
+    }
+}
+
+baux_0133 = {
+    name = "Santia"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0119 #Bertrand
+    1263.1.1 = {
+        birth = yes
+    }
+    1313.1.1 = {
+        death = yes
+    }
+}
+
+baux_0134 = {
+    name = "Tasetta"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0124 #Guillaume Monet
+    1326.1.1 = {
+        birth = yes
+    }
+    1375.1.1 = {
+        death = yes
+    }
+}
+
+baux_0135 = {
+    name = "Tassetta"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_meyrargues #Baux-Meyrargues
+    father = baux_0121 #Raymond
+    add_trait = devoted
+    1279.1.1 = {
+        birth = yes
+    }
+    1329.1.1 = {
+        death = yes
+    }
+}
+
+baux_0136 = {
+    name = "Annette"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0137 #Raymond
+    1328.1.1 = {
+        birth = yes
+    }
+    1378.1.1 = {
+        death = yes
+    }
+}
+
+baux_0138 = {
+    name = "Annette"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0139 #Guillaume
+    1348.1.1 = {
+        birth = yes
+    }
+    1398.1.1 = {
+        death = yes
+    }
+}
+
+baux_0140 = {
+    name = "Beatrice"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0141 #Bertrand
+    1345.1.1 = {
+        birth = yes
+    }
+    1395.1.1 = {
+        death = yes
+    }
+}
+
+baux_0142 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0143 #Guillaume
+    1207.1.1 = {
+        birth = yes
+    }
+    1257.1.1 = {
+        death = yes
+    }
+}
+
+baux_0144 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0095 #Guillaume
+    1231.1.1 = {
+        birth = yes
+    }
+    1246.1.1 = {
+        death = yes
+    }
+}
+
+baux_0145 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0146 #Raymond
+    1248.1.1 = {
+        birth = yes
+    }
+    1314.1.1 = {
+        death = yes
+    }
+}
+
+baux_0147 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0145 #Bertrand
+    add_trait = devoted
+    1275.1.1 = {
+        birth = yes
+    }
+    1325.1.1 = {
+        death = yes
+    }
+}
+
+baux_0141 = {
+    name = "Bertrand"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0137 #Raymond
+    1319.1.1 = {
+        birth = yes
+    }
+    1380.1.1 = {
+        death = yes
+    }
+}
+
+baux_0148 = {
+    name = "Catherine"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0145 #Bertrand
+    1279.1.1 = {
+        birth = yes
+    }
+    1340.1.1 = {
+        death = yes
+    }
+}
+
+baux_0149 = {
+    name = "Catherine"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0073 #Amiel
+    1312.1.1 = {
+        birth = yes
+    }
+    1342.1.1 = {
+        death = yes
+    }
+}
+
+baux_0150 = {
+    name = "Catherine"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0137 #Raymond
+    1324.1.1 = {
+        birth = yes
+    }
+    1374.1.1 = {
+        death = yes
+    }
+}
+
+baux_0151 = {
+    name = "Catherine"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0139 #Guillaume
+    1347.1.1 = {
+        birth = yes
+    }
+    1397.1.1 = {
+        death = yes
+    }
+}
+
+baux_0152 = {
+    name = "Eleanor"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0137 #Raymond
+    1326.1.1 = {
+        birth = yes
+    }
+    1376.1.1 = {
+        death = yes
+    }
+}
+
+baux_0075 = {
+    name = "Etienette"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0153 #Guillaume
+    1255.1.1 = {
+        birth = yes
+    }
+    1272.1.1 = {
+        add_spouse = baux_0074 #Bertrand
+    }
+    1305.1.1 = {
+        death = yes
+    }
+}
+
+baux_0154 = {
+    name = "Gidon"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0137 #Raymond
+    1322.1.1 = {
+        birth = yes
+    }
+    1372.1.1 = {
+        death = yes
+    }
+}
+
+baux_0155 = {
+    name = "Guigues"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0137 #Raymond
+    1320.1.1 = {
+        birth = yes
+    }
+    1370.1.1 = {
+        death = yes
+    }
+}
+
+baux_0143 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0019 #Bertrand
+    1176.1.1 = {
+        birth = yes
+    }
+    1218.1.1 = {
+        death = yes
+    }
+}
+
+baux_0095 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0143 #Guillaume
+    1206.1.1 = {
+        birth = yes
+    }
+    1239.1.1 = {
+        death = yes
+    }
+}
+
+baux_0156 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0095 #Guillaume
+    1232.1.1 = {
+        birth = yes
+    }
+    1257.1.1 = {
+        death = yes
+    }
+}
+
+baux_0153 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0146 #Raymond
+    1235.1.1 = {
+        birth = yes
+    }
+    1281.1.1 = {
+        death = yes
+    }
+}
+
+baux_0157 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0145 #Bertrand
+    1274.1.1 = {
+        birth = yes
+    }
+    1312.1.1 = {
+        death = yes
+    }
+}
+
+baux_0139 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0137 #Raymond
+    1321.1.1 = {
+        birth = yes
+    }
+    1390.1.1 = {
+        death = yes
+    }
+}
+
+baux_0158 = {
+    name = "Guillaume"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0139 #Guillaume
+    1346.1.1 = {
+        birth = yes
+    }
+    1427.1.1 = {
+        death = yes
+    }
+}
+
+baux_0159 = {
+    name = "Henri"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0145 #Bertrand
+    add_trait = devoted
+    1277.1.1 = {
+        birth = yes
+    }
+    1340.1.1 = {
+        death = yes
+    }
+}
+
+baux_0160 = {
+    name = "Isabelle"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0145 #Bertrand
+    1278.1.1 = {
+        birth = yes
+    }
+    1328.1.1 = {
+        death = yes
+    }
+}
+
+baux_0161 = {
+    name = "Jeanne"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0073 #Amiel
+    1311.1.1 = {
+        birth = yes
+    }
+    1347.1.1 = {
+        death = yes
+    }
+}
+
+baux_0162 = {
+    name = "Jeannette"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0137 #Raymond
+    1323.1.1 = {
+        birth = yes
+    }
+    1373.1.1 = {
+        death = yes
+    }
+}
+
+baux_0163 = {
+    name = "Jugetta"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0141 #Bertrand
+    1346.1.1 = {
+        birth = yes
+    }
+    1396.1.1 = {
+        death = yes
+    }
+}
+
+baux_0082 = {
+    name = "Margarita"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0145 #Bertrand
+    1284.1.1 = {
+        birth = yes
+    }
+    1301.1.1 = {
+        add_spouse = baux_0081 #Bertrand
+    }
+    1334.1.1 = {
+        death = yes
+    }
+}
+
+baux_0164 = {
+    name = "Marguerite"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0073 #Amiel
+    1313.1.1 = {
+        birth = yes
+    }
+    1363.1.1 = {
+        death = yes
+    }
+}
+
+baux_0165 = {
+    name = "Marguerite"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0137 #Raymond
+    1325.1.1 = {
+        birth = yes
+    }
+    1375.1.1 = {
+        death = yes
+    }
+}
+
+baux_0166 = {
+    name = "Marguerite"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0141 #Bertrand
+    1344.1.1 = {
+        birth = yes
+    }
+    1394.1.1 = {
+        death = yes
+    }
+}
+
+baux_0167 = {
+    name = "Marie"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0168 #Raymond
+    1366.1.1 = {
+        birth = yes
+    }
+    1417.1.1 = {
+        death = yes
+    }
+}
+
+baux_0146 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0143 #Guillaume
+    1203.1.1 = {
+        birth = yes
+    }
+    1282.1.1 = {
+        death = yes
+    }
+}
+
+baux_0137 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0145 #Bertrand
+    1276.1.1 = {
+        birth = yes
+    }
+    1340.1.1 = {
+        death = yes
+    }
+}
+
+baux_0168 = {
+    name = "Raymond"
+    culture = "french"
+    religion = "catholic"
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0137 #Raymond
+    1318.1.1 = {
+        birth = yes
+    }
+    1393.1.1 = {
+        death = yes
+    }
+}
+
+baux_0169 = {
+    name = "Stephanie"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0145 #Bertrand
+    1280.1.1 = {
+        birth = yes
+    }
+    1330.1.1 = {
+        death = yes
+    }
+}
+
+baux_0170 = {
+    name = "Tiburge"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0145 #Bertrand
+    1281.1.1 = {
+        birth = yes
+    }
+    1314.1.1 = {
+        death = yes
+    }
+}
+
+baux_0171 = {
+    name = "Tiburge"
+    culture = "french"
+    religion = "catholic"
+    female = yes
+    dynasty_house = house_baux_orange #Baux-Orange
+    father = baux_0137 #Raymond
+    1327.1.1 = {
+        birth = yes
+    }
+    1377.1.1 = {
+        death = yes
+    }
+}

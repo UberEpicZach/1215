@@ -1,0 +1,9 @@
+gonzaga_novellara = {
+	name = "Gonzaga-Novellara"
+	dynasty = gonzaga
+}
+
+corradi = {
+    name = "Corradi"
+	dynasty = gonzaga
+}

@@ -1,0 +1,80 @@
+house_stewart_albany = {
+	name = "Stewart-Albany"
+	dynasty = 3134
+}
+house_stewart_ardgowan = {
+	name = "Stewart-Ardgowan"
+	dynasty = 3134
+}
+house_stewart_badenoch = {
+	name = "Stewart-Badenoch"
+	dynasty = 3134
+}
+house_stewart_bonkyll = {
+	name = "Stewart-Bonkyll"
+	dynasty = 3134
+}
+house_stewart_daldon = {
+	name = "Stewart-Daldon"
+	dynasty = 3134
+}
+house_stewart_daldowie = {
+	name = "Stewart-Daldowie"
+	dynasty = 3134
+}
+house_stewart_daubigny = {
+	name = "Stewart-d'Aubigny"
+	dynasty = 3134
+}
+house_stewart_dalswinton = {
+	name = "Stewart-Dalswinton"
+	dynasty = 3134
+}
+house_stewart_darnley = {
+	name = "Stewart-Darnley"
+	dynasty = 3134
+}
+house_stewart_dreghorn = {
+	name = "Stewart-Dreghorn"
+	dynasty = 3134
+}
+house_stewart_durisdeer = {
+	name = "Stewart-Durisdeer"
+	dynasty = 3134
+}
+house_stewart_fortingall = {
+	name = "Stewart-Fortingall"
+	dynasty = 3134
+}
+house_stewart_garlies = {
+	name = "Stewart-Garlies"
+	dynasty = 3134
+}
+house_stewart_grandtully = {
+	name = "Stewart-Grandtully"
+	dynasty = 3134
+}
+house_stewart_kincardine = {
+	name = "Stewart-Kincardine"
+	dynasty = 3134
+}
+house_stewart_lorne = {
+	name = "Stewart-Lorne"
+	dynasty = 3134
+}
+house_stewart_menteith = {
+	name = "Stewart-Menteith"
+	dynasty = 3134
+}
+house_stewart_pierston = {
+	name = "Stewart-Pierston"
+	dynasty = 3134
+}
+house_stewart_ralston = {
+	name = "Stewart-Ralston"
+	dynasty = 3134
+}
+house_stewart_ruskie = {
+	name = "Stewart-Ruskie"
+	dynasty = 3134
+}

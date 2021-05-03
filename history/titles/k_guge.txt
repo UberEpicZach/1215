@@ -1,0 +1,143 @@
+k_guge = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+d_ngari = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_tsaparang = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_kyunglung = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_gar = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_gegyai = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_gerze = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_gomoco = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_garkung = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_kamru = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_dhankar = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+d_purang = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_purang = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_cuonaco = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_lunggar = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_zhongba = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_manthang = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+
+
+c_coqen = {
+	1337.1.1 = {
+		holder = 247258
+		liege = 0
+	}
+}
+

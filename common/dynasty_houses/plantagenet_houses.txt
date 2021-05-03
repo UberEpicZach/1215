@@ -1,0 +1,16 @@
+house_plantagenet_lancaster = {
+	name = "Plantagenet-Lancaster"
+	dynasty = 106
+}
+house_plantagenet_york = {
+	name = "Plantagenet-York"
+	dynasty = 106
+}
+house_plantagenet_gloucester = {
+	name = "Plantagenet-York"
+	dynasty = 106
+}
+house_beaufort = {
+	name = "Plantagenet-York"
+	dynasty = 106
+}

@@ -1,0 +1,4 @@
+balassa = {
+    name = "Balassa"
+    culture = "hungarian"
+}

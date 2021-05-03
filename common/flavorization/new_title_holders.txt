@@ -1,0 +1,147 @@
+﻿count_title = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 30
+	titles = { d_flanders }
+	governments = { feudal_government }
+}
+archbishop_title = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 200
+	titles = { c_toledo c_santiago c_braga c_zaragoza c_zaragoza c_tarragona c_sevilla  }
+	governments = { theocracy_government }
+	top_liege = no
+}
+master_title = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 150
+	titles = { d_knights_santiago d_knights_calatrava d_knights_alcantara d_knights_hospitaler d_teutonic_order }
+	governments = { vassal_holy_order_government }
+	top_liege = no
+}
+countess_title = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 30
+	titles = { d_flanders }
+	governments = { feudal_government }
+}
+county_title = {
+	type = title
+	priority = 30
+	tier = duchy
+	titles = { d_flanders }
+	governments = { feudal_government }
+}
+prince_of_orange = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 30
+	titles = { d_orange }
+	governments = { feudal_government }
+}
+princess_of_orange = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 30
+	titles = { d_orange }
+	governments = { feudal_government }
+}
+principality_of_orange = {
+	type = title
+	priority = 30
+	tier = duchy
+	titles = { d_orange }
+	governments = { feudal_government }
+}
+viscount_title = {
+	type = character
+	gender = male
+	special = holder
+	priority = 120
+	tier = county
+	titles = { c_marseille c_rocaberti c_cardona c_osona }
+	governments = { feudal_government }
+}
+patrician_title = {
+	type = character
+	gender = male
+	special = holder
+	priority = 120
+	tier = county
+	top_liege = no
+	titles = { c_albizzi c_pazzi c_acciaiuoli c_strozzi c_medici }
+	governments = { feudal_government }
+}
+viscountess_title = {
+	type = character
+	gender = female
+	special = holder
+	priority = 40
+	tier = county
+	titles = { c_marseille }
+	governments = { feudal_government }
+}
+viscounty_title = {
+	type = title
+	priority = 40
+	tier = county
+	titles = { c_marseille }
+	governments = { feudal_government }
+}
+lord_title = {
+	type = character
+	gender = male
+	special = holder
+	priority = 40
+	titles = { c_coucy c_beirut_titular c_villalbadelosbarros d_villena c_giblet_titular c_tyre_titular c_aguilarcampoo c_valenciadecampos c_trastamara }
+	governments = { feudal_government }
+}
+captal_title = {
+	type = character
+	gender = male
+	special = holder
+	priority = 40
+	tier = county
+	titles = { c_buch }
+	governments = { feudal_government }
+}
+lady_title = {
+	type = character
+	gender = female
+	special = holder
+	priority = 40
+	tier = county
+	titles = { c_coucy c_buch c_beirut_titular c_giblet_titular }
+	governments = { feudal_government }
+}
+lordship_title = {
+	type = title
+	priority = 40
+	tier = county
+	titles = { c_coucy }
+	governments = { feudal_government }
+}
+baron_title = {
+	type = character
+	gender = male
+	special = holder
+	priority = 40
+	tier = county
+	titles = { c_totnes }
+	governments = { feudal_government }
+}

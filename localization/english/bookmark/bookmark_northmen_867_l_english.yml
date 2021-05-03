@@ -1,0 +1,94 @@
+﻿l_english:
+ bm_1337_lion_and_lilies:0 "The Lion and the Lilies"
+ bm_1337_lion_and_lilies_desc:1 "Seven years ago, the boy-king Edward of England overthrew the tyrannical regime of his mother, princess Isabella of France, and her ambitious lover, Roger Mortimer, Earl of March.\n\nBut now, the young lion finds himself facing an even greater nemesis: Philip of Valois, the Most Christian King of France. The son of a second son, the untimely deaths of his three cousins in short succession have brought Philip a kingdom in turmoil.\n\nLong have the Plantagenets ruled in Aquitaine, but Edward has broken with tradition and refused to acknowledge the French king as his feudal superior. Seeking to bring his wayward vassal to heel, Philip has declared the English possessions forfeit.\n\nIn retaliation, Edward has named Philip an usurper and declared himself the true heir to the throne of his grandfather, Philip IV of France, the Iron King. There can be no negotiations: the victor will be determined on the battlefield.\n\n#bold It is an age of chivalry and blood: be swift and strong in war, noble and wise in peace, and above all else, show no mercy to your enemies.#!"
+ 
+ bm_1337_stolenthrone:0 "The Eagle With Two Faces"
+ bm_1337_stolenthrone_desc:0 "For sixty-seven years, starting with the deposition of Frederick II by Innocent IV, the Holy Roman Empire was without an emperor. Competitors as far-flung and varied as Alfonso of Castile, Charles of Valois, Richard of Cornwall, and Ottokar of Bohemia fought and schemed for this rich prize, all without success. Ultimately, grown weary of the strife, the electors agreed upon a compromise candidate: Henry VII of Luxembourg, a Frenchman from the western reaches of the empire.\n\n Desirous of restoring the empire's primacy over Italy, Henry led an army into the peninsula, but despite his successes his efforts were ultimately doomed to failure: only a year after his coronation, Henry died of malaria while laying siege to Siena. Henry's teenage son, John, had recently obtained the kingdom of Bohemia, but was unable to persuade the electors to allow him to succeed his father in an imperial title: instead, it became a battlefield between Louis, Duke of Bavaria, and the Habsburg rulers of Austria.\n\n Wittelsbach triumphed over Habsburg, but even after ten years on the throne, Louis' position is insecure. John of Bohemia is desirous of reclaiming his father's crown, and the Habsburgs have not forgotten their past ambitions..."
+ bm_1337_glorythatwasgreece:0 "The Glory That Was Greece"
+ bm_1337_glorythatwasgreece_desc:0 "In Constantinople, a ruler of Christ-like imperiousness presides over the last bastion of a thousand-year old empire that once spanned the four corners of the world. The purple-born world-ruler Andronikos III looks to the south and east to reclaim the lands lost to the infidel Turks by his predecessors. Will the eagle of Rome once more soar over the mountains of Anatolia? \n\n But the heirs of the Caesars are not without rivals. In the north, Ivan Alexander of Bulgaria sees in himself the makings of a second Simeon the Great, and none thus far have been able to disillusion him. In the west looms an even greater threat, however: the young ruler of Serbia, Stefan Dušan, has been endowed by God with every natural advantage, for he is like Hercules in strength, Odysseus in cunning, and Adonis in beauty. If he sets his eyes on the crown of Constantine, then he may prove unstoppable. \n\n Across the wine-dark sea, the manifold branches of the Angevin oak coil inwards upon themselves, each seeking to strangle its rivals to ensure its own survival. King Robert of Naples has been called a second Solomon in his wisdom and learning, but will his young granddaughter and heir Joanna sit so securely on his throne? With family like this, who needs enemies?"
+
+ #Halfdan Whiteshirt
+ bookmark_northmen_halfdan_whiteshirt:0 "Halfdan Whiteshirt"
+ bookmark_1337_edward:0 "Edward III"
+ bookmark_1337_edward_desc:0 "Edward of England has already survived more trials in his brief reign than many monarchs face in their entire lives. His father deposed and murdered by his mother and her lover, at the age of seventeen he engineered the coup d'etat that brought them down and made the throne his in fact as well as in name. Never again will he kneel before any man, even the King of France."
+ bookmark_1337_philip_desc:0 "As the son of a third son, Philip of Valois never dreamed that he might one day become King of France, growing up in the shadow of his father, the titular Latin Emperor, and his uncle, the Iron King. Three dead sons of Philip the Fair paved his way to the throne with their gravestones. Still, his right to the throne has not gone unchallenged. The Iron King's sons left daughters, married to the powerful feudal magnates of Burgundy and Flanders and Navarre, and now he has become embroiled in a dispute with his most powerful vassal,  Edward of England, ruler over Aquitaine and Guyenne. Will Philip be able to establish a glorious new age of Valois?"
+ bookmark_1337_philip:0 "Philippe VI"
+ bookmark_1337_byzantium:0 "Andronikos III"
+ bookmark_1337_david:0 "David II"
+ bookmark_1337_serbia:0 "Stefan Dušan"
+ bookmark_1337_naples:0 "Robert"
+ bookmark_1337_serbia_desc:0 "Coming soon!"
+ bookmark_1337_naples_desc:0 "Coming soon!"
+ bookmark_1337_byzantium_desc:0 "Coming soon!"
+ bookmark_1337_brienne:0 "For the last one hundred and fifty years, every scion of the house of Brienne has died with his boots on. Walter's father aspired to the throne of Jerusalem, but fell in the service of Charles of Naples, fighting against the Catalans in Sicily; his grandfather was murdered by the Egyptians for banditry in Outremer; his great-grandfather was a knight of legendary prowess who laid claim to all of Sicily by right of his wife, the princess Elvira, but was killed in  pursuit of his wife's lands; his grandfather's grandfather perished fighting against Saladin at the Siege of Acre, along with many other worthy knights. Walter, like his ancestors, is a man of unquenchable ambition and unbridled passions."
+  bookmark_1337_david_desc:0 "The child-king David of Scotland, son of Robert the Bruce, sits unsteadily upon a crumbling, fragmented throne. The lion in the south, Edward of England, seeks to install Edward Balliol, son of a one-time King of Scots, on David's throne. David's cousin Robert Stewart covets his crown, which was once acknowledged as his by right, until displaced by David's birth. Beset on all sides by enemies, the last scion of his line, will David be able to preserve his family's rule over Scotland, or will a new banner fly over this northern land?"
+ bookmark_1337_flanders:0 "Louis"
+ bookmark_1337_flanders_desc:0 "Louis of Dampierre is in many ways an ideal feudal lord. Unquestioning in his obedience to his liege, the French king, utterly contemptuous of his inferiors, and brave to the point of idiocy in battle. Unfortunately for Louis, the domain he ostensibly rules over is in Flanders, where the merchant prince is king, and the aristocracy gently humored, at best, and violently deposed, at worst. Humiliated once before by a peasant revolt, will Louis succeed in maintaining control over his turbulent Flemish burghers, or will the merchants of Ghent and Bruges win the day?"
+ bookmark_1337_burgundy:0 "Eudes IV"
+ bookmark_1337_burgundy_desc:0 "Burgundy is a kingdom within a kingdom. Founded three hundred years ago by a younger son of King Robert II, they have endured as princes of the blood, premier vassals of the French crown. Long have they remained in the shadow of their Capetian cousins, but now the star of Burgundy is ascendant. Duke Eudes IV is married to the princess Joan, eldest daughter of King Philip the Tall and heiress to the rich lands of Artois and the County of Burgundy. The time may be drawing near for Burgundy to step onto the stage, and take its place at the table of kings and emperors."
+ bookmark_1337_bonjean:0 "Jean III"
+ bookmark_1337_bonjean_desc:0 "Duke John of Brittany has had a good reign. He has thus far managed to successfully preserve Brittany's tenuous independence from France and England, and the country has prospered under his rule. But there is uncertainty on the horizon: three wives have failed to produce an heir for ducal Brittany, leaving John's greatest nemesis as his heir - his despised half-brother, John of Montfort, son of John's stepmother, Yolande of Dreux, whose failure to produce a living child had once robbed her of rule over Scotland. Will John be able to secure a successor of his own choosing, or will one of Brittany's mighty neighbors finally succeed in subjugating it?"
+ bookmark_1337_navarrephil:0 "Philippe III"
+ bookmark_1337_navarrephil_desc:0 "In another life, Philip of Navarre could have been King of France. His wife, Joan, is the daughter and sole surviving child of Louis X, firstborn son and successor of the Iron King, Philip IV. Tainted with the crime of her mother's adultery, twice she was passed over in favor of her uncles, who denied her the rich lands of Champagne that were hers by right. Philip himself was deemed a potential candidate to the throne, but was ultimately passed over in favor of Philip of Valois. Compensated with the crown of Navarre, Philip had his wife have not forgotten these indignities, and the coming storm may give them the long-awaited opportunity to reclaim what is rightfully theirs."
+ bookmark_1337_bavarianlouis: "Ludwig IV"
+ bookmark_1337_bohemianjohn:0 "Jean"
+ bookmark_1337_polishcasimir:0 "Kazimierz III"
+ bookmark_1337_lastpagan:0 "Gediminas"
+ bookmark_1337_walter:0 "Gauthier"
+ bookmark_1337_hungary:0 "Charles Robert"
+ bookmark_1337_armenia:0 "Levon IV"
+ bookmark_1337_bavarianlouis_desc: "Coming soon!"
+ bookmark_1337_bohemianjohn_desc:0 "It is often said that there is nothing in Europe that can be done without the aid of God or the King of Bohemia, and truer words have rarely been spoken. King John of Bohemia, scion of the house of Luxembourg, is an inveterate adventurer, the pinnacle of European chivalry, whose ambitions can scarcely be contained. His father, the Holy Roman Emperor Henry VII, was praised by Dante as "he who came to reform Italy before she was ready for it." Passed over in favor of Louis the Bavarian at his father's death due to his youth, John has resolved that the time has come for him to reclaim his birthright, and such a triviality as the loss of his sight will not hold him back from his due."
+ bookmark_1337_polishcasimir_desc:0 "Coming soon!"
+ bookmark_1337_lastpagan_desc:0 "Coming soon!"
+ bookmark_northmen_halfdan_whiteshirt_desc:0 "The first wave of the invasion has gone very well for Halfdan Whiteshirt. With the help of his brother Ivar, he has wrestled the control of York from King Ælla's hands. And he will take so much more.\n\n#bold Will you follow in history's footsteps and have your bloody vengeance, or stake out a new path for Halfdan?#!"
+
+ bookmark_northmen_halfdan_whiteshirt_alt_gudfrid:0 "$GuT_friT_$"
+ bookmark_northmen_halfdan_whiteshirt_alt_saga:0 "$Saga$ $nick_the_truthspeaker$"
+
+ #Ivar the Boneless
+ bookmark_northmen_ivar_the_boneless:0 "Ivar the Boneless"
+ bookmark_northmen_ivar_the_boneless_desc:0 "Rumors say that Ivar is weak of body, but no one can claim he is weak of mind. Through cunning and confidence, he has united a great number of Norse warbands under his banner, and won great victories on these foreign shores. But not even the greatest viking can cheat death. In 870, Ivar will fade from history forever...\n\n#bold Can you win Ivar's wars, and keep him alive to rule for many years to come?#!"
+
+ bookmark_northmen_ivar_the_boneless_alt_barid:0 "$Barid$"
+ bookmark_northmen_ivar_the_boneless_alt_barid_desc:0 "alt desc"
+ bookmark_northmen_ivar_the_boneless_alt_sigfroth:0 "$SigfroT_$"
+ bookmark_northmen_ivar_the_boneless_alt_sigfroth_desc:0 "alt desc"
+
+
+ #Sigurdr Snake-in-the-eye
+ bookmark_northmen_sigurdr_snake_in_the_eye:0 "Sigurdr Snake-in-the-Eye"
+ bookmark_northmen_sigurdr_snake_in_the_eye_desc:1 "As his brothers sailed off to England to exact their vengeance, Sigurd Snake-in-the-Eye stayed behind to rule his late father's lands. Ragnarr Loðbrók has left him some very large boots to fill.\n\n#bold Sigurd's descendants will be Kings of Denmark, Norway and England for well over a century. Can you fulfill the destiny of his dynasty?#!"
+
+ bookmark_northmen_sigurdr_snake_in_the_eye_alt_knud:0 "$Knud$"
+ bookmark_northmen_sigurdr_snake_in_the_eye_alt_knud_desc:0 "alt desc"
+ bookmark_northmen_sigurdr_snake_in_the_eye_alt_alof:0 "$Alof$"
+ bookmark_northmen_sigurdr_snake_in_the_eye_alt_alof_desc:0 "alt desc"
+
+ # Björn Ironside
+ bookmark_northmen_bjorn_ironside:0 "Björn Ironside"
+ bookmark_northmen_bjorn_ironside_desc:0 "Björn has lived a true Norseman's life of adventure. A fearsome raider, he has pillaged across France, Iberia, and Italy, together with his friend Hæsteinn of Nantes. Now, the forces of Scandinavia gather to assault British shores once more.\n\n#bold Though Björn is promised to avenge the death of his father in England, his descendants will rule Sweden for the next two centuries. On which side of the North Sea does your destiny lie?#!"
+
+ bookmark_northmen_bjorn_ironside_alt_ingrid:0 "$Ingrid$"
+ bookmark_northmen_bjorn_ironside_alt_ingrid_desc:0 "alt desc"
+ bookmark_northmen_bjorn_ironside_alt_eirikr:0 "$Eirikr$"
+ bookmark_northmen_bjorn_ironside_alt_eirikr_desc:0 "alt desc"
+
+ #Earl Alfred (the great)
+ bookmark_northmen_earl_alfred:0 "Earl Alfred"
+ bookmark_northmen_earl_alfred_desc:0 "As the Vikings push further south, Earl Alfred of Dorset is readying his troops.\n\nIn the coming years, Alfred will fight numerous battles against the Norsemen and put an end to the invasion. When he inherits his brother's throne, he becomes one of the greatest English kings throughout history.\n\n#bold Will you fulfill Alfred's great destiny, or be crushed by the Great Heathen Army?#!"
+
+ bookmark_northmen_earl_alfred_alt_aethelred:0 "$E_thelred$"
+ bookmark_northmen_earl_alfred_alt_aethelred_desc:0 "alt desc"
+
+ ##EVENTS##
+ bookmark.0002.t:0 "The Great"
+ bookmark.0002.desc:0 "The first time a vassal hailed me with a "long live [ROOT.Char.GetFirstNameNoTooltip] the Great!", I was deeply honored. I thought nothing more of it, but since that day, the epithet has grown in popularity.\n\nWherever I go, from [capital.GetNameNoTooltip] to [province.GetNameNoTooltip], my subjects now call me [ROOT.Char.GetFirstNameNoTooltip] the Great."
+ bookmark.0002.a:0 "I pray I will never let them down."
+
+ bookmark.0004.t:0 "A [dead.Char.Custom2('RelationToMePossessive', ROOT.Char)|U] Vengeance"
+ bookmark.0004.desc:0 "Finally, after all this time, I have the [prisoner.Custom('InsultAdjective')] [prisoner.GetName] at my mercy! When I heard of my [ROOT.GetCharacter.Custom2('RelationToMeShort' , SCOPE.sC('dead'))] [dead.GetNamePossessive] death at [prisoner.GetHerHis] hands, I swore I would have my vengeance. And I am a [ROOT.Char.GetWomanMan] of my word."
+ bookmark.0004.a.custom:0 "Every [close_family_member|E] of [dead.GetShortUIName]"
+ bookmark.0004.a:0 "I will tear his ribs into blood wings!"
+ bookmark.0004.b:0 "This [prisoner.GetWomanMan] is yours, great [ROOT.Char.GetFaith.HighGodName]!"
+ bookmark.0004.c:0 "I have other plans for [prisoner.GetHerHim]..."

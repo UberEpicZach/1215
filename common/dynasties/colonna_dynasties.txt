@@ -1,0 +1,5 @@
+colonna = {
+	name = "Colonna"
+	culture = "italian"
+	motto = "To Do Brave Deeds and Suffer is Roman"
+}

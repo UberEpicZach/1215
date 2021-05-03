@@ -1,0 +1,3204 @@
+c_mar = {
+	1337.1.1 = {
+		holder = 453006
+		liege = k_scotland
+	}
+}
+
+c_menteith = {
+	1337.1.1 = {
+		holder = 188948
+		liege = k_scotland
+	}
+}
+
+c_cadzow = {
+	1337.1.1 = {
+		holder = waltercadzow
+		liege = k_scotland
+	}
+}
+
+c_cunningham = {
+	1337.1.1 = {
+		holder = START # Robert Stewart
+		liege = k_scotland
+	}
+}
+
+c_lochaber = {
+	1337.1.1 = {
+		holder = 420019
+		liege = k_scotland
+	}
+}
+
+c_sanquhar = {
+	1337.1.1 = {
+		holder = crichton0001
+		liege = k_scotland
+	}
+}
+
+c_buccleuch = {
+	1337.1.1 = {
+		holder = michaelscott
+		liege = k_scotland
+	}
+}
+
+c_arundel = {
+	1337.1.1 = {
+		holder = L8ERX
+		liege = k_england
+	}
+}
+
+c_gower = {
+	1337.1.1 = {
+		holder = johndemowbray
+		liege = k_england
+	}
+}
+
+c_prato = {
+	1337.1.1 = {
+		holder = 461700
+	}
+}
+
+c_melfi = {
+	1337.1.1 = {
+		holder = 465400
+		liege = k_naples
+	}
+}
+
+c_acerenza = {
+	1337.1.1 = {
+		holder = 461700
+	}
+}
+
+c_sarria = {
+	1337.1.1 = {
+		holder = 457670
+		liege = k_castille_leon
+	}
+}
+
+c_val_camonica = {
+	1337.1.1 = {
+		holder = marchesiofederici 
+		liege = d_lombardia
+	}
+}
+
+c_limerick = {
+	1337.1.1 = {
+		holder = angloirish0040
+		liege = k_england
+	}
+}
+
+c_cork = {
+	1337.1.1 = {
+		holder = angloirish0040
+		liege = k_england
+	}
+}
+
+c_kerry = {
+	1337.1.1 = {
+		holder = angloirish0223
+		liege = d_munster
+	}
+}
+
+c_galway = {
+	1337.1.1 = {
+		holder = angloirish0014
+		liege = k_england
+	}
+}
+
+d_mainz = {
+	1337.1.1 = {
+		holder = 487017
+		liege = e_hre
+	}
+}
+
+d_cologne = {
+	1337.1.1 = {
+		holder = 487032
+		liege = e_hre
+		government = theocracy_government
+	}
+}
+
+c_fronsac = {
+	1337.1.1 = {
+		holder = 454500
+	}
+}
+
+c_basel = {
+	1337.1.1 = {
+		holder = johannvonmunsingen
+		liege = e_hre
+	}
+}
+
+c_laukental = {
+	1337.1.1 = {
+		holder = 462740
+	}
+}
+
+d_julich = {
+	1337.1.1 = {
+		holder = 462930
+		liege = e_hre
+	}
+}
+
+d_trier = {
+	1337.1.1 = {
+		holder = 462621
+		liege = e_hre
+	}
+}
+
+d_palatinate = {
+	1337.1.1 = {
+		holder = 462749
+		liege = e_hre
+	}
+}
+
+c_reggio_emilia = {
+	1337.1.1 = {
+		holder = gonzaga_0143
+		liege = d_mantua
+	}
+}
+
+c_imola = {
+	1337.1.1 = {
+		holder = lippoalidosi
+		liege = 0
+	}
+}
+
+c_mirandola = {
+	1337.1.1 = {
+		holder = gonzaga_0088
+	}
+}
+
+c_rovigo = {
+	1337.1.1 = {
+		holder = 463200
+	}
+}
+
+c_forli = {
+	1337.1.1 = {
+		holder = francescoordelaffi
+		liege = 0
+	}
+}
+
+d_ferrara = {
+	1337.1.1 = {
+		holder = 463200
+		succession_laws = { male_only_law }
+	}
+}
+
+d_mantua = {
+	1337.1.1 = {
+		holder = gonzaga_0088
+		succession_laws = { male_only_law }
+	}
+}
+
+c_split = {
+	1337.1.1 = {
+		holder = 170077
+		liege = k_venice
+	}
+}
+
+c_sibenik = {
+	1337.1.1 = {
+		holder = marcocorner
+		liege = k_venice
+	}
+}
+
+c_hvar = {
+	1337.1.1 = {
+		holder = bellelovenier
+		liege = k_venice
+	}
+}
+
+c_guastalla = {
+	1337.1.1 = {
+		holder = cisalpine0749
+		liege = 0
+	}
+}
+
+c_caorle = {
+	1337.1.1 = {
+		holder = 463600
+	}
+}
+
+c_bellinzona = {
+	1337.1.1 = {
+		holder = cisalpine0713
+		liege = d_lombardia
+	}
+}
+
+c_lodi = {
+	1337.1.1 = {
+		holder = 70789
+		liege = d_lombardia
+	}
+}
+
+c_beaujeu = {
+	1337.1.1 = {
+		holder = edouarddebeaujeu
+		liege = k_france
+	}
+}
+
+c_geraci = {
+	1337.1.1 = {
+		holder = francescoventimiglia
+		liege = k_trinacria
+	}
+}
+
+c_agosta = {
+	1337.1.1 = {
+		holder = guglielmomoncada
+		liege = k_trinacria
+	}
+}
+
+c_aderno = {
+	1337.1.1 = {
+		holder = matteosclafani
+		liege = k_trinacria
+	}
+}
+
+c_modica = {
+	1337.1.1 = {
+		holder = giovannichiaramonte
+		liege = k_trinacria
+	}
+}
+
+c_osona = {
+	1337.1.1 = {
+		holder = 72354
+		liege = k_aragon
+	}
+}
+
+c_cardona = {
+	1337.1.1 = {
+		holder = 72354
+		liege = k_aragon
+	}
+}
+
+c_rohan = {
+	1337.1.1 = {
+		holder = rohan_2027
+		liege = d_brittany
+	}
+}
+
+c_laval = {
+	1337.1.1 = {
+		holder = guydelaval
+		liege = d_brittany
+	}
+}
+
+c_guerande = {
+	1311.1.1 = {
+		holder = 455755 
+		liege = d_brittany
+	}
+}
+
+c_mortain = {
+	1337.1.1 = {
+		holder = 455810 
+		de_jure_liege = k_navarra
+	}
+}
+
+c_buch = {
+	1337.1.1 = {
+		holder = jeandegrailly
+		liege = k_england
+	}
+}
+
+c_penmynydd = {
+	1337.1.1 = {
+		holder = tudurapgoronwy
+		liege = k_england
+	}
+}
+
+c_palestrina = {
+	1337.1.1 = {
+		holder = colonna_1170
+		liege = k_papal_state
+	}
+}
+
+c_citta_di_castello = {
+	1337.1.1 = {
+		holder = pietrotarlati
+		liege = 0
+	}
+}
+
+c_camerino = {
+	1337.1.1 = {
+		holder = gentiledavarano
+		liege = k_papal_state
+	}
+}
+
+c_montmorency = {
+	1337.1.1 = {
+		holder = charlesdemontmorency
+		liege = k_france
+	}
+}
+
+c_argentan = {
+	1337.1.1 = {
+		holder = charlesdemontmorency
+		liege = k_france
+	}
+}
+
+c_parthenay = {
+	1337.1.1 = {
+		holder = jeandeparthenay
+		liege = k_france
+	}
+}
+
+c_ventadour = {
+	1337.1.1 = {
+		holder = CKU_limoges_71
+		liege = k_france
+	}
+}
+
+c_ruthin = {
+	1337.1.1 = {
+		holder = rogergrey
+		liege = k_england
+	}
+}
+
+c_sidon = {
+	1337.1.1 = {
+		holder = nasiraldinalhusayn
+		liege = k_egypt
+	}
+}
+
+c_marseille = {
+	1337.1.1 = {
+		holder = baux_0014
+		liege = k_naples
+	}
+	1337.1.1 = { change_development_level = 40 }
+}
+
+c_mimizan = {
+	1337.1.1 = {
+		holder = 455630
+	}
+}
+
+c_orange = {
+	1173.1.1 = {
+		holder = baux_0019
+		liege = e_hre
+	}
+	1181.1.1 = {
+		holder = baux_0143
+	}
+	1218.1.1 = {
+		holder = baux_0146
+	}
+	1282.1.1 = {
+		holder = baux_0145
+	}
+	1314.1.1 = {
+		holder = baux_0137
+		liege = e_hre
+	}
+}
+
+d_orange = {
+	1173.1.1 = {
+		holder = baux_0019
+		liege = e_hre
+	}
+	1181.1.1 = {
+		holder = baux_0143
+	}
+	1218.1.1 = {
+		holder = baux_0146
+	}
+	1282.1.1 = {
+		holder = baux_0145
+	}
+	1314.1.1 = {
+		holder = baux_0137
+		liege = e_hre
+	}
+}
+
+c_comminges = {
+	1337.1.1 = {
+		holder = jeandecomminges
+		liege = k_france
+	}
+}
+
+c_turenne = {
+	1337.1.1 = {
+		holder = jeandecomminges
+		liege = k_france
+	}
+}
+
+c_astarac = {
+	1337.1.1 = {
+		holder = centuledastarac
+		liege = k_france
+	}
+}
+
+c_entenza = {
+	1337.1.1 = {
+		holder = 460520
+		liege = k_aragon
+	}
+}
+
+c_pardiac = {
+	1337.1.1 = {
+		holder = montlezunpardiac
+		liege = k_france
+	}
+}
+
+c_genazzano = {
+	1337.1.1 = {
+		holder = colonna_1142
+		liege = k_papal_state
+	}
+}
+
+c_arcadia = {
+	1337.1.1 = {
+		holder = anezadaunoy
+		liege = k_naples
+	}
+}
+
+c_kildare = {
+	1337.1.1 = {
+		holder = angloirish0189
+		liege = k_england
+	}
+}
+
+c_corfu = {
+	1337.1.1 = {
+		holder = 461718
+	}
+}
+
+c_zakynthos = {
+	1337.1.1 = {
+		holder = 461718
+	}
+}
+
+c_enghien = {
+	1337.1.1 = {
+		holder = 73296
+		liege = e_hre
+	}
+}
+
+c_squillace = {
+	1337.1.1 = {
+		holder = goffredomarzano
+		liege = k_naples
+	}
+}
+
+c_argos = {
+	1337.1.1 = {
+		holder = 461730
+		liege = k_naples
+	}
+}
+
+d_reims = {
+	1337.1.1 = {
+		holder = 91186
+		liege = k_france
+	}
+}
+
+c_modon = {
+	1328.12.31 = {
+		holder = 463600 #Francesco Dandalo
+	}
+}
+
+c_montescaglioso = {
+	1337.1.1 = {
+		holder = baux_0055
+		liege = k_naples
+	}
+}
+
+c_chieti = {
+	1337.1.1 = {
+		holder = 461700
+	}
+}
+
+c_livorno = {
+	1337.1.1 = {
+		holder = 180085
+	}
+}
+
+c_heilbronn = {
+	1337.1.1 = {
+		holder = 462740
+		liege = e_hre
+	}
+}
+
+c_memmingen = {
+	1337.1.1 = {
+		holder = 462740
+		liege = e_hre
+	}
+}
+
+c_reutlingen = {
+	1337.1.1 = {
+		holder = 462740
+		liege = e_hre
+	}
+}
+
+c_kaufbeuren = {
+	1337.1.1 = {
+		holder = 462740
+		liege = e_hre
+	}
+}
+
+d_swabian_league = {
+	1337.1.1 = {
+		holder = 462740
+		liege = e_hre
+	}
+}
+
+c_stralsund = {
+	1337.1.1 = {
+		holder = 471655
+	}
+}
+
+c_meaux = {
+	1337.1.1 = {
+		holder = 454998
+		liege = k_france
+	}
+}
+
+c_etampes = {
+	1337.1.1 = {
+		holder = 455818
+		liege = k_france
+	}
+}
+
+c_segorbe = {
+	1337.1.1 = {
+		holder = lopedeluna
+		liege = k_aragon
+	}
+}
+
+c_ager = {
+	1335.1.1 = {
+		holder = 460520
+		liege = k_aragon
+	}
+}
+
+c_besalu = {
+	1335.1.1 = {
+		holder = 72199
+		liege = k_aragon
+	}
+}
+
+c_isili = {
+	1337.1.1 = {
+		holder = 144538
+	}
+}
+
+c_speri = {
+	1337.1.1 = {
+		holder = 466500
+	}
+}
+
+c_bourges = {
+	1337.1.1 = {
+		holder = bourges 
+		liege = k_france
+		government = theocracy_government
+	}
+}
+
+c_aix = {
+	1337.1.1 = {
+		holder = aix 
+		liege = k_naples
+		government = theocracy_government
+	}
+}
+
+c_erzincan = {
+	1337.1.1 = {
+		holder = 71864
+	}
+}
+
+c_taillebourg = {
+	1337.1.1 = {
+		holder = guydeparthenay
+		liege = k_france
+	}
+}
+
+c_alghero = {
+	1337.1.1 = {
+		holder = 91418
+	}
+}
+
+c_porto_torres = {
+	1337.1.1 = {
+		holder = 91418
+	}
+}
+
+c_rocaberti = {
+	1304.1.1 = {
+		holder = 72265
+		liege = k_aragon
+	}
+	1309.1.1 = {
+		holder = 72284
+	}
+	1324.1.1 = {
+		holder = 72293
+		liege = k_aragon
+	}
+}
+
+c_roussillon = {
+	1337.1.1 = {
+		holder = 460620
+		liege = k_aragon
+	}
+}
+
+c_talmont = {
+	1337.1.1 = {
+		holder = 457550
+		liege = k_france
+	}
+}
+
+c_coucy = {
+	1337.1.1 = {
+		holder = 454980
+		liege = k_france
+	}
+}
+
+c_melun = {
+	1337.1.1 = {
+		holder = jeandemelun
+		liege = k_france
+	}
+}
+
+c_wismar = {
+	1337.1.1 = {
+		holder = 451980
+	}
+}
+
+c_kiel = {
+	1337.1.1 = {
+		holder = wendishleague
+		liege = e_hre
+	}
+}
+
+d_pisa = {
+	1337.1.1 = {
+		holder = 180085
+		succession_laws = { male_only_law }
+	}
+}
+
+c_piombino = {
+	1337.1.1 = {
+		holder = 180085
+	}
+}
+
+c_volterra = {
+	1337.1.1 = {
+		holder = ottavianobelforti
+		liege = 0
+	}
+}
+
+c_vallombrosa = {
+	1337.1.1 = {
+		holder = jacopogabrielli
+	}
+}
+
+c_pistoia = {
+	1337.1.1 = {
+		holder = jacopogabrielli
+	}
+}
+
+c_grosseto = {
+	1337.1.1 = {
+		holder = 70866
+		liege = k_papal_state
+	}
+}
+
+c_cortona = {
+	1337.1.1 = {
+		holder = raniericasali
+		liege = 0
+	}
+}
+
+c_orbetello = {
+	1337.1.1 = {
+		holder = 70866
+		liege = k_papal_state
+	}
+}
+
+c_casentino = {
+	1337.1.1 = {
+		holder = guidoguidi
+		liege = 0
+		government = feudal_government
+	}
+}
+
+c_canossa = {
+	1337.1.1 = {
+		holder = gonzaga_0143
+	}
+}
+
+c_voghera = {
+	1337.1.1 = {
+		liege = 0
+	}
+}
+
+c_vercelli = {
+	1337.1.1 = {
+		holder = 463140
+	}
+}
+
+c_cuneo = {
+	1337.1.1 = {
+		holder = 461700
+	}
+}
+
+c_alba = {
+	1337.1.1 = {
+		holder = 461700
+	}
+}
+
+c_monaco = {
+	1337.1.1 = {
+		holder = 73716
+		liege = 0
+	}
+}
+
+c_savona = {
+	1337.1.1 = {
+		holder = 71118
+		liege = 0
+	}
+}
+
+c_chiavari = {
+	1337.1.1 = {
+		holder = cisalpine0259
+	}
+}
+
+c_bolzano = {
+	1337.1.1 = {
+		holder = 462710
+	}
+}
+
+c_fesensac = {
+	1337.1.1 = {
+		holder = 455640
+		liege = k_france
+	}
+}
+
+c_chiny = {
+	1337.1.1 = {
+		holder = thierrydeheinsberg
+		liege = d_luxembourg
+	}
+}
+
+c_celje = {
+	1337.1.1 = {
+		holder = frederickcelje
+		liege = d_krain
+	}
+}
+
+c_lemnos = {
+	1337.1.1 = {
+		holder = 465500
+	}
+}
+
+c_kashin = {
+	1337.1.1 = {
+		holder = 472871
+	}
+}
+
+c_skyros = {
+	1337.1.1 = {
+		holder = 465500
+	}
+}
+
+c_clifford = {
+	1337.1.1 = {
+		holder = 161643
+		liege = k_england
+	}
+}
+
+c_chatellerault = {
+	1337.1.1 = {
+		holder = jeanharcourt
+		liege = k_france
+	}
+}
+
+c_harcourt = {
+	1337.1.1 = {
+		holder = jeanharcourt
+		liege = k_france
+	}
+}
+
+c_wigmore = {
+	1337.1.1 = {
+		holder = 161643
+		liege = k_england
+	}
+}
+
+d_bremen = {
+	1337.1.1 = {
+		holder = 420251
+		liege = e_hre
+	}
+}
+
+c_vonitsa = {
+	1337.1.1 = {
+		holder = 461730
+	}
+}
+
+c_ludlow = {
+	1337.1.1 = {
+		holder = 161643
+		liege = k_england
+	}
+}
+
+c_rostov = {
+	1337.1.1 = {
+		holder = 472800
+	}
+}
+
+c_ioannina = {
+	1337.1.1 = {
+		holder = johnangelos
+		liege = d_epirus
+	}
+}
+
+c_salamiya = {
+	1337.1.1 = {
+		holder = musaibnmuhanna
+		liege = k_egypt
+	}
+}
+
+c_wexford = {
+	1337.1.1 = {
+		holder = 83202
+	}
+}
+
+c_tunsberg = {
+	1337.1.1 = {
+		holder = 455942
+		liege = k_sweden
+	}
+}
+
+c_lodose = {
+	1337.1.1 = {
+		holder = 455942
+		liege = k_sweden
+	}
+}
+
+c_theodosia = {
+	1337.1.1 = { 
+		change_development_level = 100 
+		holder = cisalpine0259
+	}
+}
+
+d_mogadishu = {
+	1337.1.1 = {
+		holder = somali0015
+	}
+}
+
+c_avignon = {
+	1337.1.1 = {
+		holder = 478501
+	}
+}
+
+c_nikli = {
+	1337.1.1 = {
+		holder = 465550
+	}
+}
+
+c_karytaina = {
+	1337.1.1 = {
+		holder = 465550
+	}
+}
+
+c_longueville = {
+	1337.1.1 = {
+		holder = 455810
+		de_jure_liege = k_navarra
+	}
+}
+
+c_montalto = {
+	1337.1.1 = {
+		holder = 461700
+	}
+}
+
+c_saray = {
+	1337.1.1 = { 
+		holder = 480000
+		change_development_level = 100 
+	}
+}
+
+c_saluzzo = {
+	1337.1.1 = {
+		holder = 420301
+		liege = 0
+	}
+}
+
+d_saluzzo = {
+	1337.1.1 = {
+		holder = 420301
+		liege = 0
+		succession_laws = { male_only_law }
+	}
+}
+
+c_pfirt = {
+	1337.1.1 = {
+		holder = 462033
+		liege = d_osterreich
+	}
+}
+
+c_salisbury = {
+	1337.1.1 = {
+		holder = 420021
+		liege = k_england
+	}
+}
+
+c_nogent_le_rotrou = {
+	1337.1.1 = {
+		holder = 455766
+		liege = d_flanders
+	}
+}
+
+c_perche = {
+	1337.1.1 = {
+		holder = 455513
+	}
+}
+
+c_totnes = {
+	1337.1.1 = {
+		holder = williamzouche
+		liege = k_england
+	}
+}
+
+c_barnstaple = {
+	1337.1.1 = {
+		holder = 161687
+		liege = k_england
+	}
+}
+
+c_cantref_bychan = {
+	1337.1.1 = {
+		holder = 161687
+		liege = k_england
+	}
+}
+
+c_kemes = {
+	1337.1.1 = {
+		holder = 161687
+		liege = k_england
+	}
+}
+
+c_tonbridge = {
+	1337.1.1 = {
+		holder = 454610
+		liege = k_england
+	}
+}
+
+c_holderness = {
+	1337.1.1 = {
+		holder = pole_1005
+		liege = k_england
+	}
+}
+
+c_kingston_upon_hull = {
+	1337.1.1 = {
+		holder = pole_1010
+		liege = k_england
+	}
+}
+
+c_rozmberk = {
+	1337.1.1 = {
+		holder = peterrosenberg
+		liege = k_bohemia
+	}
+}
+
+c_lara = {
+	1337.1.1 = {
+		holder = 457581
+		liege = k_castille_leon
+	}
+}
+
+c_marchena = {
+	1337.1.1 = {
+		holder = 458021
+		liege = k_castille_leon
+	}
+}
+
+c_gabardan = {
+	1337.1.1 = {
+		holder = 455640
+		liege = k_france
+	}
+}
+
+c_lomagne = {
+	1337.1.1 = {
+		holder = 455640
+		liege = k_france
+	}
+}
+
+c_tartas = {
+	1337.1.1 = {
+		holder = 455630
+		liege = k_england
+	}
+}
+
+c_dax = {
+	1337.1.1 = {
+		holder = 455630
+		liege = k_england
+	}
+}
+
+c_tursan = {
+	1337.1.1 = {
+		holder = 455540
+		liege = k_france
+	}
+}
+
+c_montpensier = {
+	1337.1.1 = {
+		holder = 455650
+		liege = k_france
+	}
+}
+
+c_carlat = {
+	1337.1.1 = {
+		holder = renauddepons
+		liege = k_france
+	}
+}
+
+c_gravelines = {
+	1337.1.1 = {
+		holder = 455710
+		liege = k_france
+	}
+}
+
+c_narbonne = {
+	1337.1.1 = {
+		holder = 72453
+		liege = k_france
+	}
+}
+
+c_lerma = {
+	1337.1.1 = {
+		holder = 457581
+		liege = k_castille_leon
+	}
+}
+
+c_oropesa = {
+	1337.1.1 = {
+		holder = 457581
+		liege = k_castille_leon
+	}
+}
+
+c_artois = {
+	1337.1.1 = {
+		holder = 455913
+		liege = k_france
+	}
+}
+
+c_ponthieu = {
+	1337.1.1 = {
+		holder = 455500
+	}
+}
+
+c_ribagorza = {
+	1337.1.1 = {
+		holder = 460570
+		liege = k_aragon
+	}
+}
+
+c_empuries = {
+	1337.1.1 = {
+		holder = 460570
+		liege = k_aragon
+	}
+}
+
+c_prades = {
+	1337.1.1 = {
+		holder = 460580
+		liege = k_aragon
+	}
+}
+
+d_firenze = {
+	1337.1.1 = {
+		holder = jacopogabrielli
+	}
+}
+
+c_impruneta = {
+	1337.1.1 = {
+		holder = jacopogabrielli
+	}
+}
+
+c_empoli = {
+	1337.1.1 = {
+		holder = jacopogabrielli
+	}
+}
+
+c_salona = {
+	1337.1.1 = {
+		holder = 461550
+		liege = k_trinacria
+	}
+}
+
+c_bodonitsa = {
+	1337.1.1 = {
+		holder = 70729
+		liege = d_athens
+	}
+}
+
+d_siena = {
+	1337.1.1 = {
+		holder = 413017
+	}
+}
+
+c_cocussus = {
+	1337.1.1 = {
+		holder = 461800 
+	}
+}
+
+c_dunkirk = {
+	1337.1.1 = {
+		holder = 455766
+		liege = d_flanders
+	}
+}
+
+c_gravelines = {
+	1337.1.1 = {
+		holder = 455766
+		liege = d_flanders
+	}
+}
+
+c_gent = {
+	1337.1.1 = { change_development_level = 60 }
+}
+
+c_louvain = {
+	1337.1.1 = { change_development_level = 45 }
+}
+
+c_oreos = {
+	1337.1.1 = {
+		holder = petercarceri
+		liege = k_venice
+	}
+}
+
+c_corycus = {
+	1337.1.1 = {
+		holder = 461923
+		liege = k_anatolia
+	}
+}
+
+c_bazas = {
+	1337.1.1 = {
+		holder = 454500
+	}
+}
+
+c_valenciadecampos = {
+	1337.1.1 = {
+		holder = 457590
+		liege = k_castille_leon
+	}
+}
+
+c_cangas = {
+	1337.1.1 = {
+		holder = 73091
+		liege = k_castille_leon
+	}
+}
+
+c_trastamara = {
+	1337.1.1 = {
+		holder = 457510
+		liege = k_castille_leon
+		government = feudal_government
+	}
+}
+
+c_ortigueira = {
+	1337.1.1 = {
+		holder = 457510
+		liege = k_castille_leon
+	}
+}
+
+c_puebladearganzon = {
+	1337.1.1 = {
+		holder = fernandevelasco
+		liege = k_castille_leon
+	}
+}
+
+c_tineo = {
+	1337.1.1 = {
+		holder = 73091
+		liege = k_castille_leon
+	}
+}
+
+d_langres = {
+	1337.1.1 = {
+		holder = guybaudet
+		liege = k_france
+	}
+}
+
+c_langres = {
+	1337.1.1 = {
+		holder = guybaudet
+		liege = k_france
+	}
+}
+
+d_laon = {
+	1337.1.1 = {
+		holder = rogeroflaon
+		liege = k_france
+	}
+}
+
+c_laon = {
+	1337.1.1 = {
+		holder = rogeroflaon
+		liege = k_france
+	}
+}
+
+c_couserans = {
+	1337.1.1 = {
+		holder = raymondrogercouserans
+		liege = k_france
+	}
+}
+
+c_embrun = {
+	1337.1.1 = {
+		holder = embrun 
+		liege = d_dauphine
+		government = theocracy_government
+	}
+}
+
+c_rais = {
+	1337.1.1 = {
+		holder = gerardchabot
+		liege = d_brittany
+	}
+}
+
+c_chateaubriant = {
+	1328.1.1 = {
+		holder = geoffroychateaubriant
+		liege = d_brittany
+	}
+}
+
+c_waterford = {
+	1337.1.1 = {
+		holder = angloirish0040
+	}
+}
+
+c_porhoet = {
+	1328.1.1 = {
+		holder = 455513
+	}
+}
+
+c_roscrea = {
+	1337.1.1 = {
+		holder = angloirish0097
+	}
+}
+
+c_verdun = {
+	1337.1.1 = {
+		holder = henryaspremont
+		liege = e_hre
+	}
+}
+
+d_languedoc = {
+	1337.1.1 = {
+		de_jure_liege = k_france
+	}
+}
+
+c_noyon = {
+	1337.1.1 = {
+		holder = guillaumebertran
+		liege = k_france
+	}
+}
+
+c_toul = {
+	1337.1.1 = {
+		holder = thomasbourlemont
+		liege = e_hre
+	}
+}
+
+c_beauvais = {
+	1337.1.1 = {
+		holder = jeandemarigny
+		liege = k_france
+	}
+}
+
+k_mentese = {
+	1337.1.1 = {
+		holder = mentesebey
+	}
+}
+
+k_saruhan = {
+	1337.1.1 = {
+		holder = 71870
+	}
+}
+
+k_eretnid = {
+	1337.1.1 = {
+		holder = 71864
+	}
+}
+
+k_aydin = {
+	1337.1.1 = {
+		holder = 476200
+	}
+}
+
+k_candar = {
+	1337.1.1 = {
+		holder = 476351
+	}
+}
+
+k_germiyan = {
+	1337.1.1 = {
+		holder = 71868
+	}
+}
+
+k_ottoman = {
+	1337.1.1 = {
+		holder = 476500
+	}
+}
+
+k_tekke = {
+	1337.1.1 = {
+		holder = 476400
+	}
+}
+
+c_richmond = {
+	1337.1.1 = {
+		holder = 455750
+	}
+}
+
+c_ely = {
+	1337.1.1 = {
+		holder = 454500
+	}
+}
+c_freising = {
+	1337.1.1 = {
+		holder = freising
+		liege = e_hre
+		government = theocracy_government
+	}
+}
+c_uppsala = {
+	1337.1.1 = {
+		holder = uppsala
+		liege = k_sweden
+		government = theocracy_government
+	}
+}
+c_lund = {
+	1337.1.1 = {
+		holder = lund
+		liege = k_sweden
+		government = theocracy_government
+	}
+}
+c_armagh = {
+	1337.1.1 = {
+		holder = armagh
+		liege = k_england
+		government = theocracy_government
+	}
+}
+c_st_andrews = {
+	1337.1.1 = {
+		holder = standrews 
+		liege = k_scotland
+		government = theocracy_government
+	}
+}
+c_wigtown = {
+	1337.1.1 = {
+		holder = 453500
+	}
+}
+c_arran = {
+	1337.1.1 = {
+		holder = 420019
+	}
+}
+c_mull = {
+	1337.1.1 = {
+		holder = 420019
+	}
+}
+c_lewis = {
+	1337.1.1 = {
+		holder = 420019
+	}
+}
+c_uist = {
+	1337.1.1 = {
+		holder = 420019
+	}
+}
+c_lorn = {
+	1337.1.1 = {
+		holder = 420019
+	}
+}
+c_cowal = {
+	1337.1.1 = {
+		holder = 420019
+	}
+}
+c_morvern = {
+	1337.1.1 = {
+		holder = 420019
+	}
+}
+c_badenoch = {
+	1337.1.1 = {
+		holder = 453500
+	}
+}
+c_tyrone = {
+	1337.1.1 = {
+		holder = angloirish0035
+	}
+}
+c_goslar = {
+	1337.1.1 = {
+		holder = 462400
+	}
+}
+c_louvain = {
+	1337.1.1 = {
+		holder = 487044
+	}
+}
+c_tournai = {
+	1337.1.1 = {
+		holder = 487044
+	}
+}
+c_limbourg = {
+	1337.1.1 = {
+		holder = 462930
+	}
+}
+c_julich = {
+	1337.1.1 = {
+		holder = 462930
+	}
+}
+c_vaudemont = {
+	1337.1.1 = {
+		holder = 129014
+	}
+}
+c_ortenburg = {
+	1337.1.1 = {
+		holder = heinrichvonortenburg
+		liege = d_bavaria
+	}
+}
+c_wetzlar = {
+	1337.1.1 = {
+		holder = 462740
+	}
+}
+c_chur = {
+	1337.1.1 = {
+		holder = ulrichvonlenzburg
+		liege = e_hre
+	}
+}
+c_schwyz = {
+	1337.1.1 = {
+		holder = 462740
+	}
+}
+c_engelberg = {
+	1337.1.1 = {
+		holder = 462740
+	}
+}
+c_andros = {
+	1337.1.1 = {
+		holder = 31427
+	}
+}
+c_limisol = {
+	1337.1.1 = {
+		holder = 461900
+	}
+}
+c_paphos = {
+	1337.1.1 = {
+		holder = 461900
+	}
+}
+c_kyrenia = {
+	1337.1.1 = {
+		holder = 461900
+	}
+}
+c_soli_cyp = {
+	1337.1.1 = {
+		holder = 461900
+	}
+}
+c_castrogiovanni = {
+	1337.1.1 = {
+		holder = 461500
+	}
+}
+c_caltanisetta = {
+	1337.1.1 = {
+		holder = 461520
+		liege = k_trinacria
+	}
+}
+c_amalfi = {
+	1337.1.1 = {
+		holder = 461700
+	}
+}
+c_venosa = {
+	1337.1.1 = {
+		holder = 461700
+	}
+}
+c_taranto = {
+	1294.1.1 = {
+		holder = 461712
+		liege = k_naples
+	}
+	1332.12.26 = {
+		holder = 461718
+	}
+}
+c_tricarico = {
+	1337.1.1 = {
+		holder = giacomosanseverino
+		liege = k_naples
+	}
+}
+c_catanzaro = {
+	1337.1.1 = {
+		holder = 469513
+	}
+}
+c_udine = {
+	1337.1.1 = {
+		holder = 413022
+	}
+}
+c_monza = {
+	1337.1.1 = {
+		holder = pinallaaliprandi
+		liege = d_lombardia
+	}
+}
+c_bergamo = {
+	1337.1.1 = {
+		holder = guidosuardi
+		liege = d_lombardia
+	}
+}
+
+c_fiorenzuola = {
+	1337.1.1 = {
+		holder = 463140
+	}
+}
+
+c_piacenza = {
+	1337.1.1 = {
+		holder = francescoscotti
+		liege = d_lombardia
+	}
+}
+
+c_caltabellotta = {
+	1337.1.1 = {
+		holder = 71193
+		liege = k_trinacria
+	}
+}
+
+c_viterbo = {
+	1337.1.1 = {
+		holder = giovannidivico
+		government = feudal_government
+		liege = k_papal_state
+	}
+}
+
+c_voghera = {
+	1337.1.1 = {
+		holder = 463140
+	}
+}
+
+c_cagli = {
+	1337.1.1 = {
+		holder = 478501
+	}
+}
+
+c_gubbio = {
+	1337.1.1 = {
+		holder = 478501
+	}
+}
+
+c_terni = {
+	1337.1.1 = {
+		holder = 478501
+	}
+}
+
+c_perugia = {
+	1337.1.1 = {
+		holder = novellobaglioni
+		liege = k_papal_state
+	}
+}
+
+c_assisi = {
+	1337.1.1 = {
+		holder = novellobaglioni
+		liege = k_papal_state
+	}
+}
+
+c_rieti = {
+	1337.1.1 = {
+		holder = 478501
+	}
+}
+
+c_tagliacozzo = {
+	1337.1.1 = {
+		holder = 478501
+	}
+}
+
+c_monterotondo = {
+	1337.1.1 = {
+		holder = 478501
+	}
+}
+
+c_albano = {
+	1337.1.1 = {
+		holder = 478501
+	}
+}
+
+c_bracciano = {
+	1337.1.1 = {
+		holder = 478501
+	}
+}
+
+c_civitavecchia = {
+	1337.1.1 = {
+		holder = 478501
+	}
+}
+
+c_vicovaro = {
+	1337.1.1 = {
+		holder = 478501
+	}
+}
+
+c_terracina = {
+	1337.1.1 = {
+		holder = 478501
+	}
+}
+
+c_cherson = {
+	1337.1.1 = {
+		holder = 
+	}
+}
+
+c_gazikumukh = {
+	1337.1.1 = {
+		holder = 480000
+	}
+}
+
+c_montlhery = {
+	1337.1.1 = {
+		holder = 455500
+	}
+}
+
+c_nemours = {
+	1337.1.1 = {
+		holder = 455500
+	}
+}
+
+c_roucy = {
+	1337.1.1 = {
+		holder = 455500
+	}
+}
+
+c_corbie = {
+	1337.1.1 = {
+		holder = 455500
+	}
+}
+
+c_peronne = {
+	1337.1.1 = {
+		holder = 455500
+	}
+}
+
+c_montfort = {
+	1337.1.1 = {
+		holder = 455500
+	}
+}
+
+c_builth = {
+	1337.1.1 = {
+		holder = 454023
+	}
+}
+
+c_maelienydd = {
+	1337.1.1 = {
+		holder = 161643
+	}
+}
+
+c_cantref_bychan = {
+	1337.1.1 = {
+		holder = 161677
+	}
+}
+
+c_craon = {
+	1337.1.1 = {
+		holder = amaurydecraon
+		liege = k_france
+	}
+}
+
+c_fecamp = {
+	1337.1.1 = {
+		holder = 455502
+	}
+}
+
+c_aumale = {
+	1337.1.1 = {
+		holder = 457639
+		liege = k_france
+	}
+}
+
+c_chateaudun = {
+	1337.1.1 = {
+		holder = 455504
+	}
+}
+
+c_dreux = {
+	1337.1.1 = {
+		holder = 455504
+	}
+}
+
+c_sedan = {
+	1337.1.1 = {
+		holder = 455500
+	}
+}
+
+c_chablis = {
+	1337.1.1 = {
+		holder = 455500
+	}
+}
+
+c_gent = {
+	1337.1.1 = {
+		holder = 455710
+	}
+}
+
+c_combourg = {
+	1337.1.1 = {
+		holder = 455750
+	}
+}
+
+c_moutiers = {
+	1337.1.1 = {
+		holder = tarentaise 
+		liege = d_savoie
+		government = theocracy_government
+		succession_laws = { bishop_theocratic_succession_law }
+	}
+}
+
+c_vienne = {
+	1337.1.1 = {
+		holder = vienne 
+		liege = d_dauphine
+		government = theocracy_government
+		succession_laws = { bishop_theocratic_succession_law }
+	}
+}
+
+c_york = {
+	1337.1.1 = {
+		holder = york 
+		liege = k_england
+		government = theocracy_government
+		succession_laws = { bishop_theocratic_succession_law }
+	}
+}
+
+c_canterbury = {
+	1337.1.1 = {
+		holder = canterbury 
+		liege = k_england
+		government = theocracy_government
+		succession_laws = { bishop_theocratic_succession_law }
+	}
+}
+
+c_maurienne = {
+	1337.1.1 = {
+		holder = 462154
+	}
+}
+
+c_belley = {
+	1337.1.1 = {
+		holder = 462154
+	}
+}
+
+c_martigny = {
+	1337.1.1 = {
+		holder = 462154
+	}
+}
+
+c_annecy = {
+	1337.1.1 = {
+		holder = 462154
+	}
+}
+
+c_thonon = {
+	1337.1.1 = {
+		holder = 462154
+	}
+}
+
+c_faucigny = {
+	1337.1.1 = {
+		holder = 462154
+	}
+}
+
+c_ornans = {
+	1337.1.1 = {
+		holder = 455913
+	}
+}
+
+c_champagnole = {
+	1337.1.1 = {
+		holder = 455913
+	}
+}
+
+c_lausanne = {
+	1337.1.1 = {
+		holder = 32727
+		liege = d_savoie
+	}
+}
+
+c_setubal = {
+	1337.1.1 = {
+		holder = gildecarvalho
+		liege = k_portugal
+	}
+}
+
+c_mertola = {
+	1337.1.1 = {
+		holder = gildecarvalho
+		liege = k_portugal
+	}
+}
+
+c_silves = {
+	1337.1.1 = {
+		holder = gildecarvalho
+		liege = k_portugal
+	}
+}
+
+c_lagos = {
+	1337.1.1 = {
+		holder = gildecarvalho
+		liege = k_portugal
+	}
+}
+
+c_faro = {
+	1337.1.1 = {
+		holder = gildecarvalho
+		liege = k_portugal
+	}
+}
+
+c_odemira = {
+	1337.1.1 = {
+		holder = gildecarvalho
+		liege = k_portugal
+	}
+}
+
+c_uceda = {
+	1337.1.1 = {
+		holder = gildealbornoz
+		liege = k_castille_leon
+		government = theocracy_government
+	}
+}
+
+c_arganda = {
+	1337.1.1 = {
+		holder = gildealbornoz
+		liege = k_castille_leon
+		government = theocracy_government
+	}
+}
+
+d_knights_santiago_portugal = {
+	1337.1.1 = {
+		holder = gildecarvalho
+		liege = k_portugal
+		government = vassal_holy_order_government
+	}
+}
+
+c_thun = {
+	1337.1.1 = {
+		holder = 33638
+	}
+}
+
+c_lucerne = {
+	1337.1.1 = {
+		holder = 33638
+	}
+}
+
+c_pontarlier = {
+	1337.1.1 = {
+		holder = 455913
+	}
+}
+
+c_antequera = {
+	1337.1.1 = {
+		holder = 487000
+	}
+}
+
+c_trujillo = {
+	1337.1.1 = {
+		holder = 457500
+	}
+}
+
+c_sobrarbe = {
+	1337.1.1 = {
+		holder = 460500
+	}
+}
+
+c_aitona = {
+	1337.1.1 = {
+		holder = 460500
+	}
+}
+
+c_iarconnacht = {
+	1324.1.1 = {
+		holder = 83519
+		liege = k_england
+	}
+}
+
+c_sligo = {
+	1329.1.1 = {
+		holder = maghnussligigh
+		liege = k_england
+	}
+}
+
+c_cavan = {
+	1330.1.1 = {
+		holder = philibbreifne
+		liege = k_england
+	}
+}
+
+c_valenciennes = {
+	1304.1.1 = {
+		holder = 31107
+		liege = d_holland
+	}
+}
+
+c_pinerolo = {
+	1337.1.1 = {
+		holder = 462690
+		liege = d_savoie
+	}
+}
+
+c_santarem = {
+	1337.1.1 = {
+		holder = 459552
+		liege = k_portugal
+	}
+}
+
+c_alburquerque = {
+	1337.1.1 = {
+		holder = 459514
+		liege = k_portugal
+	}
+}
+
+c_arona = {
+	1337.1.1 = {
+		holder = cisalpine0633 
+		liege = d_lombardia
+	}
+}
+
+c_varese = {
+	1337.1.1 = {
+		holder = cisalpine0632
+		liege = d_lombardia
+	}
+}
+
+c_gallarate = {
+	1337.1.1 = {
+		holder = 70779
+		liege = d_lombardia
+	}
+}
+c_marsico = {
+	1337.1.1 = {
+		holder = tommasosanseverino
+		liege = k_naples
+	}
+}
+c_alife = {
+	1337.1.1 = {
+		holder = goffredomarzano
+		liege = k_naples
+	}
+}
+c_sault = {
+	1337.1.1 = {
+		holder = raymonddagoult
+		liege = k_naples
+	}
+}
+c_castellane = {
+	1337.1.1 = {
+		holder = bonifacecastellane
+		liege = k_naples
+	}
+}
+c_bricquebec = {
+	1337.1.1 = {
+		holder = robertbertrand
+		liege = d_normandy
+	}
+}
+c_saint_sauveur = {
+	1337.1.1 = {
+		holder = geoffroyharcourt
+		liege = d_normandy
+	}
+}
+c_molay_littry = {
+	1337.1.1 = {
+		holder = rogerbacon
+		liege = d_normandy
+	}
+}
+c_chateauroux = {
+	1337.1.1 = {
+		holder = guydechauvigny
+		liege = k_france
+	}
+}
+c_deols = {
+	1337.1.1 = {
+		holder = guydechauvigny
+		liege = k_france
+	}
+}
+c_berat = {
+	1337.1.1 = {
+		holder = andreamuzaka
+		liege = d_dyrrachion
+	}
+}
+c_matia = {
+	1337.1.1 = {
+		holder = tanushtopia
+		liege = d_dyrrachion
+	}
+}
+d_montferrat = {
+	1337.1.1 = {
+		holder = 465520
+	}
+}
+c_graben = {
+	1325.1.1 = {
+		holder = ulrichgraben
+		liege = d_osterreich
+	}
+}
+c_krk = {
+	1337.1.1 = {
+		holder = 470021
+	}
+}
+c_dorogobyzh = {
+	1337.1.1 = {
+		holder = 472514
+	}
+}
+c_vyazma = {
+	1337.1.1 = {
+		holder = 472514
+	}
+}
+c_mologa = {
+	1337.1.1 = {
+		holder = 472640
+	}
+}
+c_pronsk = {
+	1337.1.1 = {
+		holder = 472630
+	}
+}
+c_leipa = {
+	1337.1.1 = {
+		holder = jindrichzlipe
+		liege = k_bohemia
+	}
+}
+c_aegeae = {
+	1337.1.1 = {
+		holder = 461800
+	}
+}
+c_soloi = {
+	1337.1.1 = {
+		holder = 461800
+	}
+}
+c_naupaktos = {
+	1337.1.1 = {
+		holder = 461718
+	}
+}
+c_angelokastro = {
+	1337.1.1 = {
+		holder = 461718
+	}
+}
+c_chalandritsa = {
+	1337.1.1 = {
+		holder = 31464
+		liege = d_achaia
+	}
+}
+c_phocaea = {
+	1337.1.1 = {
+		holder = 31464
+		liege = d_achaia
+	}
+}
+c_selymbria = {
+	1337.1.1 = {
+		holder = alexiosapokaukos
+		liege = e_byzantium
+	}
+}
+c_patras = {
+	1317.1.1 = {
+		holder = williamfrangipani
+		liege = d_achaia
+		government = theocracy_government
+	}
+}
+c_andravida = {
+	1337.1.1 = {
+		holder = niccoloacciaiuoli
+		liege = d_achaia
+	}
+}
+
+c_freudenstein = {
+	1337.1.1 = {
+		holder = eberhardwalsee
+		liege = d_osterreich
+	}
+}
+
+c_ortenburg_carinthia = {
+	1337.1.1 = {
+		holder = meinhardortenburg
+		liege = d_osterreich
+	}
+}
+c_kapfenburg = {
+	1337.1.1 = {
+		holder = friedrichstubenberg
+		liege = d_osterreich
+	}
+}
+
+c_monsanto = {
+	1337.1.1 = {
+		holder = 142886
+		liege = k_portugal
+	}
+}
+
+d_foix = {
+	1337.1.1 = {
+		holder = 455540
+		liege = k_france
+	}
+}
+
+c_jaffa_titular = {
+	1268.1.1 = {
+		holder = 144189
+	}
+	1276.1.1 = {
+		holder = 144188
+	}
+	1304.1.1 = {
+		holder = 10002007
+	}
+	1316.1.1 = {
+		holder = 10002008
+		liege = k_cyprus
+	}
+}
+c_giblet_titular = {
+	1334.1.1 = {
+		holder = 10002003
+		liege = k_cyprus
+	}
+}
+c_arsuf_titular = {
+	1309.1.1 = {
+		holder = 10002022
+		liege = k_cyprus
+	}
+}
+c_beirut_titular = {
+	1326.1.1 = {
+		holder = eschivedemontfort
+		liege = k_cyprus
+	}
+}
+c_tyre_titular = {
+	1323.1.1 = {
+		holder = 461918
+		liege = k_cyprus
+	}
+}
+
+c_sanlucar = {
+	1337.1.1 = {
+		holder = 458011
+		liege = k_castille_leon
+	}
+}
+
+c_medina_sidonia = { # Medina Sidonia, Juan Alonso Pérez de Guzmán, transferred to Ponce de Leon?
+	1337.1.1 = {
+		holder = 458011
+		liege = k_castille_leon
+	}
+}
+
+c_aguilarcampoo = {
+	1337.1.1 = {
+		holder = 457502 # Pedro d'Aguilar
+		liege = k_castille_leon
+	}
+}
+c_bejar = {
+	1337.1.1 = {
+		holder = 457503
+		liege = k_castille_leon
+	}
+}
+
+c_haro = {
+	1337.1.1 = {
+		holder = 456510
+		liege = k_castille_leon
+	}
+}
+c_norena = {
+	1337.1.1 = {
+		holder = 457510
+		liege = k_castille_leon
+	}
+}
+
+c_monfortedelemos = {
+	1337.1.1 = {
+		holder = 457670
+		liege = k_castille_leon
+	}
+}
+
+c_vilalba = {
+	1337.1.1 = {
+		holder = 457670
+		liege = k_castille_leon
+	}
+}
+
+c_ponferrada = {
+	1337.1.1 = {
+		holder = 457670
+		liege = k_castille_leon
+	}
+}
+
+c_albornoz = {
+	1337.1.1 = {
+		holder = alvardealbornoz
+		liege = k_castille_leon
+	}
+}
+
+c_ucles = {
+	1337.1.1 = {
+		holder = 73145
+		liege = k_castille_Leon
+	}
+}
+
+c_orduna = {
+	1337.1.1 = {
+		holder = 72034
+		liege = k_castille_leon
+	}
+}
+
+c_villegas = { # Pedro Ruiz II de Villegas
+	1337.1.1 = {
+		holder = pedroruizdevillegas
+		liege = k_castille_leon
+	}
+}
+
+c_torrelevega = { # Garcilasio Vega
+	1337.1.1 = {
+		holder = garcilasodelavega
+		liege = k_castille_leon
+	}
+}
+
+c_villalbadelosbarros = { # Enrique Enriquez
+	1337.1.1 = {
+		holder = 71467
+		liege = k_castille_leon
+	}
+}
+
+c_alcantara = {
+	1337.1.1 = {
+		holder = gonzalodeoviedo
+	}
+}
+
+c_la_serena = {
+	1337.1.1 = {
+		holder = gonzalodeoviedo
+	}
+}
+
+d_knights_alcantara = {
+	1337.1.1 = {
+		holder = gonzalodeoviedo
+		de_jure_liege = k_castille_leon
+		liege = k_castille_leon
+		government = vassal_holy_order_government
+		succession_laws = { holy_order_succession_law }
+	}
+}
+
+d_knights_santiago = {
+	1171.1.1 = {
+		holder = 72363 # Pedro de Castro
+		liege = k_castille_leon
+	}
+	1337.1.1 = {
+		holder = 73145
+		de_jure_liege = k_castille_leon
+		liege = k_castille_leon
+		government = vassal_holy_order_government
+		succession_laws = { holy_order_succession_law }
+	}
+}
+
+c_villarejodesalvanes = {
+	1337.1.1 = {
+		holder = 73145
+		liege = k_castille_leon
+	}
+}
+
+c_hornachos = {
+	1337.1.1 = {
+		holder = 73145
+		liege = k_castille_leon
+	}
+}
+
+c_meneses_de_campos = {
+	1337.1.1 = {
+		holder = afonsoraposo
+		liege = k_castille_leon
+	}
+}
+
+c_joinville = {
+	1337.1.1 = {
+		holder = 462650
+		liege = k_france
+	}
+}
+
+c_tremoille = {
+	1337.1.1 = {
+		holder = guydelatremoille
+		liege = k_france
+	}
+}
+
+c_guimaraes = {
+	1337.1.1 = {
+		holder = 142095
+		liege = k_portugal
+	}
+}
+
+c_leomil = {
+	1337.1.1 = {
+		holder = vascocoutinho
+		liege = k_portugal
+	}
+}
+
+c_ataide = {
+	1337.1.1 = {
+		holder = martimdeataide
+		liege = k_portugal
+	}
+}
+
+c_wislica = {
+	1319.1.1 = {
+		holder = 471560
+		liege = k_poland
+	}
+}
+
+c_nur = {
+	1313.1.1 = {
+		holder = 471515
+	}
+}
+
+c_rawa = {
+	1313.1.1 = {
+		holder = 471515
+	}
+}
+
+c_swidnica = {
+	1326.5.6 = {
+		holder = 471700
+		liege = k_bohemia
+	}
+}
+
+
+d_knights_calatrava = {
+	1164.1.1 = {
+		holder = 73150
+		liege = k_castille_leon
+		de_jure_liege = k_castille_leon
+	}
+	1169.1.1 = {
+		holder = 73151
+	}
+	1170.1.1 = {
+		holder = 73152
+	}
+	1182.1.1 = {
+		holder = 73153
+	}
+	1199.1.1 = {
+		holder = 224003
+	}
+	1207.1.1 = {
+		holder = 73154
+	}
+	1212.1.1 = {
+		holder = 73155
+	}
+	1216.1.1 = {
+		holder = 73156
+	}
+	1218.1.1 = {
+		holder = 73157
+	}
+	1238.1.1 = {
+		holder = 73158
+	}
+	1240.1.1 = {
+		holder = 73159
+	}
+	1243.1.1 = {
+		holder = 73160
+	}
+	1254.1.1 = {
+		holder = 73161
+	}
+	1267.1.1 = {
+		holder = 72690
+	}
+	1285.1.1 = {
+		holder = 73085
+	}
+	1295.1.1 = {
+		holder = 73162
+	}
+	1296.1.1 = {
+		holder = 73163
+	}
+	1322.1.1 = {
+		holder = 457015
+		liege = k_castille_leon
+		government = vassal_holy_order_government
+		succession_laws = { holy_order_succession_law }
+	}
+}
+
+c_maqueda = {
+	1322.1.1 = {
+		holder = 457015
+		liege = k_castille_leon
+	}
+}
+
+c_pedroche = {
+	1322.1.1 = {
+		holder = 457015
+		liege = k_castille_leon
+	}
+}
+
+c_segovia = {
+	1337.1.1 = {
+		holder = segoviaplaceholder
+		liege = k_castille_leon
+		government = republic_government
+	}
+}
+
+c_atienza = {
+	1337.1.1 = {
+		holder = atienzaplaceholder
+		liege = k_castille_leon
+		government = republic_government
+	}
+}
+
+c_medinaceli = {
+	1337.1.1 = {
+		holder = medinaceliplaceholder
+		liege = k_castille_leon
+		government = republic_government
+	}
+}
+
+d_villena = {
+	1266.1.1 = {
+		holder = 457621
+		liege = k_castille_leon
+	}
+	1337.1.1 = {
+		holder = 457630
+		liege = k_castille_leon
+	}
+}
+
+c_siguenza = {
+	1337.1.1 = {
+		holder = alonsodezamora
+		liege = k_castille_leon
+		government = theocracy_government
+	}
+}
+
+c_lugo = {
+	1337.1.1 = {
+		holder = 457670
+		liege = k_castille_leon
+	}
+}
+
+c_braga = {
+	1337.1.1 = {
+		holder = goncalopereira
+		liege = k_portugal
+	}
+}
+
+c_crato = {
+	1337.1.1 = {
+		holder = alvaropereira
+		liege = k_portugal
+	}
+}
+
+c_iglesias = {
+	1337.1.1 = {
+		holder = 460500
+	}
+}
+
+c_samassi = {
+	1337.1.1 = {
+		holder = 460500
+	}
+}
+
+c_carbonara = {
+	1337.1.1 = {
+		holder = 460500
+	}
+}
+
+c_galtelli = {
+	1337.1.1 = {
+		holder = 460500
+	}
+}
+
+c_ardara = {
+	1337.1.1 = {
+		holder = 144538
+	}
+}
+
+d_arborea = {
+	1337.1.1 = {
+		holder = 144538
+		liege = k_aragon
+	}
+}
+
+c_mistretta = {
+	1337.1.1 = {
+		holder = blascoalagona
+		liege = k_trinacria
+	}
+}
+
+c_medici = {
+	1337.1.1 = {
+		holder = florence_000
+		liege = d_firenze
+		succession_laws = { male_only_law }
+	}
+}
+c_strozzi = {
+	1337.1.1 = {
+		holder = florence_003
+		liege = d_firenze
+		succession_laws = { male_only_law }
+	}
+}
+c_pazzi = {
+	1337.1.1 = {
+		holder = florence_001
+		liege = d_firenze
+		succession_laws = { male_only_law }
+	}
+}
+c_albizzi = {
+	1337.1.1 = {
+		holder = florence_002
+		liege = d_firenze
+		succession_laws = { male_only_law }
+	}
+}
+c_acciaiuoli = {
+	1337.1.1 = {
+		holder = florence_004
+		liege = d_firenze
+	}
+}
+
+c_lectoure = {
+	1337.1.1 = {
+		holder = 455640
+		liege = k_france
+	}
+}
+
+c_bonifacio = {
+	1337.1.1 = {
+		holder = cisalpine0259 
+	}
+}
+
+c_corte = {
+	1337.1.1 = {
+		holder = cisalpine0259 
+	}
+}
+
+c_calvi = {
+	1337.1.1 = {
+		holder = cisalpine0259 
+	}
+}
+
+c_primda = {
+	1337.1.1 = {
+		holder = zbynekzajic
+		liege = k_bohemia
+	}
+}
+
+c_domazlice = {
+	1337.1.1 = {
+		holder = zbynekzajic
+		liege = k_bohemia
+	}
+}
+
+c_decin = {
+	1337.1.1 = {
+		holder = vanekvartenberk
+		liege = k_bohemia
+	}
+}
+
+c_svamberk = {
+	1337.1.1 = {
+		holder = bohuslavsvamberk
+		liege = k_bohemia
+	}
+}
+
+c_neuhaus = {
+	1337.1.1 = {
+		holder = ulrichvonneuhaus
+		liege = k_bohemia
+	}
+}
+
+c_sternberk = {
+	1337.1.1 = {
+		holder = 470160
+		liege = k_bohemia
+	}
+}
+
+c_sponheim = {
+	1337.1.1 = {
+		holder = 33133
+		liege = e_hre
+	}
+}
+
+c_fano = {
+	1337.1.1 = {
+		holder = 73600
+		liege = 0
+	}
+}
+
+c_gallicano = {
+	1337.1.1 = {
+		holder = colonna_1108
+		liege = k_papal_state
+	}
+}
+
+c_lacarre = {
+	1337.1.1 = {
+		holder = 71560
+		liege = k_navarra
+	}
+}
+
+c_gustrow = {
+	1337.1.1 = {
+		holder = 30576
+		liege = d_nordmark
+	}
+}
+
+k_anatolia = {
+	1199.1.1 = {
+		holder = 223000 #Levon I Rubenid
+	}
+	1219.5.2 = {
+		holder = 30998 #Zabel I Rubenid
+	}
+	1226.1.1 = {
+		holder = 31830 #Hethun I
+	}
+	1270.10.28 = {
+		holder = 461802 #Levon II
+	}
+	1289.1.1 = {
+		holder = 31857 #Hethum II
+	}
+	1293.1.1 = {
+		holder = 461801 #Thoros I
+	}
+	1294.1.1 = {
+		holder = 31857 #Hethum II
+	}
+	1296.1.1 = {
+		holder = 31860 #Smbat I
+	}
+	1298.1.1 = {
+		holder = 31879 #Gosdantin I
+	}
+	1299.1.1 = {
+		holder = 31857 #Hethum II
+	}
+	1305.1.1 = {
+		holder = 31878 #Levon III
+	}
+	1307.1.1 = {
+		holder = 461803 #Oshim I
+	}
+	1320.7.20 = {
+		holder = 461800 #Levon IV
+	}
+}
+
+c_philadelphia = {
+	1337.1.1 = {
+		holder = manueltagaris
+		liege = e_byzantium
+	}
+}
+
+c_capranica = {
+	1337.1.1 = {
+		holder = 478501
+	}
+}
+
+c_finale = {
+	1337.1.1 = {
+		holder = 71118
+	}
+}
+
+c_saint_pol = {
+	1337.1.1 = {
+		holder = 161363
+		liege = k_france
+	}
+}
+
+c_kilkenny = {
+	1337.1.1 = {
+		holder = gilbertbohun
+		liege = k_england
+	}
+}
+
+c_athy = {
+	1337.1.1 = {
+		holder = angloirish_0189
+		liege = k_england
+	}
+}
+
+c_carlow = {
+	1337.1.1 = {
+		holder = 454550
+		liege = k_england
+	}
+}
+
+c_ferns = {
+	1337.1.1 = {
+		holder = 453400
+		liege = k_england
+	}
+}

@@ -1,0 +1,4 @@
+﻿bm_hundred_years_war = {
+	start_date = 1337.1.1
+	is_playable = yes
+}
